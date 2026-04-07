@@ -229,7 +229,8 @@ function setCat(cat){
 window.addEventListener("DOMContentLoaded",function(){
   document.getElementById("results").innerHTML='<div class="no-results"><div class="emoji">&#128679;</div><p>欢迎使用 AllegroSupport 知识库</p><p style="margin-top:.5rem;font-size:.85rem;color:var(--text2);">共 71 条问答对 - 覆盖 8 个业务场景<br>试试：booking SO / VD move / 报关 / BL code / free time</p></div>';
 });
+window.doSearch = doSearch;
 })();
-console.log("[AllegroKB] v3 loaded. QA_DATA:", typeof QA_DATA !== "undefined" ? QA_DATA.length : "MISSING");</script>
+console.log("[AllegroKB] v4 loaded. doSearch exposed:", typeof doSearch === 'function');</script>
 </body>
 </html>
