@@ -1,0 +1,37 @@
+# Byte offset markers
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+logs/
+
+# Local data (contains potentially sensitive email data)
+data/*.json
+data/*.txt
+!data/README.md
+
+# Database
+database/*.db
+database/*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Temp files
+*.tmp
+*.bak
+_*.py
