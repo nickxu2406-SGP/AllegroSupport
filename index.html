@@ -138,7 +138,7 @@ var BOOKING_BOOST_KW={"booking":1,"so":1,"slot":1,"vd":1,"route":1,"pol":1,"pod"
 
 function extractKeywords(text){
   if(!text)return{};
-  var en=(text.toLowerCase().match(/[a-z]+/g)||[]).filter(function(w){return w.length>2&&!STOPWORDS[w];});
+  var en=(text.toLowerCase().match(/[a-z]+/g)||[]).filter(function(w){return w.length>=2&&!STOPWORDS[w];});
   var result={};en.forEach(function(w){result[w]=1;});
   var cn=(text.match(/[\u4e00-\u9fff]+/g)||[]);
   cn.forEach(function(chunk){for(var i=0;i<chunk.length-1;i++){result[chunk.slice(i,i+2)]=1;if(i<chunk.length-2)result[chunk.slice(i,i+3)]=1;}});
