@@ -1,0 +1,70 @@
+{
+  "id": "qa_1",
+  "version": 1,
+  "question": {
+    "text": "Dear Sir,\r\n\r\n \r\n\r\nNoted yours and will inform all POL office to correct the POD/DEL accordingly.\r\n\r\n \r\n\r\nFor your information, we are currently encountering an issue while updating the VD move for containers discharged at Fujairah Terminal. \r\n\r\nThe system is showing the error: “Event Yard is different from Login Office.” May be the yard location AEFJRT01 need to be mapped under the AE region.\r\n\r\n \r\n\r\nAdditionally, please note that DDS calculation will commence only once the containers are grounded/reached at Jebel Ali. \r\n\r\nAccordingly, when updating POD and DEL details would be as follows:\r\n\r\n*\tPort of Discharge (POD)         : AEFJR / AEKLF\r\n*\tDelivery Point (DEL)                : AEJEAT01 / AEJEAT02 / AEJEAT03\r\n\r\n \r\n\r\nRequest your confirmation on the above, so that we can instruct all PO",
+    "original_email_id": "migrated_qa_1_q",
+    "sender_name": "Siraj - National Shipping",
+    "sender_email": "siraj@nationaldubai.ae",
+    "sent_at": "2026-03-31T16:51:00Z",
+    "summary": "Dear Sir, Noted yours and will inform all POL office to correct the POD/DEL accordingly. For your in...",
+    "keywords": [
+      "discharge",
+      "error",
+      "POL",
+      "DEL",
+      "system",
+      "VD",
+      "container",
+      "订舱操作",
+      "login",
+      "POD"
+    ]
+  },
+  "answer": {
+    "text": "Dear Siraj,\r\n\r\nPlease try again, should be in order now, thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, March 31, 2026 at 16:51\r\nTo: Sean Wang/CUL-CN/Agency Mgt <seanwang@culines.com>, Boris Yang/CUL-CN/CS <borisyang@culines.com>, Anakha Arun/CUL-West Asia <anakhaarun@culines.com>, CUL West Asia Trade <wat@culines.com>, Hardy Hou/CUL-West Asia <hardyhou@culines.com>, #CUL Long Haul <longhaul@culines.com>, Wanyu,Toh/CUL-SG/LH Trade <wanyutoh@culines.com>, Laveena <laveena@nationaldubai.ae>, kamran@na",
+    "original_email_id": "migrated_qa_1_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_1@culines.com",
+    "sent_at": "2026-04-07T12:15:00Z",
+    "summary": "Dear Siraj, Kieran Ji / 季胤喆 System Engineer Digital & IT Department",
+    "keywords": [
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_1",
+    "path": "../raw/threads/thread_qa_1.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "Update the Route detail related to AEJEAT01 in Allegro"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

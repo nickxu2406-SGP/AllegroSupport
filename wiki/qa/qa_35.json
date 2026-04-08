@@ -1,0 +1,65 @@
+{
+  "id": "qa_35",
+  "version": 1,
+  "question": {
+    "text": "Dear all,\r\n\r\n \r\n\r\nBL#CULVSHA2603420\r\n\r\n主题单并单的时候系统卡顿，导致并了两次单，现在booking出现重复，SI无法上传，请帮忙解决，谢谢。\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nThanks & Best regards.\r\n\r\n \r\n\r\nCody Zeng / 曾家俊\r\n\r\nDocument Specialist\r\n\r\nDocument Center\r\n\r\nE-mail: codyzeng@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/>",
+    "original_email_id": "migrated_qa_35_q",
+    "sender_name": "Document Center3",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=9188faeebfc74ceb93bf0c2f3d98e95f-d6ed8fc5-f1",
+    "sent_at": "2026-03-11T08:59:00Z",
+    "summary": "Dear all, BL#CULVSHA2603420 主题单并单的时候系统卡顿，导致并了两次单，现在booking出现重复，SI无法上传，请帮忙解决，谢谢。 Cody Zeng / 曾家俊 Docu...",
+    "keywords": [
+      "booking",
+      "订舱操作",
+      "BL"
+    ]
+  },
+  "answer": {
+    "text": "Dear Cody,\r\n\r\n已提交这个问题给供应商，后续将做优化避免改情况发生。对于本次重复booking的修复，由于直接通过数据库进行删除有一定风险，需要时间评估相关影响，建议直接通过前端Cancel其中一票，谢谢～\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 11, 2026 at 08:59\r\n\nSubject: BL#CULVSHA2603420\r\n\r\n\r\n\r\n \r\n\r\nDear all,\r\n\r\n \r\n\r\nBL#CULVSHA2603420\r\n\r\n主题单并单的时候系统卡顿，导致并了两次单，现在booking出现重复，SI无法上传，请帮忙解决，谢谢。\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nThanks & Best regards.\r\n\r\n \r\n\r\nCody Zeng / 曾家俊\r\n\r\nDocument Specialist\r\n\r\nDocument Center\r\n\r\nE-mail: codyzeng@culines.",
+    "original_email_id": "migrated_qa_35_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_35@culines.com",
+    "sent_at": "2026-03-11T14:39:00Z",
+    "summary": "Dear Cody, 已提交这个问题给供应商，后续将做优化避免改情况发生。对于本次重复booking的修复，由于直接通过数据库进行删除有一定风险，需要时间评估相...",
+    "keywords": [
+      "booking",
+      "订舱操作",
+      "BL",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_35",
+    "path": "../raw/threads/thread_qa_35.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "BL#CULVSHA2603420"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

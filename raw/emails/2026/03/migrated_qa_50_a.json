@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_50_a",
+  "conversationId": "thread_qa_50",
+  "internetMessageId": "<migrated-qa_50-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_50@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Easton SI/CUL-CN/Agency Mgt",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-05T15:18:00Z",
+  "sentDateTime": "2026-03-05T15:18:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Ezgi,\r\n\r\nPlease find attached quick manual I sent your team yesterday. Any problem, please feel free to let us know.Thanks!\r\n\r\n\r\n1.\tHow to approve customer registrer :\r\n\r\n          →Please go to eserviceadm.culines.com <https://eserviceadm.culines.com/>  and log in with your ecommence ID & PW we provided before. (ID: MTIST    PW:Aa12345!)\r\n          →Please refer to attched manual 'E-service Admin' and 'Partner Management'\r\n\r\n\r\n2.\t\r\n\tHow to handle e-booking\r\n\r\n          →Please go to https://ops.culines.com/ <https://ops.culines.com/>  and log in with your allegro user ID & PW\r\n\r\n          →Please refer to the manual 'BKG 202310 Part A'  and 'BKG 202310 Part B'\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanne"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_50",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

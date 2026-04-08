@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_21_a",
+  "conversationId": "thread_qa_21",
+  "internetMessageId": "<migrated-qa_21-a@allegro-support>",
+  "subject": "Re: madina@dssdjibouti.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_21@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Madina Mohamed Ali - DJSS",
+        "address": "madina@dssdjibouti.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-18T18:19:00Z",
+  "sentDateTime": "2026-03-18T18:19:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Madina,\r\n\r\nPlease try to change Occupy to 1 so that the container quantity will be correctly shown as 2.\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 18, 2026 at 14:30\r\n\nSubject: RE: SPLIT BOOKING ISSUE--CULVJIB2600032 (MASTER BILL)\r\n\r\n\r\n\r\nDear @Joanne Ding/CUL-CN/IT <mail"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_21",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

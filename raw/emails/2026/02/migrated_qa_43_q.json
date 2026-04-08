@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_43_q",
+  "conversationId": "thread_qa_43",
+  "internetMessageId": "<migrated-qa_43-q@allegro-support>",
+  "subject": "henny.irnawati@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Henny Cut Irnawati",
+      "address": "henny.irnawati@samudera.id"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-27T13:30:00Z",
+  "sentDateTime": "2026-02-27T13:30:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Easton, MIchael,\r\nPls find the updated user list\r\n\r\nThank you\r\n\r\n\r\nBest Regards,\r\n\r\n\r\nHenny Cut Irnawati\r\n\r\nTraffic and Document Manager - GENA\r\n\r\nPT Samudera Agencies Indonesia\r\n\r\nLetjen S. Parman St No.Kav. 35, Kemanggisan, Palmerah, West Jakarta City, Jakarta 11480, Indonesia\r\n\r\np: (021) 5300580 ext 87271\r\n\r\nm: +6282110291033\r\n\r\ne: henny.irnawati@samudera.id <mail\n\r\noffice operational hours during month of Ramadan (20 Feb 2026 - 20 March 2026): 08:00 - 16:00 JKT local time \r\n\r\n\r\nOn Fri, Feb 27, 2026 at 10:07 AM Michael Zhao/CUL-PH <michaelzhao@culines.com <mail\n\r\n\r\n\tAdding Raras\r\n\r\n\tDear Raras & Indani\r\n\tPls have your assist update IDN team  contact list ,thanks\r\n\r\n\r\n\t\r\n\t\r\n\r\n\tBest Regards,\r\n\r\n\tMichael Zhao/赵怀方"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_43",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

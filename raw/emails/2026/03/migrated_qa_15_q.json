@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_15_q",
+  "conversationId": "thread_qa_15",
+  "internetMessageId": "<migrated-qa_15-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e2c8e3180ecc4f0299445e2ee5e928fe-40c4651c-87",
+  "sender": {
+    "emailAddress": {
+      "name": "Chris Nguyen/CUL-VN/OP",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e2c8e3180ecc4f0299445e2ee5e928fe-40c4651c-87"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-20T15:06:00Z",
+  "sentDateTime": "2026-03-20T15:06:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Allegro Support Team,\r\n\r\n\r\nAs per attached from Trade, please help set up POD agent for new POD: AEKLF (same as AEJEA). Thank you,\r\n\r\n\r\nNATIONAL SHIPPING SERVICES LLC\r\nSHARAF BUILDING 1ST FLOOR  OFFICE NO  101,OPP BUR JUMAN METRO STATION, KHALID BIN WALEED ST\r\n971-43709208/LAVEENA/IMPORTCUL@NATIONALDUBAI.AE \r\n\r\n\r\n\r\n\r\n\r\nBest Regards,\r\nChris Nguyen / Tiến (Mr.)\r\nSupervisor, CS & Documentation\r\nCS & Documentation Department\r\nTel: +84 28 39393920 – Ext 120\r\nWeb: www.culines.com\r\n15th Floor, Doji Tower, No. 81-83-83B-85 Ham Nghi Street, Sai Gon Ward, Ho Chi Minh City, Vietnam\r\nE-services: https://eservice.culines.com/ \r\nE-mail: chrisnguyen@culines.com <mail"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_15",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

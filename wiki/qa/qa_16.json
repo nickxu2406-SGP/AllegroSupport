@@ -1,0 +1,64 @@
+{
+  "id": "qa_16",
+  "version": 1,
+  "question": {
+    "text": "Hi, dear IT team @#CUL Allegro Support <mail\n\r\nKindly REMINDER\r\n\r\n\r\n\r\n\r\n\r\n감사합니다.\r\n\r\n\r\nBest regards,\r\n\r\nJANET KIM\r\nCustomer Service & Documentation\r\nBen Line Agencies – Korea\r\nAs agents only\r\nTel 070-4699-6920 \r\n\r\nJanet.Jin@benline.com\r\n\r\nhttps://benline.com <https://benline.com/> \r\n\r\n\r\n\r\n\r\nBen Line Agencies (Liner) Customer Feedback Form <https://forms.office.com/pages/responsepage.aspx?id=SMexj5May0qnGkwH0vBVxF7vwhAQ-qdAmoPBBVP23cFUQUdXVk5COE5WMzk4UjNKVVVNRkVPNllDQS4u&route=shorturl> \r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月20日 11:47\r\n\n主题: URGENT!! NEED IT",
+    "original_email_id": "migrated_qa_16_q",
+    "sender_name": "Janet JIN",
+    "sender_email": "janet.jin@benline.com",
+    "sent_at": "2026-03-20T14:29:00Z",
+    "summary": "Hi, dear IT team @#CUL Allegro Support <mail Kindly REMINDER 감사합니다. JANET KIM Customer Service & Doc...",
+    "keywords": [
+      "报关操作",
+      "Allegro",
+      "route"
+    ]
+  },
+  "answer": {
+    "text": "Hi Janet,\r\n\r\nThe service scope in the agreement is CRS, while in the booking freight is AEU, which doesn't match, so the calculation cannot be performed.\r\nPlease confirm with the trade team which one is correct.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 20, 2026 at 14:29\r\n\nSubject: REMINDER URGENT!! NEED IT SUPPORT CONTRACT NO INQUIRY CULVINC2600168 A26Q35412\r\n\r\n\r\nHi,",
+    "original_email_id": "migrated_qa_16_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_16@culines.com",
+    "sent_at": "2026-03-20T14:38:00Z",
+    "summary": "Hi Janet, The service scope in the agreement is CRS, while in the booking freigh...",
+    "keywords": [
+      "booking",
+      "报关操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_16",
+    "path": "../raw/threads/thread_qa_16.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "报关操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "REMINDER URGENT!! NEED IT SUPPORT CONTRACT NO INQUIRY CULVINC2600168 A26Q35412"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

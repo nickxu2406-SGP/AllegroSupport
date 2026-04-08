@@ -1,0 +1,62 @@
+{
+  "id": "qa_28",
+  "version": 1,
+  "question": {
+    "text": "Dear Kieran, \r\n\r\nAuto-rating is not capturing new WRS updated in system on 5/3. Kindly assist to check and advise. \r\n\r\nPOR - DJJIB @ USD250 / USD 500\r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nSiti Aisha\r\n\r\nLong Haul Trade\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01,\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\nSubject: RE:",
+    "original_email_id": "migrated_qa_28_q",
+    "sender_name": "Siti Aisha/CUS-SG/LH Trade",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3edaacba8e9a4ed09c4959d44bc5855f-47e4d4a0-3a",
+    "sent_at": "2026-03-16T16:24:00Z",
+    "summary": "Dear Kieran, Auto-rating is not capturing new WRS updated in system on 5/3. Kindly assist to check a...",
+    "keywords": [
+      "订舱操作",
+      "system"
+    ]
+  },
+  "answer": {
+    "text": "Dear Siti,\r\n\r\nAs shown in the screenshot , both highlighted lines meet the conditions, and No. 2 has a higher priority than No. 8, so the system picked No. 2 first.\r\n\r\nIf you want No. 8 to take priority, you can do any of the following:\r\n\r\n1.\t\r\n\tChange the Validity From Date of No. 8 to a later date than No. 2\r\n2.\t\r\n\tAdd one more condition to No. 8, for example Cargo Type\r\n3.\t\r\n\tReorder them so that No. 8 is placed before No. 2\r\n\r\n\r\nAny of these will make No. 8 take higher priority.\r\n\r\n\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: Siti Aisha/CUS-SG/LH Trade <sitiaisha@",
+    "original_email_id": "migrated_qa_28_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_28@culines.com",
+    "sent_at": "2026-03-16T17:46:00Z",
+    "summary": "Dear Siti, As shown in the screenshot , both highlighted lines meet the conditio...",
+    "keywords": [
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_28",
+    "path": "../raw/threads/thread_qa_28.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "Booking Confirmation – PIL Vessel KMAK0333W"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

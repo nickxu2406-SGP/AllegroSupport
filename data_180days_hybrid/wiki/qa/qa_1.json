@@ -1,0 +1,38 @@
+{
+  "id": "qa_1",
+  "classification": {
+    "category": "其他",
+    "confidence": 0.8,
+    "tags": []
+  },
+  "question": {
+    "text": "",
+    "summary": "...",
+    "keywords": [],
+    "sender": {
+      "name": "Ricky Qin/CUL-CN/IT",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+      "role": "external"
+    }
+  },
+  "answer": {
+    "text": "",
+    "summary": "...",
+    "responder": {
+      "name": "",
+      "email": "",
+      "role": "support"
+    }
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "completeness": "complete"
+  },
+  "history": [
+    {
+      "action": "created",
+      "timestamp": "2026-04-07T22:51:12.381539",
+      "note": "180天混合采集"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_19_a",
+  "conversationId": "thread_qa_19",
+  "internetMessageId": "<migrated-qa_19-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_19@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-19T14:47:00Z",
+  "sentDateTime": "2026-03-19T14:47:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Ezgi,\r\n\r\nPlease try to delete below setting in special note.\r\nBesides, as I advised before, please auto-rate after SI uploaded to avoid any mistake. Thanks~\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月18日 22:12\r\n收件人: Ezgi KUNT ONUK <ezgi@martiz.com>; Kris Cao/CUL-TR <kriscao@culines.com>; Cici Chu/CUL-CN/SH Trade <cicichu@culines.com>; Marketing <marketing@martiz.com>; Sule Mese/CUL-TR/Sales <sule.mese@culines.com>; Özgür ÖZTÜRK <ozgur@martiz.com>; #CUL TR Sales <trsales@culines.com>; #CUL Allegro Support <allegrosu"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_19",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

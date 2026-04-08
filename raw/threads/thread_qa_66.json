@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_66",
+  "subject": "回复: =Urgent=: HOD misdeclaration - Reexport  CULVSHK2528832//2x40 (TLCU5928572 and CULU6336391) + 1x20 (DFSU 2687754)",
+  "emails": [
+    {
+      "$ref": "../emails/2026/01/migrated_qa_66_q.json"
+    },
+    {
+      "$ref": "../emails/2026/01/migrated_qa_66_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Sean Wang/CUL-CN/Agency Mgt",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09",
+      "role": "external"
+    },
+    {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "email": "responder_qa_66@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-01-27T16:25:00Z",
+  "last_email_at": "2026-01-28T14:26:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_66",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

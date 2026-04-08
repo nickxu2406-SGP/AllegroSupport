@@ -1,0 +1,62 @@
+{
+  "id": "qa_61",
+  "version": 1,
+  "question": {
+    "text": "Dear Easton,\r\n\r\nI tried sending an email to EMT@culines.com <mail\n\r\nThank you.\r\n\r\n\r\n\t  \tRaka Pandam Guritno\t\r\nFinance and Administration Dept Head\r\nGeneral Agency Division\t\r\n\r\nPT Samudera Agencies Indonesia\r\nSamudera Indonesia Building 3rd Floor\r\nJl. Letjen S. Parman Kav. 35, Jakarta Barat 11480, Indonesia\r\n      \r\ne: raka.guritno@samudera.id <mail\n\r\n\r\n <https://quickchart.io/chart?cht=qr&chs=100x100&chld=L&choe=UTF-8&chl=BEGIN%3AVCARD%0AVERSION%3A2.1%0AN%3ARaka+Pandam+Guritno%0AORG%3APT+Samudera+Agencies+Indonesia%0ATITLE%3AFinance+and+Administration+Dept+Head+-+General+Agency+Division%0ATEL%3Bw",
+    "original_email_id": "migrated_qa_61_q",
+    "sender_name": "Raka Pandam Guritno",
+    "sender_email": "raka.guritno@samudera.id",
+    "sent_at": "2026-02-13T16:25:00Z",
+    "summary": "Dear Easton, I tried sending an email to EMT@culines.com <mail Thank you. Raka Pandam Guritno Financ...",
+    "keywords": [
+      "其他"
+    ]
+  },
+  "answer": {
+    "text": "Dear Raka,\r\n\r\nPlease check your account info below, thanks!\r\n\r\nID: rakaguritno\r\nPWDD: Aa123456!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, February 13, 2026 at 15:07\r\n\nCc: Michael Zhao/CUL-PH <michaelzhao@culines.com>, Finance Agency <finance.agency@samudera.id>, Diana Paays <diana.paays@samudera.id>, #CUL Commercial <commercial@culines.com>, #CUL Allegro Support",
+    "original_email_id": "migrated_qa_61_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_61@culines.com",
+    "sent_at": "2026-02-13T16:39:00Z",
+    "summary": "Dear Raka, ID: rakaguritno PWDD: Aa123456! Kieran Ji / 季胤喆 System Engineer Digit...",
+    "keywords": [
+      "其他",
+      "Allegro",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_61",
+    "path": "../raw/threads/thread_qa_61.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "其他",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "Username and Password in Allegro"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

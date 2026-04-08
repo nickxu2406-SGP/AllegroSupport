@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_3_a",
+  "conversationId": "thread_qa_3",
+  "internetMessageId": "<migrated-qa_3-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_3@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-04-06T15:35:00Z",
+  "sentDateTime": "2026-04-06T15:35:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Randa,\r\n\r\nPlease follow Colleeh's advise to input 'Add 1 day' but not 'Total 1 day'. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年4月6日 15:26\r\n\n抄送: Darico Dai/CUL-UAE <daricodai@culines.com>; Shilpa Datta/CUL-West Asia <shilpadatta@culines.com>; Yasmine Adel <yasmine.adel@seagloryegypt.com>; Yomna elabd <yomna.elabd@seagloryegypt.com>; Sean Wang/CUL-CN/Agency Mgt <s"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_3",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "qa_197",
+  "classification": {
+    "category": "其他",
+    "confidence": 0.8,
+    "tags": []
+  },
+  "question": {
+    "text": "",
+    "summary": "...",
+    "keywords": [],
+    "sender": {
+      "name": "Bob Wu/CUL-SG/LH Trade",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=493f3ae49ba84c8bb0242c4914d08816-a35b2ee0-93",
+      "role": "external"
+    }
+  },
+  "answer": {
+    "text": "",
+    "summary": "...",
+    "responder": {
+      "name": "",
+      "email": "",
+      "role": "support"
+    }
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "completeness": "complete"
+  },
+  "history": [
+    {
+      "action": "created",
+      "timestamp": "2026-04-07T22:51:12.901577",
+      "note": "180天混合采集"
+    }
+  ]
+}

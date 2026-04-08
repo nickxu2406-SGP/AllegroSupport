@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_58_a",
+  "conversationId": "thread_qa_58",
+  "internetMessageId": "<migrated-qa_58-a@allegro-support>",
+  "subject": "Re: luciagong.sh@suldc.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_58@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "luciagong.sh@suldc.com",
+        "address": "luciagong.sh@suldc.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-26T15:23:00Z",
+  "sentDateTime": "2026-02-26T15:23:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Lucia,\r\n\r\nULTNJ已添加，XINGANG under在ULTNJ control\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Thursday, February 26, 2026 at 14:45\r\n\nSubject: ALLEGRO系统权限调整\r\n\r\n\r\nDear All,\r\n\r\n烦请帮忙增加用户名：luciagong 下office权限：\r\n\r\n新增：ULXGG\r\n\r\n谢谢。\r\n\r\n\r\n\r\n\r\nBest Regards\r\n\r\n龚裕花/Lucia Gong\r\n客服经理/Customer-Service Manager\r\n深圳市联合物流发展有限公司上海分公司\r\nSHENZHEN UNITED LOGISTICS  DEVELOPMENT CO.,LTD. SHANGHAI BRANCH\r\n地址： 上海市虹口区东大名路908号金岸大厦606室\r\nADD： 606, Jinan Tower, No."
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_58",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_66_a",
+  "conversationId": "thread_qa_66",
+  "internetMessageId": "<migrated-qa_66-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09",
+  "sender": {
+    "emailAddress": {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "address": "responder_qa_66@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Sean Wang/CUL-CN/Agency Mgt",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-28T14:26:00Z",
+  "sentDateTime": "2026-01-28T14:26:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Thanks for EQC Team’s support.\r\n\r\n \r\n\r\nDear Claudia and Sean,\r\n\r\n \r\n\r\nNow the container DFSU2687754 is registered at CNSHKT07 in system, please kindly attach it to the booking CULVSHK2603329 and perform the Freight & Surcharge calculations and all necessary processing as well.\r\n\r\n \r\n\r\nIf you have any further questions, please feel free to contact us.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年1月28日 11:35\r\n收件人: Catherine Kang/CUL-CN/IT <catherinekang@culines.com>; Sean Wang/CUL-CN/Agency Mgt <seanwang@culines.com>; Claudia Goh/CUL-SG/LH Tra"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_66",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

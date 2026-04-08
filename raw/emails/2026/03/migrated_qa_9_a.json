@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_9_a",
+  "conversationId": "thread_qa_9",
+  "internetMessageId": "<migrated-qa_9-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a81254885d5447238e610c00604bbd08-f16bdac8-94",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_9@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Daisy Xiang/CUL-SZN/OP",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a81254885d5447238e610c00604bbd08-f16bdac8-94"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-24T18:24:00Z",
+  "sentDateTime": "2026-03-24T18:24:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Hany,\r\n\r\nPlease try agian. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月24日 15:59\r\n收件人: EGL | Hany Ibrahim <H.ibrahim@eglegypt.com>; Senna Yao/CUL-SZN/OP <sennayao@culines.com>; Boquan Gan/CUL-UAE <boquangan@culines.com>; EGL | Booking CULINES <exp.culines@eglegypt.com>; EGL | REEFER <reefer@eglegypt.com>; EGL | Sales Culines <sales.culines@eglegypt.com>; Nick Leung/CUL-CN/MKT <nickleung@culines.com>; EGL | Karim Afifi <K.afifi@eglegypt.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; #CUL Allegro Support <allegrosupport"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_9",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

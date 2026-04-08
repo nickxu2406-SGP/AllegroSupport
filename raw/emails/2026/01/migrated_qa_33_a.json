@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_33_a",
+  "conversationId": "thread_qa_33",
+  "internetMessageId": "<migrated-qa_33-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_33@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Chris Xiao/CUL-NAS/DOC",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-09T19:07:00Z",
+  "sentDateTime": "2026-03-09T19:07:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Chris,\r\n\r\n以下开发已经上线测试系统， 还请协助测试，如有问题，请帮忙于本周内告知。\r\n如没有问题，将按计划于2026-Mar-14 (22:30 UTC+7)上线。多谢~\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年1月8日 9:37\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47 \r\n \r\n\r\nHi 小丁姐，\r\n\r\n \r\n\r\n请问以下优化的功能预计几时上线？\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nChris Xiao / 肖婷婷"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_33",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

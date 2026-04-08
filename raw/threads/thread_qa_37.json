@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_37",
+  "subject": "回复: A26Q33833/FREIGHT AGREEMENT APPROVAL  TRALI - JEDDAH /Yonca Gida",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_37_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_37_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_37@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-10T18:40:00Z",
+  "last_email_at": "2026-03-10T19:01:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_37",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_59_a",
+  "conversationId": "thread_qa_59",
+  "internetMessageId": "<migrated-qa_59-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_59@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Easton SI/CUL-CN/Agency Mgt",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-25T10:07:00Z",
+  "sentDateTime": "2026-02-25T10:07:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Easton,\r\n\r\nThese three accounts has been de-activated. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n抄送: Yew Ping, Teo/CUL <ypteo@culines.com>; Allan Ng/CUL-SG <allanng@culines.com>; Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>; Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>; Izelle Tan <izelletan@culines.com>; Darico Dai/CUL-UAE <daricodai@culines.com>; Sean Wang/CUL-CN/Agency Mgt <sean"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_59",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "qa_24",
+  "version": 1,
+  "question": {
+    "text": "Dear all,\r\n\r\n \r\n\r\nPlease use the correct POD\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\nThanks & Best Regards!\r\n\r\n \r\n\r\nFrankie Huang/ 黄梓轩\r\n\r\nOperation Specialist\r\n\r\nMarine Operations Team\r\n\r\nTel: +86-21-6595-6010\r\n\r\nMobile: +86-133-0174-6376\r\n\r\nE-mail: frankiehuang@culines.com <mail\n\r\nGroup E-mail: marine@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nChina United Lines Ltd.\r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月16日 12:51\r\n收件人: Frankie Huang/CUL-CN/OP <frankiehuang@culines.com>; Selamawit Challa <selama@dssaddis.com>; Hardy Hou/CUL-West Asia <hardyhou@culines.com>; Anakha Arun/CUL-West Asia <anakhaarun@culines.com>; Rubick Chen/CUL-CN/EQC <rubickchen@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.c",
+    "original_email_id": "migrated_qa_24_q",
+    "sender_name": "Frankie Huang/CUL-CN/OP",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+    "sent_at": "2026-03-16T14:00:00Z",
+    "summary": "Dear all, Please use the correct POD Frankie Huang/ 黄梓轩 Operation Specialist Marine Operations Team ...",
+    "keywords": [
+      "其他",
+      "POD"
+    ]
+  },
+  "answer": {
+    "text": "Dear Challa,\r\n\r\nPlease check following that the unit is wrong.Tks~\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月16日 14:12\r\n收件人: Frankie Huang/CUL-CN/OP <frankiehuang@culines.com>; Raghu <eqc@nationaldubai.ae>; Hardy Hou/CUL-West Asia <hardyhou@culines.com>; Anakha Arun/CUL-West Asia <anakhaarun@culines.com>; Rubick Chen/CUL-CN/EQC <rubickchen@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Madina Mohamed Ali - DJSS <Madina@dssdjibouti.com>; BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>; Laveena <laveena@nationaldubai.ae>;",
+    "original_email_id": "migrated_qa_24_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_24@culines.com",
+    "sent_at": "2026-03-16T18:47:00Z",
+    "summary": "Dear Challa, Please check following that the unit is wrong.Tks~ Joanne Ding / 丁佳...",
+    "keywords": [
+      "其他"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_24",
+    "path": "../raw/threads/thread_qa_24.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "其他",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: MARSA IVY 2601E - MSIY2601E- CULVJIB2500427 & SEKU6483580 | BEAU4824910"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

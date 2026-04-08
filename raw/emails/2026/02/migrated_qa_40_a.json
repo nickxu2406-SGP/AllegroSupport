@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_40_a",
+  "conversationId": "thread_qa_40",
+  "internetMessageId": "<migrated-qa_40-a@allegro-support>",
+  "subject": "Re: henny.irnawati@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_40@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Henny Cut Irnawati",
+        "address": "henny.irnawati@samudera.id"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-13T16:29:00Z",
+  "sentDateTime": "2026-02-13T16:29:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Henny,\r\n\r\nSeems there is an existing account (ID: SAIID). Do you need me to reset the password for you?\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Thursday, February 12, 2026 at 09:18\r\n\nCc: Henny Cut Irnawati <henny.irnawati@samudera.id>, Michael Zhao/CUL-PH <michaelzhao@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Dylan Dong/CUL-CN/Agency Mgt"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_40",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

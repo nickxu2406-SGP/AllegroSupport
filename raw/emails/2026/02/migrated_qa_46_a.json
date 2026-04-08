@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_46_a",
+  "conversationId": "thread_qa_46",
+  "internetMessageId": "<migrated-qa_46-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+  "sender": {
+    "emailAddress": {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "address": "responder_qa_46@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Easton SI/CUL-CN/Agency Mgt",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-25T12:04:00Z",
+  "sentDateTime": "2026-02-25T12:04:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Forward to Agency Management Team.\r\n\r\n \r\n\r\nPlease kindly confirm whether we need to create a new office code for BELAWAN (IDBLW), if yes, please provide necessary informations for our creation (the attachment is for your reference).\r\n\r\nIn addition, please also help to check and confirm the user ID and his/her authorities requested in below.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年2月24日 16:01\r\n\n抄送: Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_46",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

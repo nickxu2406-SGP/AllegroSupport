@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_2_a",
+  "conversationId": "thread_qa_2",
+  "internetMessageId": "<migrated-qa_2-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_2@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Ricky Qin/CUL-CN/IT",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-04-07T12:05:00Z",
+  "sentDateTime": "2026-04-07T12:05:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Ezgi,\r\n\r\nNot sure whether any customer code under Marti is still in use since ALIAGA is still using MTIST office to create customer code.  I've downloaded all the TR customer code from Allegro as attachment.\r\n\r\nCould you assist to review and change the status to be inactive at your side ( you can sort out them by filtering the admin office)?  Any problem, please let us know. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n收件人: Ezgi Sahin/CUL-TR/DOC &CS <ezgi.sahin@culines.com>; Joanne Ding/CUL-CN/IT <joannedi"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_2",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

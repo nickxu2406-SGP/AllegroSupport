@@ -1,0 +1,69 @@
+{
+  "id": "qa_14",
+  "version": 1,
+  "question": {
+    "text": "Dear Keran sama\r\n\r\nGood day\r\n\r\n \r\n\r\nI noticed that CULVNGO2600108 has another container.\r\n\r\nOn Allegro charge handling by booking , CULVNGO2600108 has 7 containers as below.\r\n\r\n\r\n\r\n \r\n\r\nBut I noticed that CULVNGO2600108 has another container.\r\n\r\n\r\n\r\n \r\n\r\nWould you advise how to add this container to booking CULVNGO2600108 in the charge handling by booking section?\r\n\r\n \r\n\r\nThank you\r\n\r\n \r\n\r\nBest Regards.\r\n\r\n \r\n\r\nAmane AOKI（青木　周）\r\n\r\nAccount Manager – Liner Div.\r\n\r\nBen Line Agencies - Tokyo, Japan\r\n\r\nTel | +81-3-6718-0741 |\r\n\r\nEmail : amane.aoki@benline.com <mail\n\r\nWebsite : https://benline.com/ <https://benline.com/> \r\n\r\n \r\n\r\n \r\n\r\n\nTo: BLA Japan - CUL Docs <cul.docs.jp@be",
+    "original_email_id": "migrated_qa_14_q",
+    "sender_name": "BLA Japan - CUL Docs",
+    "sender_email": "cul.docs.jp@benline.com",
+    "sent_at": "2026-03-23T16:46:00Z",
+    "summary": "Dear Keran sama Good day I noticed that CULVNGO2600108 has another container. On Allegro charge hand...",
+    "keywords": [
+      "booking",
+      "container",
+      "订舱操作",
+      "BL",
+      "Allegro"
+    ]
+  },
+  "answer": {
+    "text": "Good day Amane,\r\n\r\nIf this container is confirmed to belong to the booking, you can attach it to the slot and then perform a manual calculation.\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Monday, March 23, 2026 at 16:46\r\n\nCc: Document Center1 <documentcenter1@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Chris Xiao/CUL-NAS/DOC <chrisxiao@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, BLA",
+    "original_email_id": "migrated_qa_14_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_14@culines.com",
+    "sent_at": "2026-03-23T18:08:00Z",
+    "summary": "Good day Amane, If this container is confirmed to belong to the booking, you can...",
+    "keywords": [
+      "system",
+      "booking",
+      "container",
+      "BL",
+      "订舱操作",
+      "Allegro"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_14",
+    "path": "../raw/threads/thread_qa_14.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "///Friendly reminder/// RE: Request to Restore Booking No. CULVNGO2600109, CULVNGO2600121 and CULVNGO2600108"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

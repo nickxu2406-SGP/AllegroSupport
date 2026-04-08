@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_23_a",
+  "conversationId": "thread_qa_23",
+  "internetMessageId": "<migrated-qa_23-a@allegro-support>",
+  "subject": "Re: peiyee.chong@sjclemenger.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_23@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Pei Yee",
+        "address": "peiyee.chong@sjclemenger.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-18T15:16:00Z",
+  "sentDateTime": "2026-03-18T15:16:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Dylan,\r\n\r\nAll set, account details are inlined below. Please check, thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, March 17, 2026 at 11:56\r\n\nCc: Yap Choon Siong/CUL-SG/FIN <choonsiongy@culines.com>, Rita Qu/CUL-CN/FIN <ritaqu@culines.com>, #CUL FIN Agency <agencyfinance@culines.com>, Allan Ng/CUL-SG <allanng@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Izelle Tan/CUL-SG/Agenc"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_23",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

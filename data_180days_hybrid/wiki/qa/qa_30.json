@@ -1,0 +1,38 @@
+{
+  "id": "qa_30",
+  "classification": {
+    "category": "其他",
+    "confidence": 0.8,
+    "tags": []
+  },
+  "question": {
+    "text": "",
+    "summary": "...",
+    "keywords": [],
+    "sender": {
+      "name": "Limeng An/CUL-JP/FIN&HR",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba",
+      "role": "external"
+    }
+  },
+  "answer": {
+    "text": "",
+    "summary": "...",
+    "responder": {
+      "name": "",
+      "email": "",
+      "role": "support"
+    }
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "completeness": "complete"
+  },
+  "history": [
+    {
+      "action": "created",
+      "timestamp": "2026-04-07T22:51:12.475440",
+      "note": "180天混合采集"
+    }
+  ]
+}

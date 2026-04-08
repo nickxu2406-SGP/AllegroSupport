@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_64",
+  "subject": "回复: 回复: 官网缺少THD费用: 申请合约：CUL JAKARTA 2604W  上海口岸",
+  "emails": [
+    {
+      "$ref": "../emails/2026/02/migrated_qa_64_q.json"
+    },
+    {
+      "$ref": "../emails/2026/02/migrated_qa_64_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Colleeh Zhou/CUL-CN/Analysis",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_64@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-02-03T09:00:00Z",
+  "last_email_at": "2026-02-03T10:28:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_64",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

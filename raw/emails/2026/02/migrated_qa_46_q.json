@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_46_q",
+  "conversationId": "thread_qa_46",
+  "internetMessageId": "<migrated-qa_46-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+  "sender": {
+    "emailAddress": {
+      "name": "Easton SI/CUL-CN/Agency Mgt",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-12T09:18:00Z",
+  "sentDateTime": "2026-02-12T09:18:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran & Joanne,\r\nI've confirmed with Michael.\r\nPlease kindly assist in creating a new user ID for Belawam team to access our E-service website.\r\n\r\nThank you!\r\n\r\nBest Regards,\r\n\r\nEaston Si/司文东\r\n\r\nAgency Management Department\r\n\r\nMobile: +86-187-5698-8480\r\n\r\nE-mail: eastonsi@culines.com\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年2月11日 16:30\r\n\n抄送: Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>; Michael Zhao/CUL-PH <michaelzhao@culines.com>; Indani Zulfah <indani.zulfah@samudera.id>; #CUL Allegro Support <allegrosupport@culines.com>; Arif Khajapi <arifkhajapi@samudera.id>; Abdul Malik <mal"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_46",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

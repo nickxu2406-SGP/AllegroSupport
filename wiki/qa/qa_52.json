@@ -1,0 +1,64 @@
+{
+  "id": "qa_52",
+  "version": 1,
+  "question": {
+    "text": "Dear Ezgi，\r\n\r\n \r\n\r\nThis company has code TR342066 in the Allegro system before, you don't need create again.\r\n\r\n \r\n\r\nThanks & Best regards\r\n\r\n \r\n\r\nSuki xie/谢海燕\r\n\r\nDocumentation Specialist\r\n\r\nCulines Documentation Center\r\n\r\nTel: +86-020-8452-9614\r\n\r\nE-mail: Sukixie@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nCULines Shipping Agency Ltd. Guangzhou Branch\r\n\r\nAs agent for China United Lines Ltd.\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\n发送时间: 2026年3月5日 15:52\r\n\n抄送: Gülhan ALKAN <g.alkan@martiz.com>; Özgür ÖZTÜRK <ozgur@martiz.com>; Sali",
+    "original_email_id": "migrated_qa_52_q",
+    "sender_name": "Suki Xie/CUL-NAS/DOC",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2",
+    "sent_at": "2026-03-05T15:56:00Z",
+    "summary": "Dear Ezgi， This company has code TR342066 in the Allegro system before, you don't need create again....",
+    "keywords": [
+      "Allegro",
+      "系统问题",
+      "system"
+    ]
+  },
+  "answer": {
+    "text": "Dear Ezgi,\r\n\r\nPlease try again. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月5日 19:23\r\n\n主题: YNT: High Importance *** ALLEGRO **** CUL ESERVICE PERMISSON FOR REVIEW AND APPROVE THE CUSOTMER ACCOUNT \r\n \r\n\r\nDear Joanne \r\n\r\nHave you changed our password , could you pls check , we can not log in now",
+    "original_email_id": "migrated_qa_52_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_52@culines.com",
+    "sent_at": "2026-03-05T19:26:00Z",
+    "summary": "Dear Ezgi, Joanne Ding / 丁佳莹 Digital & IT Department 主题: YNT: High Importance **...",
+    "keywords": [
+      "Allegro",
+      "password",
+      "系统问题"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_52",
+    "path": "../raw/threads/thread_qa_52.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "系统问题",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: High Importance  *** ALLEGRO     ****      CUL ESERVICE PERMISSON FOR REVIEW AND APPROVE THE CUSOTMER ACCOUNT"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

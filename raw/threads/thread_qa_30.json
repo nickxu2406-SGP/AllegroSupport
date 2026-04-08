@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_30",
+  "subject": "回复: UPDATE ROUTE FROM EGALYT05 TO EGALYT02 FOR BZ CHONGFU 2602 ISSUE",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_30_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_30_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Frankie Huang/CUL-CN/OP",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+      "role": "external"
+    },
+    {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "email": "responder_qa_30@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-10T09:42:00Z",
+  "last_email_at": "2026-03-12T09:33:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_30",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

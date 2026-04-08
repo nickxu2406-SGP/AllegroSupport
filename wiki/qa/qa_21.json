@@ -1,0 +1,66 @@
+{
+  "id": "qa_21",
+  "version": 1,
+  "question": {
+    "text": "Dear @Joanne Ding/CUL-CN/IT <mail\n\r\n \r\n\r\nCc : CUL Support teams\r\n\r\n \r\n\r\nGood morning\r\n\r\n \r\n\r\nNoted below. Please note the 2 containers corresponding to bill CULVJI2600085 are as follows:\r\n\r\n \r\n\r\nTLLU2647477 \r\n\r\nDFSU2297843\r\n\r\n \r\n\r\nSame have been updated but unable to revised the quantity of the booking to ‘’2’’ instead of ‘’3’’.\r\n\r\n \r\n\r\nThank you.\r\n\r\n \r\n\r\n \r\n\r\nBest Regards\r\n\r\nMadina Mohamed\r\nAssit.Manager -Sales & Export\r\n\r\nDjibouti Shipping Services SARL\r\n(as Agents only)\r\nRepublic of Djibouti   \r\n4th. Floor, Salaam Tower, Opposite of Nougaprix Hypermarket \r\nTel : +253 21 35 46 40 / Mobile No: +253 77 28 39 87\r\nEmail: madina@dssdjibouti.com <mail\n\r\nwebsite: www.sharafshipping.com <http://www.sharafshipping.com/>  \r\n\r\nMiddle East   Af",
+    "original_email_id": "migrated_qa_21_q",
+    "sender_name": "Madina Mohamed Ali - DJSS",
+    "sender_email": "madina@dssdjibouti.com",
+    "sent_at": "2026-03-18T14:30:00Z",
+    "summary": "Dear @Joanne Ding/CUL-CN/IT <mail Cc : CUL Support teams Good morning Noted below. Please note the 2...",
+    "keywords": [
+      "booking",
+      "container",
+      "订舱操作",
+      "BL"
+    ]
+  },
+  "answer": {
+    "text": "Dear Madina,\r\n\r\nPlease try to change Occupy to 1 so that the container quantity will be correctly shown as 2.\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 18, 2026 at 14:30\r\n\nSubject: RE: SPLIT BOOKING ISSUE--CULVJIB2600032 (MASTER BILL)\r\n\r\n\r\n\r\nDear @Joanne Ding/CUL-CN/IT <mail",
+    "original_email_id": "migrated_qa_21_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_21@culines.com",
+    "sent_at": "2026-03-18T18:19:00Z",
+    "summary": "Dear Madina, Please try to change Occupy to 1 so that the container quantity wil...",
+    "keywords": [
+      "booking",
+      "container",
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_21",
+    "path": "../raw/threads/thread_qa_21.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "SPLIT BOOKING ISSUE--CULVJIB2600032 (MASTER BILL)"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

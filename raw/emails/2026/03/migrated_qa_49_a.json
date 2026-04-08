@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_49_a",
+  "conversationId": "thread_qa_49",
+  "internetMessageId": "<migrated-qa_49-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3f4a9778033247edac4c6550e4151b01-f8165b93-43",
+  "sender": {
+    "emailAddress": {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "address": "responder_qa_49@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Tonny Ni/CUL-UAE",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3f4a9778033247edac4c6550e4151b01-f8165b93-43"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-09T14:53:00Z",
+  "sentDateTime": "2026-03-09T14:53:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Tonny,\r\n\r\n \r\n\r\nAccording to the Booking, INNSA/INMUN ~ SAJED is under IMR service, which the slot charge shall be settled by BSA&SLT, instead of J/O.\r\n\r\nSo please kindly contact with NPD team to update the BSA and SLT invoice accordingly.\r\n\r\n\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月9日 13:28\r\n收件人: #CUL Allegro Support <allegrosupport@culines.com>; Catherine Kang/CUL-CN/IT <catherinekang@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Rita Qu/CUL-CN/FIN <ritaqu@culines.com>; Sharon Lim/CUL-SG/FIN <sharonlim@culines.com>; Daric"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_49",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

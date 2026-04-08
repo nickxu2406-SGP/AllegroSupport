@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_69_q",
+  "conversationId": "thread_qa_69",
+  "internetMessageId": "<migrated-qa_69-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba",
+  "sender": {
+    "emailAddress": {
+      "name": "Limeng An/CUL-JP/FIN&HR",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-16T14:24:00Z",
+  "sentDateTime": "2026-01-16T14:24:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear IT Team，\r\n\r\nDue to business requirements, bank accounts are required for clearing operations in the Allegro system. \r\n\r\nHowever, the relevant bank account has not yet been configured in the system, \r\n\r\nwhich is affecting daily clearing processes.\r\n\r\nTo ensure smooth business operations going forward,\r\n\r\nwe kindly request that the following bank account be added to the system and enabled for clearing purposes:\r\n\r\nBank Name: MIZUHO BANK , Ltd.（0001）\r\n\r\nBranch Name: GINZA BRANCH（035）\r\n\r\nAccount Type: Saving Account\r\n\r\nAccount Number:4352036\r\n\r\nAccount Name: 海和海運株式会社（KAIWA SHIPPING Co., Ltd.）\r\n\r\nSWIFT CODE：MHCBJPJT\r\n\r\nBank Address：\r\n\r\n〒104-0061東京都中央区銀座4-2-11(4-2-11 Ginza, Chuo-ku, Tokyo 104-0061, Japan)\r\n\r\nPlease let us know if any additional information or further action is required."
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_69",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

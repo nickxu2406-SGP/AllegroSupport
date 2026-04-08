@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_56_q",
+  "conversationId": "thread_qa_56",
+  "internetMessageId": "<migrated-qa_56-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+  "sender": {
+    "emailAddress": {
+      "name": "Helen Zhang/CUS-SG/SGAgency",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-04T11:39:00Z",
+  "sentDateTime": "2026-03-04T11:39:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran,\r\n\r\n \r\n\r\nPlease check with the vendor, as the DB patch is wrong.\r\n\r\n \r\n\r\nBest Regards,\r\n\r\nHelen Zhang\r\n\r\nCustomer Service\r\n\r\nTel: +65 6681 5696\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\n\nSubject: RE: DDS Invoice Wrong - CULVPKG2600101 & CULVPKG2600102\r\n\r\n \r\n\r\nDear Kieran,\r\n\r\n \r\n\r\nAny update? \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nHelen Zhang\r\n\r\nCustomer Service\r\n\r\nTel: +65 6681 5696\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01\r\n\r\nSouthpoint, Singapore 089763"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_56",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

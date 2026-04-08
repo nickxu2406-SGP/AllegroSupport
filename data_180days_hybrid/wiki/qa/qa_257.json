@@ -1,0 +1,38 @@
+{
+  "id": "qa_257",
+  "classification": {
+    "category": "其他",
+    "confidence": 0.8,
+    "tags": []
+  },
+  "question": {
+    "text": "",
+    "summary": "...",
+    "keywords": [],
+    "sender": {
+      "name": "Samarjit Khuntia/CUL-IN/FIN",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=5b2002d5238b46cbacbe41939fce26f3-f605fc2f-41",
+      "role": "external"
+    }
+  },
+  "answer": {
+    "text": "",
+    "summary": "...",
+    "responder": {
+      "name": "",
+      "email": "",
+      "role": "support"
+    }
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "completeness": "complete"
+  },
+  "history": [
+    {
+      "action": "created",
+      "timestamp": "2026-04-07T22:51:13.052350",
+      "note": "180天混合采集"
+    }
+  ]
+}

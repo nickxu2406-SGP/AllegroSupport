@@ -1,0 +1,66 @@
+{
+  "id": "qa_5",
+  "version": 1,
+  "question": {
+    "text": "Dear Kieran,\r\n\r\nPlease check the BL code, which does not appear in Freight but exists in the actual invoice detail within the finance system. Could this be removed? Thank you.\r\n\r\nB/L No.\r\nCharge Code\r\nCurrency\r\nTotal\r\nCULVNGB2202100\r\nLSS\r\nUSD\r\n250\r\nCULVNGB2202100\r\nWRS\r\nUSD\r\n250\r\nCULVSHK2118512\r\nWRS\r\nUSD\r\n50\r\nCULVSHK2118512\r\nLSS\r\nUSD\r\n50\r\nCULVSHK2202214\r\nLSS\r\nUSD\r\n400\r\nCULVSHK2202214\r\nWRS\r\nUSD\r\n400\r\n\r\n\r\n\r\nBest regards.\r\n\r\n \r\n\r\nSimon sun / 孙宇飞\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nMobile: +86-136-1187-7786\r\n\r\nE-mail: simonsun@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/>",
+    "original_email_id": "migrated_qa_5_q",
+    "sender_name": "Simon Sun/CUL-CN/CS",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=d352a743ecc84203ba952215d57a407d-82ee8892-5a",
+    "sent_at": "2026-03-20T17:28:00Z",
+    "summary": "Dear Kieran, Please check the BL code, which does not appear in Freight but exists in the actual inv...",
+    "keywords": [
+      "报关操作",
+      "BL",
+      "system"
+    ]
+  },
+  "answer": {
+    "text": "Dear Simon,\r\n\r\nSince these bookings are from 21/22, the vessel is already closed. Please request the Marine team to temporarily activate it, then proceed with the AR re-interface.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 20, 2026 at 17:28\r\n\nCc: Rita Qu/CUL-CN/FIN <ritaqu@culines.com>, Monica Teng/CUL-CN/FIN <monicateng@culines.com>, #CUL FIN Agency <agencyfinance@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, #CUL Revenue Audit <revenueaudi",
+    "original_email_id": "migrated_qa_5_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_5@culines.com",
+    "sent_at": "2026-03-30T16:11:00Z",
+    "summary": "Dear Simon, Since these bookings are from 21/22, the vessel is already closed. P...",
+    "keywords": [
+      "system",
+      "报关操作",
+      "booking",
+      "vessel",
+      "Allegro"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_5",
+    "path": "../raw/threads/thread_qa_5.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "报关操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "BL Code Removal Request"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

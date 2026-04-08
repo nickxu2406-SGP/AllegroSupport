@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_37_a",
+  "conversationId": "thread_qa_37",
+  "internetMessageId": "<migrated-qa_37-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_37@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-10T19:01:00Z",
+  "sentDateTime": "2026-03-10T19:01:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Ezgi,\r\n\r\n\r\nPlease note that if you only amend Free time exception or Notes in commodity & route ,  but nothing else changed in the agreement, system will identify it as ‘Amended Data does not exist’.\r\n\r\nTo solve this issue, please try to extend 1 more day for ‘duration to Date’. Then you could save and request again.Thanks!\r\n\r\n\r\nHow to extend 'duration to date':\r\n\r\n\r\n1.\t\r\n\tClick Duration button\r\n2.\t\r\n\tSelect service scope - AEU\r\n3.\t\r\n\tExtend 1 day\r\n4.\t\r\n\tSave and request\r\n\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月10日 18:55\r\n收件人: Joanne"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_37",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

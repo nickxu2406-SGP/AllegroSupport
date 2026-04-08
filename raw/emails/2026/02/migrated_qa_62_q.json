@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_62_q",
+  "conversationId": "thread_qa_62",
+  "internetMessageId": "<migrated-qa_62-q@allegro-support>",
+  "subject": "anil.baranwal@culshipping.in",
+  "sender": {
+    "emailAddress": {
+      "name": "Anil Baranwal",
+      "address": "anil.baranwal@culshipping.in"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-09T12:58:00Z",
+  "sentDateTime": "2026-02-09T12:58:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran,\r\n\r\nBelow issue is yet to be fixed, please check and do the needful.\r\n\r\n \r\n\r\n“Q”\r\n\r\nFor below containers, I am facing error while performing the MT work order, which already raised with IT team. \r\n\r\nIf possible, please advise whether this can be closed manually.\r\n\r\n \r\n\r\nOffice\r\n\r\nContainer#\r\n\r\nFrom\r\n\r\nTo\r\n\r\nBL#\r\n\r\nStatus\r\n\r\nINR Amount \r\n\r\nInvoice#\r\n\r\nJO\r\n\r\nInvoice\r\n\r\nCUMUN\r\n\r\nBURU6698508\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\nCUMUN\r\n\r\nWFHU5145860\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\nCUMUN\r\n\r\nTRLU7021548\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n“U”\r\n\r\n \r\n\r\n \r\n\r\nBest Regards \r\n\r\nAnil Baranwal\r\n\r\nAsst. Manager - EQC\r\n\r\nIndia\r\n\r\nTel: +91-22-4159 9974\r\n\r\nMobile: +91-9892578436\r\n\r\nE-mail"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_62",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

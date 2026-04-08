@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_26_q",
+  "conversationId": "thread_qa_26",
+  "internetMessageId": "<migrated-qa_26-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa",
+  "sender": {
+    "emailAddress": {
+      "name": "Louis Xia/CUL-CN/CS",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-12T11:21:00Z",
+  "sentDateTime": "2026-03-12T11:21:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Tahir,\r\n\r\n \r\n\r\nPlease try this way to amend the system, attached for your reference.\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nLouis Xia / 夏莹\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nTel: +86-21-6858-2153\r\n\r\nMobile: +86-176-1272-2817\r\n\r\nE-mail: louisxia@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月12日 11:01\r\n\n抄送:"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_26",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

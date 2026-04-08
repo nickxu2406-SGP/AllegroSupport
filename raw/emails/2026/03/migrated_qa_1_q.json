@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_1_q",
+  "conversationId": "thread_qa_1",
+  "internetMessageId": "<migrated-qa_1-q@allegro-support>",
+  "subject": "siraj@nationaldubai.ae",
+  "sender": {
+    "emailAddress": {
+      "name": "Siraj - National Shipping",
+      "address": "siraj@nationaldubai.ae"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-31T16:51:00Z",
+  "sentDateTime": "2026-03-31T16:51:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Sir,\r\n\r\n \r\n\r\nNoted yours and will inform all POL office to correct the POD/DEL accordingly.\r\n\r\n \r\n\r\nFor your information, we are currently encountering an issue while updating the VD move for containers discharged at Fujairah Terminal. \r\n\r\nThe system is showing the error: “Event Yard is different from Login Office.” May be the yard location AEFJRT01 need to be mapped under the AE region.\r\n\r\n \r\n\r\nAdditionally, please note that DDS calculation will commence only once the containers are grounded/reached at Jebel Ali. \r\n\r\nAccordingly, when updating POD and DEL details would be as follows:\r\n\r\n*\tPort of Discharge (POD)         : AEFJR / AEKLF\r\n*\tDelivery Point (DEL)                : AEJEAT01 / AEJEAT02 / AEJEAT03\r\n\r\n \r\n\r\nRequest your confirmation on the above, so that we can instruct all PO"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_1",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_48_a",
+  "conversationId": "thread_qa_48",
+  "internetMessageId": "<migrated-qa_48-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=4ada351d1e474ca2b95a849d611a85d6-86005bc3-18",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_48@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Michael Zhao/CUL-PH",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=4ada351d1e474ca2b95a849d611a85d6-86005bc3-18"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-09T18:33:00Z",
+  "sentDateTime": "2026-03-09T18:33:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Indani,\r\n\r\nFollowing accounts have been authorized to create customer code. Please try again. Thanks!\r\n\r\nizulfah\r\nirnawati\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n抄送: Henny Cut Irnawati <henny.irnawati@samudera.id>; Kieran Ji/CUL-CN/IT <kieranji@culines.com>; Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>; Michael Zhao/CUL-PH <michaelzhao@culines.com>; Allan Ng/CUL-SG <allanng@culines.com>; Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>; Dylan Dong"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_48",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

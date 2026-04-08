@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_54_a",
+  "conversationId": "thread_qa_54",
+  "internetMessageId": "<migrated-qa_54-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=81c18d6f9a3c4a7fb0036456e4e23875-64924920-21",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_54@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Amber Hu/CUL-CN/FIN",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=81c18d6f9a3c4a7fb0036456e4e23875-64924920-21"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-04T14:03:00Z",
+  "sentDateTime": "2026-03-04T14:03:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Jamie,\r\n\r\nCreated. Please check below.\r\nAny problem, please feel free to let us know. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月3日 14:50\r\n\n抄送: #CUL Long Haul <longhaul@culines.com>; #CUL Short Haul <shorthaul@culines.com>; #CUL TWN Trade <twntrade@culines.com>; CUL West Asia Trade <wat@culines.com"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_54",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

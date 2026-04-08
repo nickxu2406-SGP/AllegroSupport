@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_24",
+  "subject": "回复: MARSA IVY 2601E - MSIY2601E- CULVJIB2500427 & SEKU6483580 | BEAU4824910",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_24_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_24_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Frankie Huang/CUL-CN/OP",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_24@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-16T14:00:00Z",
+  "last_email_at": "2026-03-16T18:47:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_24",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

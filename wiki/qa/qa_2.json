@@ -1,0 +1,62 @@
+{
+  "id": "qa_2",
+  "version": 1,
+  "question": {
+    "text": "Hi Ezgi,\r\n\r\nI think it will be better if we inactive all customers code under GAC & Marti entities.\r\n\r\n \r\n\r\nThanks & Best Regards\r\n\r\n \r\n\r\nRicky Qin / 秦 琪\r\n\r\nDigital Project Manager\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-138-1732-7221\r\n\r\nE-mail: rickyqin@culines.com <mail\n\r\nWeb: www.culines.com <https://url.emailprotection.link/?bTarGOjpqKBdnAhGSLJN9zjtDgKh3sdobaBVGqXokp-cIm_BxjKmCeSAmpcaZ9f4dULeUT5TBYjmVMhJWsct9aQ~~> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年4月6日 21:35\r\n\n抄送: Lanvee Sun/CUL-TR <lanveesun@culines.com>; #CUL TR CUS <trcus@culines.com>; #CUL TR Sales <trsales@culines.com>; Suki Xie/CUL-NAS/DOC <sukixie@culines.com>",
+    "original_email_id": "migrated_qa_2_q",
+    "sender_name": "Ricky Qin/CUL-CN/IT",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+    "sent_at": "2026-04-07T11:52:00Z",
+    "summary": "Hi Ezgi, I think it will be better if we inactive all customers code under GAC & Marti entities. Ric...",
+    "keywords": [
+      "报关操作"
+    ]
+  },
+  "answer": {
+    "text": "Hi Ezgi,\r\n\r\nNot sure whether any customer code under Marti is still in use since ALIAGA is still using MTIST office to create customer code.  I've downloaded all the TR customer code from Allegro as attachment.\r\n\r\nCould you assist to review and change the status to be inactive at your side ( you can sort out them by filtering the admin office)?  Any problem, please let us know. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n收件人: Ezgi Sahin/CUL-TR/DOC &CS <ezgi.sahin@culines.com>; Joanne Ding/CUL-CN/IT <joannedi",
+    "original_email_id": "migrated_qa_2_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_2@culines.com",
+    "sent_at": "2026-04-07T12:05:00Z",
+    "summary": "Hi Ezgi, Not sure whether any customer code under Marti is still in use since AL...",
+    "keywords": [
+      "报关操作",
+      "Allegro",
+      "BL"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_2",
+    "path": "../raw/threads/thread_qa_2.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "报关操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: Allegro System – Customer Code Consolidation"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

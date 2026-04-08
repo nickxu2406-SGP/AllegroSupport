@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_18_a",
+  "conversationId": "thread_qa_18",
+  "internetMessageId": "<migrated-qa_18-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=493f3ae49ba84c8bb0242c4914d08816-a35b2ee0-93",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_18@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Bob Wu/CUL-SG/LH Trade",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=493f3ae49ba84c8bb0242c4914d08816-a35b2ee0-93"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-19T18:35:00Z",
+  "sentDateTime": "2026-03-19T18:35:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Bob,\r\n\r\nBoth highlighted lines meet the conditions, and No. 2 takes priority since it has an extra condition (POD = SA). \r\nYou can raise No. 7’s priority by adding the same condition (POD = SA).\r\n\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Thursday, March 19, 2026 at 17:54\r\n\nCc: Snider Yu/CUL-VN <snideryu@culines.com>, #CU"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_18",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

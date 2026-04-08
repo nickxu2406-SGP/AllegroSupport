@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_69",
+  "subject": "Request to Add Bank Account for System Clearing/申请追加Allegro系统销账所需银行账号",
+  "emails": [
+    {
+      "$ref": "../emails/2026/01/migrated_qa_69_q.json"
+    },
+    {
+      "$ref": "../emails/2026/01/migrated_qa_69_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Limeng An/CUL-JP/FIN&HR",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_69@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-01-16T14:24:00Z",
+  "last_email_at": "2026-01-16T16:59:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_69",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_36_a",
+  "conversationId": "thread_qa_36",
+  "internetMessageId": "<migrated-qa_36-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_36@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-10T18:53:00Z",
+  "sentDateTime": "2026-03-10T18:53:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Ezgi,\r\n\r\nPlease click Amend ,then you can see the request button. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月10日 18:40\r\n\n主题: 回复: A26Q33833/FREIGHT AGREEMENT APPROVAL TRALI - JEDDAH /Yonca Gida \r\n \r\nadd Allegro team to help, thanks."
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_36",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

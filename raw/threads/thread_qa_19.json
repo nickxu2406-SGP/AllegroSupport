@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_19",
+  "subject": "回复: FREIGHT RATE AGREEMENT APPROVAL A26Q35294  * NOVEL TR425782 ALİAĞA >>> KHOR FAKKAN 4X20' NAVLUN TALEBİ",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_19_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_19_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_19@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-18T22:12:00Z",
+  "last_email_at": "2026-03-19T14:47:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_19",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

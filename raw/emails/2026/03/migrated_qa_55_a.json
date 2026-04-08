@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_55_a",
+  "conversationId": "thread_qa_55",
+  "internetMessageId": "<migrated-qa_55-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_55@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Helen Zhang/CUS-SG/SGAgency",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-03T10:52:00Z",
+  "sentDateTime": "2026-03-03T10:52:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Helen,\r\n\r\nCould you give us the specific error msg or screenshot? Thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, March 3, 2026 at 10:45\r\n\nSubject: DDS Invoice Wrong - CULVPKG2600101 & CULVPKG2600102\r\n\r\n\r\n\r\nDear Joanne\r\n\r\nAllegro Support\r\n\r\n \r\n\r\nAny update?\r\n\r\n \r\n\r\nPlease assist for the DDS invoice which is wrong.\r\n\r\n \r\n\r\nCULVPKG2600101\r\n\r\nCULVPKG2600102\r\n\r\n \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nHelen Zha"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_55",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

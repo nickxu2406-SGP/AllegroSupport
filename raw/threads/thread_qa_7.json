@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_7",
+  "subject": "ERROR ON FREIGHT AGREEMENT//",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_7_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_7_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Habon Abdi - DJSS",
+      "email": "habon@dssdjibouti.com",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_7@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-30T14:42:00Z",
+  "last_email_at": "2026-03-30T14:58:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_7",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

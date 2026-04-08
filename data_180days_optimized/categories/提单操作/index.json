@@ -1,0 +1,653 @@
+{
+  "category": "提单操作",
+  "count": 27,
+  "qa_pairs": [
+    {
+      "id": "qa_31",
+      "subject": "回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47",
+      "question": {
+        "text": "Hi 小丁姐，\r\n\r\n \r\n\r\n请问以下优化的功能预计几时上线？\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nChris Xiao / 肖婷婷\r\n\r\nDocument Specialist\r\n\r\nDocument Center \r\n\r\nTel: +86-20-8496-9501 \r\n\r\nMobile: +86-159-2039-5537\r\n\r\nE-mail: chrisxiao@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年1月7日 17:12\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47\r\n\r\n \r\n\r\nHi Chris,\r\n\r\n \r\n\r\n如之前沟通，在系统自动校验全口岸提单规则的功能开发前，我们先按原计划优化土耳其进出口TAX ID 和email 的校验功能。\r\n\r\n优化内容如下，如有问题请帮忙告知，多谢！",
+        "sender": "Chris Xiao/CUL-NAS/DOC",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+        "time": "01-08 09:37"
+      },
+      "answer": {
+        "text": "Hi Chris,\r\n\r\n附件为最后确认的开发说明书，供参考，如有问题请帮忙告知。多谢！\r\n\r\n预计完成时间如下：\r\n测试系统：07-Feb \r\n正式系统：15-Feb \r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年1月8日 9:37\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47 \r\n \r\n\r\nHi 小丁姐，\r\n\r\n \r\n\r\n请问以下优化的功能预计几时上线？\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nChris Xiao / 肖婷婷\r\n\r\nDocume",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "time": "01-12 15:45"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "提单操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_62",
+      "subject": "CUL INDIA SUB AGENT RAIL COSTS IN MAY SOA",
+      "question": {
+        "text": "Dear Kieran,\r\n\r\nBelow issue is yet to be fixed, please check and do the needful.\r\n\r\n \r\n\r\n“Q”\r\n\r\nFor below containers, I am facing error while performing the MT work order, which already raised with IT team. \r\n\r\nIf possible, please advise whether this can be closed manually.\r\n\r\n \r\n\r\nOffice\r\n\r\nContainer#\r\n\r\nFrom\r\n\r\nTo\r\n\r\nBL#\r\n\r\nStatus\r\n\r\nINR Amount \r\n\r\nInvoice#\r\n\r\nJO\r\n\r\nInvoice\r\n\r\nCUMUN\r\n\r\nBURU6698508\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\nCUMUN\r\n\r\nWFHU5145860\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\nCUMUN\r\n\r\nTRLU7021548\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n“U”\r\n\r\n \r\n\r\n \r\n\r\nBest Regards \r\n\r\nAnil Baranwal\r\n\r\nAsst. Manager - EQC\r\n\r\nIndia\r\n\r\nTel: +91-22-4159 9974\r\n\r\nMobile: +91-9892578436\r\n\r\nE-mail",
+        "sender": "Anil Baranwal",
+        "sender_email": "anil.baranwal@culshipping.in",
+        "time": "02-09 12:58"
+      },
+      "answer": {
+        "text": "Dear Anil,\r\n\r\nAll set now, please try again.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Monday, February 9, 2026 at 12:58\r\n\nCc: CUL-IND/Finance <culin.finance@culshipping.in>, #CUL Commercial <commercial@culines.com>, Carrie Meng/CUL-CN/FIN <carriemeng@culines.com>, Vivek Singh <v",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "02-09 16:37"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "提单操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_65",
+      "subject": "回复: =Urgent=: HOD misdeclaration - Reexport  CULVSHK2528832//2x40 (TLCU5928572 and CULU6336391) + 1x20 (DFSU 2687754)",
+      "question": {
+        "text": "Dear @Catherine Kang/CUL-CN/IT <mail\n\r\n \r\n\r\nCopy @Claudia Goh/CUL-SG/LH Trade <mail\n\r\n \r\n\r\nWe have got confirmed instruction from Ricky about this issue. Ricky sir has agreed to adjust this manually in our system. \r\n\r\nPlease following up the adjustment directly, please add DFSU2687754 to the original BL directly, follow the practice of PIL.\r\n\r\nThank you.\r\n\r\nSean Wang / 王晓旭\r\n\r\nRepresentative\r\n\r\nCULINES SHIPPING LLC (WEST ASIA)\r\n\r\nMOB: +971-50-696-5918\r\n\r\nEmail: seanwang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n发件人: Sean Wang/CUL-CN/Agency Mgt <seanwang@culin",
+        "sender": "Sean Wang/CUL-CN/Agency Mgt",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09",
+        "time": "01-27 16:25"
+      },
+      "answer": {
+        "text": "Invite EQC team to comment,\r\n\r\n \r\n\r\nTarget Container: DFSU2687754, located at DJJIBT01\r\n\r\n \r\n\r\nAccording to the instruction in below, above container shall be attached to the booking CULVSHK2528832, which outbound from CNSHK.\r\n\r\nPlease help to create a virtual status(via SLIN/SLOT) or a virtual movement (via reposition booking) to relocate the container from current DJJIB to CNSHK in system, then manually create a Full cycle movements corresponding to the booking route.\r\n\r\nIn addition, there will be many virtual movements and cost generated in system due to this irregular case, we expect the relevant teams to make a corresponding manual adjustments/settlements accordingly.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherine",
+        "responder": "Catherine Kang/CUL-CN/IT",
+        "time": "01-28 10:38"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "提单操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_68",
+      "subject": "Can't open Allegro BL Preview and Print",
+      "question": {
+        "text": "Dear Culines team,\r\n\r\nany update ?\r\n\r\n\r\n\r\nOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\r\n\r\n\tDear CULINES Team,\r\n\t\r\n\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\r\n\t \r\n\r\n\t\r\n\t\r\n\t\r\n\t-- \r\n\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mail\n\r\n <https://apps.samudera.id/apps/apps.nsf/logo-connecting-indonesia.png> \r\n\r\n\r\n <http://www.samudera.id/> \r\n\r\n\r\n <http://www.facebook.com/SamuderaID>   <http://www.twitter.com/@samudera_ind>    <http://www.instagram.com/samudera.id>",
+        "sender": "Hendra Kurniawan",
+        "sender_email": "hendra.kurniawan@samudera.id",
+        "time": "01-22 18:24"
+      },
+      "answer": {
+        "text": "﻿Dear Hendra\r\n\r\nPlease retrieve BL by ID under office SASUB but not SAIID,thanks.\r\n\r\n发自我的 iPhone\r\n\r\n\r\n\t在 2026年1月22日，18:24，Hendra Kurniawan <hendra.kurniawan@samudera.id> 写道：\r\n\t\r\n\t\r\n\r\n\t﻿ Dear Culines team,\r\n\t\r\n\tany update ?\r\n\t\r\n\t\r\n\t\r\n\tOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\t\r\n\r\n\t\tDear CULINES Team,\r\n\t\t\r\n\t\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\t\r\n\t\t\r\n\t\t<eqZ3tM0MmvRb3FfW.png>\r\n\r\n\t\t<WFw6vzHpYPz3Bmk7.png>\r\n\r\n\r\n\r\n\t\t-- \r\n\t\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mailto:hendra.kurniawan@samudera.i",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "time": "01-22 20:04"
+      },
+      "metadata": {
+        "has_attachment": false,
+        "importance": 1
+      },
+      "category": "提单操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_69",
+      "subject": "Request to Add Bank Account for System Clearing/申请追加Allegro系统销账所需银行账号",
+      "question": {
+        "text": "Dear IT Team，\r\n\r\nDue to business requirements, bank accounts are required for clearing operations in the Allegro system. \r\n\r\nHowever, the relevant bank account has not yet been configured in the system, \r\n\r\nwhich is affecting daily clearing processes.\r\n\r\nTo ensure smooth business operations going forward,\r\n\r\nwe kindly request that the following bank account be added to the system and enabled for clearing purposes:\r\n\r\nBank Name: MIZUHO BANK , Ltd.（0001）\r\n\r\nBranch Name: GINZA BRANCH（035）\r\n\r\nAccount Type: Saving Account\r\n\r\nAccount Number:4352036\r\n\r\nAccount Name: 海和海運株式会社（KAIWA SHIPPING Co., Ltd.）\r\n\r\nSWIFT CODE：MHCBJPJT\r\n\r\nBank Address：\r\n\r\n〒104-0061東京都中央区銀座4-2-11(4-2-11 Ginza, Chuo-ku, Tokyo 104-0061, Japan)\r\n\r\nPlease let us know if any additional information or further action is required.",
+        "sender": "Limeng An/CUL-JP/FIN&HR",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba",
+        "time": "01-16 14:24"
+      },
+      "answer": {
+        "text": "Dear Limeng,\r\n\r\nReceived. We will create it in the system once confirmed.\r\n\r\nDear FIN,\r\n\r\nPlease review the request below and advise the setup. Thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, January 16, 2026 at 14:24\r\n\nCc: Andrew Xu/CUL-TH <andrewxu@culines.com>, Doris Huang/CUL-TPE/FIN&HR <tw.dorishuang@culines.com>, Cathy Xu/CUL-TPE/FIN&HR <tw.cathyxu@culines.com>, #CUL JP Office <jp@culines.com>, Monica Teng/CUL-CN/FIN <monicateng@culines.com>,",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "01-16 16:59"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "提单操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_2",
+      "subject": "RE: Some issues in the system- --createing a consignee code",
+      "question": {
+        "text": "Dear Joanne,\r\n\r\nGood day,\r\n\r\n \r\n\r\nPlease authorize the IDs of rajamorcos & ranabakni to create customer code.\r\n\r\n \r\n\r\nThanks and best regards\r\n\r\nRaja Morcos\r\n\r\nFinance Manager\r\n\r\nBahhar LLC\r\n\r\nTel    : +963 17 2570171\r\n\r\nMob: +963 933 129710\r\n\r\n \r\n\r\nFrom: Joanne Ding/CUL-CN/IT <joanneding@culines.com> \r\nSent: Wednesday, January 7, 2026 3:43 AM\r\nTo: rana.bakni@bahharshipping.com; #CUL Allegro Support <allegrosupport@culines.com>\r\nCc: fadi.morcos@bahharshipping.com; michel.ishe@bahharshipping.com; raja.morcos@bahharshipping.com; Boquan Gan/CUL-UAE <boquangan@culines.com>; raja.morcos@bahharshipping.com; Ricky Qin/CUL-CN/IT <rickyqin@culines.com>\r\nSubject: 回复: Some issues in the system- --createing a consignee code\r\n\r\n \r\n\r\nDear Rana,\r\n\r\n \r\n\r\nPlease advise which ID should be authroized to crea",
+        "sender": "raja.morcos@bahharshipping.com",
+        "sender_email": "raja.morcos@bahharshipping.com",
+        "time": "20:33"
+      },
+      "answer": {
+        "text": "Dear Rakesh,\r\n\r\nPlease be informed that the manifest file format is modified recently based on business requirement, not about migration activity.\r\nKindly assist to contact eBMS to change the mapping. Appreciate your understanding! Thank you!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Rakesh Panchal <Rakesh.Panchal@culshipping.in>\r\n已发送: 2026 年 1 月 6 日 星期二 14:31\r\n收件人: Max Qian/CUL-CN/IT <maxqian@CULINES.COM>; #CUL Allegro Support <allegrosupport@culines.com>\r\n抄送: Nick Xu/CUL-CN/IT <nickxu@culines.com>; Navnath Kindre <navnath.kindre@culshipping.in>\r\n主题: Re: Allegro系统升级完成/ Allegro Upgrade C",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "15:33"
+      },
+      "date": "01-07",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_3",
+      "subject": "RE: FREIGHT CHARGES -FKYB PS2601W  Call SSAJSAJED/2026/0005",
+      "question": {
+        "text": "Dear  Shabber \r\n\r\n \r\n\r\nWe can share  new  brs document on this by next week.   We can schedule the changes  once  it is commercially approved\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n <http://www.infodynamic.net/> \r\n\r\nVeerappan Nagappan    \r\n\r\nDomain  lead -  Shipping  and  logistics \r\n\r\nSkype -nagappan2001\r\n\r\nInformation Dynamics India Pvt Ltd\r\n\r\n6th floor, Elnet Software City, TS-140, Rajiv Gandhi Salai, Taramani, \r\n\r\nChennai - 600113, India. \r\n+91 44 4670 2200 www.infodynamic.net <http://www.infodynamic.net/> \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nFollow us on  <https://twitter.com/InfoDynamicsOff>  <https://www.linkedin.com/company/InfoDynamicsOff>  <https://www.facebook.com/InfoDynamicsOff>  <https://www.youtube.com/channel/UCwa_vkG-YF8UGSe-w6qgR4Q?disable_polymer=true>  <https://www.instagram.com/InfoDynamicsOff/> \r\n\r\n \r\n\r\n \r",
+        "sender": "Nagappan",
+        "sender_email": "nagappan@in.infodynamic.net",
+        "time": "20:01"
+      },
+      "answer": {
+        "text": "Dear Nagappan ,\r\n\r\n\r\n\r\n\r\nYes, we added two fields in the designated position as per business requirements.\r\n\r\nReally sorry that now the modification has been applied on production environment, and it will cause a wide range of impacts if we changed the format now.\r\n\r\nAppreciate your understanding and please assist to try you best to adjust. Many thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Nagappan <nagappan@in.infodynamic.net>\r\n已发送: 2026 年 1 月 8 日 星期四 16:29\r\n收件人: Shabber Ahmed - SSA JED <shabber@ssajeddah.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Sakthivel Subramaniyan ",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "17:17"
+      },
+      "date": "01-08",
+      "category": "提单操作",
+      "quality_score": 6,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_7",
+      "subject": "RE: REQUEST APPROVE DA  SOC -  (CY/CY)  CULVPKG2402446 ,CULVPKG2402446  Approved for IBDM  /// RE: PRE-ALLERT- ZHONG GU CHANG SHA V. 02444E / ZGCS2444E - EX PKG TO THLCH",
+      "question": {
+        "text": " \r\n\r\nDear  Joanne\r\n\r\n \r\n\r\nI tried clicking the button, but I couldn't do it, or maybe I don't have access. Can you check for me?\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n“Working Time”\r\n\r\nMon - Fri (09:00 - 18:00 Hrs.)\r\n\r\n \r\n\r\nWeb site: https://www.culines.com/ <https://www.culines.com/>  , https://eservice.culines.com/ <https://eservice.culines.com/> \r\n\r\nE-MAIL GROUP : thinboundsales@culines.com <mailto:thinboundsales@culines.com>  ; thinbounddocs@culines.com <mailto:thinbounddocs@culines.com>    \r\n\r\nTel: +66 2-116-3370 - 75  Ext: 411,412,413,415 (Inbound Sales Team)\r\n\r\n \r\n\r\nBest Regards,\r\n\r\nPariya T (Aey)\r\n\r\nBest Regards,\r\n\r\nAssistant Manager (Inbound Sales Team)\r\n\r\nTel: +66 2-116-3370 - 75 (Ext: 415) \r\n\r\n Mobile: +66  89 6678165\r\n\r\nWeb: https://www.culines.com <https://www.culines.com/> \r\n\r\n1168/53 20th Floor ",
+        "sender": "Pariya/CUL-TH/Inbound",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b8595f140aa247d680ab3e8c33082f4e-108b70dc-fa",
+        "time": "12:05"
+      },
+      "answer": {
+        "text": "Dear Pariya,\r\n\r\nPlease elaborate further what is the problem you encounter.Is there any error when you create DA or else?\r\nPlease find following that it's normal when I try to create.Tks~\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Pariya/CUL-TH/Inbound <th.pariya@culines.com>\r\n发送时间: 2026年1月9日 11:28\r\n收件人: #CUL Allegro Support <allegrosupport@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; CHLOE CHAI/CUL-MY/CS <chloechai@culines.com>; Isaac Koo/CUL-MY/Sales <isaackoo@culines.com>; Chun Shao/CUL-CN/CS <chunshao@culines.com>\r\n抄送: #CUL PKG CS <pkgcs@culines.com>; #CUL PKG OPS <pk",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "11:53"
+      },
+      "date": "01-09",
+      "category": "提单操作",
+      "quality_score": 5,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_9",
+      "subject": "RE: ALLEGRO - GENERATING OF EDI FILE FOR INWARD MANIFEST",
+      "question": {
+        "text": "Dear Ricky / Ahmed.\r\n\r\n \r\n\r\nGood day to you.\r\n\r\n \r\n\r\nFurther to the below, still we are unable to down load the EDI file.\r\n\r\nPls refer to the below screenshots.\r\n\r\n \r\n\r\nAble to down load only the excel file.\r\n\r\n \r\n\r\nAppreciate your assistance.\r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nThanks & Best Regards\r\n\r\nIresh Fernando\r\n\r\nBranch Manager\r\n\r\nPioneer Shipping Agency \r\n\r\nSuufi Sheikh Road,\r\nBarawaaqo Village,\r\nBerbera, Somaliland.\r\n\r\nOffice Tel: +252 2 740003\r\n\r\nMobile /Whatsapp: +252 63 6696664\r\n\r\n \r\n\r\nFrom: Ahmed Magdi - National Shipping <magdi@nationaldubai.ae> \r\nSent: Monday, January 12, 2026 7:47 AM\r\nTo: Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; OPS - Pioneer Somaliland <ops@Pioneersomaliland.com>; Iresh Fernando <iresh@Pioneersomaliland.com>; Chamara - National Shipping <chamara@nation",
+        "sender": "Iresh Fernando",
+        "sender_email": "iresh@pioneersomaliland.com",
+        "time": "20:38"
+      },
+      "answer": {
+        "text": "Hi Chris,\r\n\r\n附件为最后确认的开发说明书，供参考，如有问题请帮忙告知。多谢！\r\n\r\n预计完成时间如下：\r\n测试系统：07-Feb \r\n正式系统：15-Feb \r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Chris Xiao/CUL-NAS/DOC <chrisxiao@culines.com>\r\n发送时间: 2026年1月8日 9:37\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; Emma Wang/CUL-CN/CS <emmawang@culines.com>\r\n抄送: Nick Tian/CUL-TR <nicktian@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47 \r\n \r\n\r\nHi 小丁姐，\r\n\r\n \r\n\r\n请问以下优化的功能预计几时上线？\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nChris Xiao / 肖婷婷\r\n\r\nDocume",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "15:45"
+      },
+      "date": "01-12",
+      "category": "提单操作",
+      "quality_score": 5,
+      "matched_keywords": 2,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_11",
+      "subject": "回复: ALLEGRO - GENERATING OF EDI FILE FOR INWARD MANIFEST",
+      "question": {
+        "text": "Hi Iresh,\r\nCould you check now? since it need about 5 mins to processing after click the transmit button.\r\n\r\n\r\nThanks & Best Regards\r\n\r\n \r\n\r\nRicky Qin / 秦 琪\r\n\r\nDigital Project Manager\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-138-1732-7221\r\n\r\nE-mail: rickyqin@culines.com <mailto:rickyqin@culines.com> \r\n\r\nWeb: www.culines.com <https://url.emailprotection.link/?bTarGOjpqKBdnAhGSLJN9zjtDgKh3sdobaBVGqXokp-cIm_BxjKmCeSAmpcaZ9f4dULeUT5TBYjmVMhJWsct9aQ~~> \r\n\r\n\r\n\r\n \r\n\r\n________________________________\r\n\r\n发件人: Iresh Fernando <iresh@Pioneersomaliland.com>\r\n发送时间: 2026年1月13日 16:31\r\n收件人: Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; Ahmed Magdi - National Shipping <magdi@nationaldubai.ae>; OPS - Pioneer Somaliland <ops@Pioneersomaliland.com>; Chamara - National Shipping <chamara@nationaldubai.ae>; Joanne",
+        "sender": "Ricky Qin/CUL-CN/IT",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+        "time": "16:47"
+      },
+      "answer": {
+        "text": "Dear Marah,\r\n\r\nDue to restrictions in the MIV Invoice module, the bill-to customer can only be the actual customer instead of the Office Rep customer. Please try to revise the customer code and try again.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mailto:kieranji@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: CSV - SSA JOR <csv@ssajordan.com>\r\nDate: Tuesday, January 13, 2026 at 13:51\r\nTo: Kieran Ji/CUL-CN/IT <kieranji@culines.com>, Amber Hu/CUL-CN/FIN <amberhu@culines.com>, Louis Xia/CUL-CN/CS <louisxia@culines.com>, DANIEL CHEN/CUL-West Asia <danielchen@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Kieran Ji/CUL-C",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8fbb7a6a2da84db4b4b0ad5d4c8ba154-36114fa9-1b",
+        "time": "14:38"
+      },
+      "date": "01-13",
+      "category": "提单操作",
+      "quality_score": 6,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_17",
+      "subject": "new function in allegro.",
+      "question": {
+        "text": "Hi Ezgi / Docu. team\r\n\r\nJust sharing,   HQ IT help us to add two more options in “Freight Manifest”.   Easy Docu. team daily operation. \r\n\r\nFyr.  please utilize. \r\n\r\n\r\n\r\n \r\n\r\nBest Regards,\r\n\r\nNick Tian / 田益君\r\n\r\nOwner’s Representative, Turkey\r\n\r\nMobile: CN: +86 15800750552\r\n\r\nTR: +90 536 906 0536\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n \r\n",
+        "sender": "Nick Tian/CUL-TR",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=bd637b7155eb45e795d9fa93eaa843b9-8044aef4-c0",
+        "time": "21:57"
+      },
+      "answer": {
+        "text": "Dear Yami ,\r\n\r\nDone, please check. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: yamiyang.sz@suldc.com <yamiyang.sz@suldc.com>\r\n已发送: 2026 年 1 月 15 日 星期四 15:02\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>\r\n抄送: #CUL Allegro Support <allegrosupport@culines.com>; luciagong.sh <luciagong.sh@suldc.com>\r\n主题: ALLEGRO系统用户权限开通 \r\n\r\n\r\nDear Joanne,\r\n\r\n以下用户名请帮忙开下ULXMN office的权限，谢谢。\r\n\r\nyamiyang\r\n\r\n\r\n________________________________\r\n\r\n\r\nThanks&Best Regards\r\n\r\n杨鑫/Yami Yang\r\n客服主管/Customer Service Supervisor\r\n\r\n深圳市联合物流发展有限公司深圳分公司\r\n\r\nSHENZHEN UNITED LOGISTICS  DEVELOPMENT CO.,LTD.SHENZHEN BRANC",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "16:14"
+      },
+      "date": "01-15",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_21",
+      "subject": "Re: Can't open Allegro BL Preview and Print",
+      "question": {
+        "text": "Dear Culines team,\r\n\r\nany update ?\r\n\r\n\r\n\r\nOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\r\n\r\n\tDear CULINES Team,\r\n\t\r\n\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\r\n\t \r\n\r\n\t\r\n\t\r\n\t\r\n\t-- \r\n\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mailto:hendra.kurniawan@samudera.id> \r\n\r\n <https://apps.samudera.id/apps/apps.nsf/logo-connecting-indonesia.png> \r\n\r\n\r\n <http://www.samudera.id/> \r\n\r\n\r\n <http://www.facebook.com/SamuderaID>   <http://www.twitter.com/@samudera_ind>    <http://www.instagram.com/samudera.id>  \r\n\r\n\t \r\n",
+        "sender": "Hendra Kurniawan",
+        "sender_email": "hendra.kurniawan@samudera.id",
+        "time": "18:24"
+      },
+      "answer": {
+        "text": "﻿Dear Hendra\r\n\r\nPlease retrieve BL by ID under office SASUB but not SAIID,thanks.\r\n\r\n发自我的 iPhone\r\n\r\n\r\n\t在 2026年1月22日，18:24，Hendra Kurniawan <hendra.kurniawan@samudera.id> 写道：\r\n\t\r\n\t\r\n\r\n\t﻿ Dear Culines team,\r\n\t\r\n\tany update ?\r\n\t\r\n\t\r\n\t\r\n\tOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\t\r\n\r\n\t\tDear CULINES Team,\r\n\t\t\r\n\t\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\t\r\n\t\t\r\n\t\t<eqZ3tM0MmvRb3FfW.png>\r\n\r\n\t\t<WFw6vzHpYPz3Bmk7.png>\r\n\r\n\r\n\r\n\t\t-- \r\n\t\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mailto:hendra.kurniawan@samudera.i",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "20:04"
+      },
+      "date": "01-22",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_23",
+      "subject": "Re: 回复: 回复: Can't open Allegro BL Preview and Print",
+      "question": {
+        "text": "Dear Joanne,\r\n\r\nWell noted with many thanks.\r\n\r\n\r\n\r\nOn 23/01/2026 10:03, Joanne Ding/CUL-CN/IT wrote:\r\n\r\n\r\n\tDear Hendra,\r\n\r\n\tAdded already. Please check. Thanks!\r\n\r\n\r\n\tJoanne Ding / 丁佳莹\r\n\r\n\tDigital & IT Department\r\n\r\n\tMobile: +86-13417033072\r\n\r\n\tE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\n\tWeb: www.culines.com <http://www.culines.com> \r\n\r\n\t\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n\t发件人: Hendra Kurniawan <hendra.kurniawan@samudera.id> <mailto:hendra.kurniawan@samudera.id> \r\n\t已发送: 2026 年 1 月 23 日 星期五 11:01\r\n\t收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com> <mailto:joanneding@culines.com> \r\n\t抄送: Ricky Qin/CUL-CN/IT <rickyqin@culines.com> <mailto:rickyqin@culines.com> ; #CUL Allegro Support <allegrosupport@culines.com> <mailto:allegrosupport@culines.com> ; Nilesh ",
+        "sender": "Hendra Kurniawan",
+        "sender_email": "hendra.kurniawan@samudera.id",
+        "time": "11:15"
+      },
+      "answer": {
+        "text": "Dear Hendra,\r\n\r\nAdded already. Please check. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Hendra Kurniawan <hendra.kurniawan@samudera.id>\r\n已发送: 2026 年 1 月 23 日 星期五 11:01\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>\r\n抄送: Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>; Nilesh Makwana <nilesh.makwana@culshipping.in>; Tanakrishnan/CUL-MY/OP <tanakrishnan@culines.com>; Steven Seah/CUL-MY/OP <stevenseah@culines.com>; #CUL PKG OPS <pkgops@culines.com>; #CUL PKG CS <pkgcs@culines.com>; Adhyatma Syawal Natawidjaja <adhyatma.natawidjaja@s",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "11:04"
+      },
+      "date": "01-23",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_24",
+      "subject": "Re: 回复: Can't open Allegro BL Preview and Print",
+      "question": {
+        "text": "Dear Joanne,\r\n\r\nWell noted \r\ncan you add SASUB on sub other UserID  \r\n\r\n\r\n\r\nOn 23/01/2026 09:53, Joanne Ding/CUL-CN/IT wrote:\r\n\r\n\r\n\tDear Hendra,\r\n\r\n\tI've added SASUB to your ID. Now you can retrieve by both office. Please try again.Thanks!\r\n\r\n\r\n\tJoanne Ding / 丁佳莹\r\n\r\n\tDigital & IT Department\r\n\r\n\tMobile: +86-13417033072\r\n\r\n\tE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\n\tWeb: www.culines.com <http://www.culines.com> \r\n\r\n\t\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n\t发件人: Hendra Kurniawan <hendra.kurniawan@samudera.id> <mailto:hendra.kurniawan@samudera.id> \r\n\t已发送: 2026 年 1 月 23 日 星期五 10:27\r\n\t收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com> <mailto:joanneding@culines.com> \r\n\t抄送: Ricky Qin/CUL-CN/IT <rickyqin@culines.com> <mailto:rickyqin@culines.com> ; #CUL Allegro Supp",
+        "sender": "Hendra Kurniawan",
+        "sender_email": "hendra.kurniawan@samudera.id",
+        "time": "11:01"
+      },
+      "answer": {
+        "text": "Dear Hendra,\r\n\r\nI've added SASUB to your ID. Now you can retrieve by both office. Please try again.Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Hendra Kurniawan <hendra.kurniawan@samudera.id>\r\n已发送: 2026 年 1 月 23 日 星期五 10:27\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>\r\n抄送: Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>; Nilesh Makwana <nilesh.makwana@culshipping.in>; Tanakrishnan/CUL-MY/OP <tanakrishnan@culines.com>; Steven Seah/CUL-MY/OP <stevenseah@culines.com>; #CUL PKG OPS <pkgops@culines.com>; #CUL PKG CS <pkgcs@culines.com",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "10:53"
+      },
+      "date": "01-23",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_36",
+      "subject": "Re: CUL RE-EXP // DDS CHARGES ERROR // CULVJEA2402561 & CULVJIB2500305 // GSB SOLAR",
+      "question": {
+        "text": "\r\nStill unable to do\r\n\r\n\r\n\r\n\r\nThanks and regards,\r\n\r\n\r\n\r\n\r\nBessy Pathrose\r\n\r\nTrade Manager \r\n\r\nMobile and WhatsApp:+971-55-2903-863 (Primary)\r\n\r\nE-mail:bessy@culines.com\r\n\r\nWebsite:www.culines.com\r\n\r\nCULINES SHIPPING L.L.C\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n________________________________\r\n\r\nFrom: Joanne Ding/CUL-CN/IT <joanneding@culines.com>\r\nSent: Wednesday, February 4, 2026 2:20 PM\r\nTo: BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>; Kieran Ji/CUL-CN/IT <kieranji@culines.com>\r\nCc: #CUL Allegro Support <allegrosupport@culines.com>\r\nSubject: 回复: CUL RE-EXP // DDS CHARGES ERROR // CULVJEA2402561 & CULVJIB2500305 // GSB SOLAR \r\n\r\nDear Bessy,\r\n\r\nPlease assist to try again. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joannedi",
+        "sender": "BESSY PATHROSE/CUL-West Asia",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=1ccb5b0672bc41188739fb28b9ed94c4-0b4b1835-06",
+        "time": "21:05"
+      },
+      "answer": {
+        "text": "Dear Bessy,\r\n\r\nPlease assist to try again. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>\r\n已发送: 2026 年 2 月 4 日 星期三 18:06\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Kieran Ji/CUL-CN/IT <kieranji@culines.com>\r\n抄送: #CUL Allegro Support <allegrosupport@culines.com>\r\n主题: Re: CUL RE-EXP // DDS CHARGES ERROR // CULVJEA2402561 & CULVJIB2500305 // GSB SOLAR \r\n\r\nDear Joanne,\r\n\r\nCan you pls able to change my level of approval to 2?\r\n\r\n\r\nThanks and regards,\r\n\r\n\r\n\r\n\r\nBessy Pathrose\r\n\r\nTrade Manager\r\n\r\nMobile and WhatsApp:+971-55-2903-863 (P",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "18:21"
+      },
+      "date": "02-04",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_48",
+      "subject": "RE: CUL INDIA SUB AGENT RAIL COSTS IN MAY SOA",
+      "question": {
+        "text": "Dear Kieran,\r\n\r\nNoted below with thanks..\r\n\r\n \r\n\r\nDear Willie & Hui Shan,\r\n\r\n \r\n\r\nKindly add “CUL India (IN410727)” or “Seahorse Ship Agencies Private Ltd (IN345901)” as service provider for this route to enable creation of the MT JO.\r\n\r\nPlease note that all charges collected from the customer.\r\n\r\n \r\n\r\nService provider: IN410727 / IN345901\r\n\r\nFrom: INHARY01\r\n\r\nTo: INTKDY01\r\n\r\nType: CY\r\n\r\nFreight: ₹ 7,800/- per 40HC\r\n\r\n \r\n\r\n \r\n\r\nBest Regards \r\n\r\nAnil Baranwal\r\n\r\nAsst. Manager - EQC\r\n\r\nIndia\r\n\r\nTel: +91-22-4159 9974\r\n\r\nMobile: +91-9892578436\r\n\r\nE-mail : anil.baranwal@culshipping.in <mailto:anil.baranwal@culshipping.in> \r\n\r\nCUL Shipping (India) Pvt. Ltd.\r\n\r\nAs Agents For :\r\n\r\n\r\n\r\nwww.culines.com\r\n\r\n \r\n\r\nFrom: Kieran Ji/CUL-CN/IT <kieranji@culines.com> \r\nSent: 09 February 2026 14:08\r\nTo: Anil ",
+        "sender": "Anil Baranwal",
+        "sender_email": "anil.baranwal@culshipping.in",
+        "time": "17:00"
+      },
+      "answer": {
+        "text": "Dear Bessy,\r\n\r\nNo yet, it should be approved by Level 2 and Level 3 once again before YP sir approve. Thanks!\r\nFor level 2, please approve with your ID.\r\nFor level 3. please ask PIC to approve. Following user list  for your reference.\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>\r\n发送时间: 2026年2月9日 15:31\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Kieran Ji/CUL-CN/IT <kieranji@culines.com>\r\n抄送: #CUL Allegro Support <allegrosupport@culines.com>\r\n主题: Re: CUL RE-EXP // DDS CHARGES ERROR // CULVJEA2402561 & CULVJIB2500305 // GSB SOLAR \r\n \r",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "15:39"
+      },
+      "date": "02-09",
+      "category": "提单操作",
+      "quality_score": 6,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_60",
+      "subject": "回复: CU LINE TMJ Surabaya - EDI & Reporting Confirmation",
+      "question": {
+        "text": "Hi Indah,\r\nCould you try to login again? it should be normal now.\r\n\r\n\r\nThanks & Best Regards\r\n\r\n \r\n\r\nRicky Qin / 秦 琪\r\n\r\nDigital Project Manager\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-138-1732-7221\r\n\r\nE-mail: rickyqin@culines.com <mailto:rickyqin@culines.com> \r\n\r\nWeb: www.culines.com <https://url.emailprotection.link/?bTarGOjpqKBdnAhGSLJN9zjtDgKh3sdobaBVGqXokp-cIm_BxjKmCeSAmpcaZ9f4dULeUT5TBYjmVMhJWsct9aQ~~> \r\n\r\n\r\n\r\n \r\n\r\n________________________________\r\n\r\n发件人: Indah Fitria <Indah.Fitria@meratus.com>\r\n发送时间: 2026年2月12日 15:51\r\n收件人: Della Sandi <Della.Sandi@meratus.com>; Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; Bruce BI/CUL-CN/EQC <brucebi@culines.com>; Henny Cut Irnawati <henny.irnawati@samudera.id>; Asmara Budi Kartika <asmara.kartika@samudera.id>; Joanne Ding/CUL-CN/IT <joanneding@culi",
+        "sender": "Ricky Qin/CUL-CN/IT",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+        "time": "16:39"
+      },
+      "answer": {
+        "text": "Dear Ahmend,\r\n\r\nGood day!\r\n\r\nPlease provide the example BL for us to check and if you encounter any error. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Ahmed Magdi - National Shipping <magdi@nationaldubai.ae>\r\n发送时间: 2026年2月11日 18:45\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Smitha Vipin/CUL-West Asia <Smithavipin@culines.com>; Anakha Arun/CUL-West Asia <anakhaarun@culines.com>; Priyanka Karnik/CUL-West Asia <priyanka@culines.com>\r\n抄送: Darico Dai/CUL-UAE <daricodai@culines.com>; Sean Wang/CUL-CN/Agency Mgt <seanwang@culines.com>; Senal - National Shipping <senal@nationaldubai",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "09:11"
+      },
+      "date": "02-12",
+      "category": "提单操作",
+      "quality_score": 6,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_66",
+      "subject": "RE: Allegro System Issue – 3rd POC Not Reflecting / FCA Required",
+      "question": {
+        "text": "Dear @Joanne Ding/CUL-CN/IT <mailto:joanneding@culines.com> \r\n\r\nYes, there is no feature for 3rd POC under OFT. I have already adjusted this in the special notes. However, once it was sent to POL to enable the auto calculation, it did not reflect accordingly.\r\n\r\nTherefore, we will need to proceed via FCA.\r\n\r\n \r\n\r\nThanks & Best Regards\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nFrom: Joanne Ding/CUL-CN/IT <joanneding@culines.com> \r\nSent: Friday, 13 February 2026 1:07 PM\r\nTo: Ahmed Magdi - National Shipping <magdi@nationaldubai.ae>; Smitha Vipin/CUL-West Asia <Smithavipin@culines.com>; Anakha Arun/CUL-West Asia <anakhaarun@culines.com>; Priyanka Karnik/CUL-West Asia <priyanka@culines.com>\r\nCc: Darico Dai/CUL-UAE <daricodai@culines.com>; Sean Wang/CUL-CN/Agency Mgt <seanwang@culines.com>; Senal - National Sh",
+        "sender": "Ahmed Magdi - National Shipping",
+        "sender_email": "magdi@nationaldubai.ae",
+        "time": "18:14"
+      },
+      "answer": {
+        "text": "Dear Ahmed,\r\n\r\n\r\nAs far as I know, there is no feature that 3rd  POC can be set up for OFT in the agreement, besides, I can't find 3rd POC that had been setup in the special notes for attached agreement.\r\n\r\nIt's correct to proceed updates via FCA. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Ahmed Magdi - National Shipping <magdi@nationaldubai.ae>\r\n已发送: 2026 年 2 月 13 日 星期五 12:39\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Smitha Vipin/CUL-West Asia <Smithavipin@culines.com>; Anakha Arun/CUL-West Asia <anakhaarun@culines.com>; Priyanka Karnik/CUL-West Asia <priyanka@culines",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "17:06"
+      },
+      "date": "02-13",
+      "category": "提单操作",
+      "quality_score": 6,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_74",
+      "subject": "Re: WAIVER REQUEST FOR DETENTION AND DEMUMURAGE - DA000000214805A",
+      "question": {
+        "text": "Dear Joanne,\r\n\r\n\r\nnoted which to select for the approval step ?\r\n\r\n\r\n\r\nBest Regards,\r\n\r\n \r\n\r\nPei Yee\r\n\r\n \r\n\r\n\r\n\r\n\r\n\t------------------------------------------------------------------\r\n\tFrom:Joanne Ding/CUL-CN/IT <joanneding@culines.com>\r\n\tSend Time:Wed, Feb 25, 2026, 17:47\r\n\tTo:\"Siti Aisha/CUS-SG/LH Trade\"<sitiaisha@culines.com>; sukma<sukma@my-tritonshipping.com>; \"#CUL Allegro Support\"<allegrosupport@culines.com>; \"#CUL Long Haul\"<longhaul@culines.com>; peiyee<peiyee@my-tritonshipping.com>\r\n\tCC:\"马来-帕西古当\"<pgu.shipping@my-tritonshipping.com>\r\n\tSubject:回复: WAIVER REQUEST FOR DETENTION AND DEMUMURAGE - DA000000214805A\r\n\r\n\tDear Pei yee,\r\n\r\n\tPlease note that approval steps can't be amended once you submit request. Please cancel this DA and create a new one. Thanks!\r\n\r\n\r\n\tJoanne Ding / 丁佳莹\r\n\r\n\t",
+        "sender": "Pei yee",
+        "sender_email": "peiyee@my-tritonshipping.com",
+        "time": "18:30"
+      },
+      "answer": {
+        "text": "Dear Yao Fu,\r\n\r\n\r\nPlease note that it's the same reason as before, the estimated sailling date of TSKL2609W is 02-Mar. The monthly exchange rate hasn't been updated by head office.\r\nPlease pay attention to Kevin's update email. Invoices can only be issued after he finishes the maintenance.Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: BLA Japan - CUL Docs <cul.docs.jp@benline.com>\r\n发送时间: 2026年2月25日 17:05\r\n收件人: BLA Japan - CUL Docs <cul.docs.jp@benline.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\n抄送: Claire Hong/CUL-JP/Trade <",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "17:56"
+      },
+      "date": "02-25",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_77",
+      "subject": "Issue with Marks & Goods Section",
+      "question": {
+        "text": "Dear Joanne\r\n\r\n \r\n\r\n \r\n\r\nI am unable to fill in the Marks & Goods section because the system is displaying the error message shown in the screenshot below. Please advise what I should do. \r\n\r\n \r\n\r\n \r\n\r\nThank you.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nHabon Ali Abdi\r\nExport documentation\r\n\r\nDjibouti Shipping Services SARL\r\n(as Agents only)\r\nRepublic of Djibouti   \r\n4th. Floor, Salaam Tower, Opposite of Nougaprix Hypermarket \r\nTel: +253 21 35 46 40 /Mobile No : +253 77 64 99 93  \r\nEmail:  habon@dssdjibouti.com <mailto:%20habon@dssdjibouti.com>  \r\n\r\nwebsite: www.sharafshipping.com <http://www.sharafshipping.com/>  \r\n\r\nMiddle East    Africa   Indian SubContinent\r\n\r\n \r\n",
+        "sender": "Habon Abdi - DJSS",
+        "sender_email": "habon@dssdjibouti.com",
+        "time": "17:26"
+      },
+      "answer": {
+        "text": "Forward to Agency Management Team.\r\n\r\n \r\n\r\nPlease kindly confirm whether we need to create a new office code for BELAWAN (IDBLW), if yes, please provide necessary informations for our creation (the attachment is for your reference).\r\n\r\nIn addition, please also help to check and confirm the user ID and his/her authorities requested in below.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mailto:catherinekang@culines.com> \r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n发件人: Henny Cut Irnawati <henny.irnawati@samudera.id> \r\n发送时间: 2026年2月24日 16:01\r\n收件人: Kieran Ji/CUL-CN/IT <kieranji@culines.com>\r\n抄送: Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines",
+        "responder": "Catherine Kang/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=4feed10ffb2f4f9f9d9ec578e12967b6-f40f21a1-e3",
+        "time": "12:04"
+      },
+      "date": "02-25",
+      "category": "提单操作",
+      "quality_score": 6,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_85",
+      "subject": "Re: BI System Permission application",
+      "question": {
+        "text": "Approved, thank you\r\n\r\n\r\n\tAllan Ng / 黄少永\r\n\r\n\tDeputy General Manager,\r\n\r\n\tAgency Management,\r\n\r\n\tTerminal Procurement & R&D Team\r\n\r\n\tMobile: +65 8613 4780\r\n\tWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\t200 Cantonment Road #11-01,\r\n\r\n\tSouthpoint, Singapore 089763\r\n\r\n\r\n\tOn 28 Feb 2026, at 4:32 PM, Ella Ju/CUL-CN/Analysis <ellaju@culines.com> wrote:\r\n\t\r\n\t\r\n\r\n\t﻿ \r\n\tDear Allan,\r\n\r\n\tConsidering the report is useful to EQC to refer to the empty unit cost, request your batch approval for the user in the table below. Thank you.\r\n\r\nUser ID\r\nDept.\r\nDANIAL.CHAN\r\nEQC\r\nJEFFERY.WANG\r\nEQC\r\nCHRISTINE\r\nEQC\r\nRUBICK.CHEN\r\nEQC\r\nDAVID.DONG\r\nEQC\r\n\r\n\r\n\tBest Regards\r\n\r\n\tElla Ju / 居凤云\r\n\r\n\tResearch & Analysis Manager\r\n\r\n\tCUL China Agency\r\n\r\n\tTel: +86-21-6858 7937\r\n\r\n\tMobile: +86 15921265979\r\n\r\n\tE-mail: ellaju@",
+        "sender": "Allan Ng/CUL-SG",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b1002c142b8f4899a5e949e400165fe1-acd95c77-8a",
+        "time": "21:30"
+      },
+      "answer": {
+        "text": "Dear David,\r\n\r\nMIV权限已添加。\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mailto:kieranji@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: David Dong/CUL-CN/EQC <daviddong@culines.com>\r\nDate: Saturday, February 28, 2026 at 10:50\r\nTo: Louis Xia/CUL-CN/CS <louisxia@culines.com>, #CUL Commercial <commercial@culines.com>\r\nCc: #CUL MNR <mnr@culines.com>, Rita Qu/CUL-CN/FIN <ritaqu@culines.com>, Molly Mu/CUL-CN/FIN <mollymu@culines.com>, Carrie Meng/CUL-CN/FIN <carriemeng@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, Amber Hu/CUL-CN/FIN <amberhu@culines.com>\r\nSubject: 回复: Paint flake TRHU8758737\r\n\r\n\r\n\r\nDear FIN & IT ，\r\n\r\n \r\n\r",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8fbb7a6a2da84db4b4b0ad5d4c8ba154-36114fa9-1b",
+        "time": "16:57"
+      },
+      "date": "02-28",
+      "category": "提单操作",
+      "quality_score": 4,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_109",
+      "subject": "RE: MEGA - EXPRESS BERLIN 26005E - NHAVA SHEVA ",
+      "question": {
+        "text": "Dear Susan\r\n\r\n \r\n\r\nGood day\r\n\r\n \r\n\r\nYes we can get the data in Allegro for below bl\r\n\r\n \r\n\r\n RIC : Dear  MY/TH Team, urgently revert on below\r\n\r\n \r\n\r\n \r\n\r\nBest regards,\r\n\r\nYadnesh Gawde\r\n\r\nAssistant Manager – Documentation\r\n\r\nIndia\r\n\r\nPhone : + 91 22 41599961\r\n\r\nMobile : +91-99207 65172\r\n\r\nE-mail : yadnesh.gawde@culshipping.in <mailto:yadnesh.gawde@culshipping.in> \r\n\r\nUnit 1004-1007, Plot no 6/7 CTS No 46/25\r\n\r\nBuilding “AT”, Mahal Industrial Estate, Mahakali Caves Road\r\n\r\nChakala , Andheri (East), Mumbai-400 093. India.\r\n\r\nCUL Shipping (India) Pvt. Ltd.\r\n\r\nAs Agents For :\r\n\r\n\r\n\r\nwww.culines.com <http://www.culines.com/> \r\n\r\n \r\n\r\n \r\n\r\nFrom: Susan Le/CUL-VN/OP <Susanle@culines.com> \r\nSent: 09 March 2026 18:38\r\nTo: Frankie Huang/CUL-CN/OP <frankiehuang@CULINES.COM>; Yadnesh Gawde <yadnesh.ga",
+        "sender": "Yadnesh Gawde",
+        "sender_email": "yadnesh.gawde@culshipping.in",
+        "time": "22:47"
+      },
+      "answer": {
+        "text": "Hi Chris,\r\n\r\n以下开发已经上线测试系统， 还请协助测试，如有问题，请帮忙于本周内告知。\r\n如没有问题，将按计划于2026-Mar-14 (22:30 UTC+7)上线。多谢~\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Chris Xiao/CUL-NAS/DOC <chrisxiao@culines.com>\r\n发送时间: 2026年1月8日 9:37\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; Emma Wang/CUL-CN/CS <emmawang@culines.com>\r\n抄送: Nick Tian/CUL-TR <nicktian@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47 \r\n \r\n\r\nHi 小丁姐，\r\n\r\n \r\n\r\n请问以下优化的功能预计几时上线？\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nChris Xiao / 肖婷婷\r\n\r\n",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "19:07"
+      },
+      "date": "03-09",
+      "category": "提单操作",
+      "quality_score": 5,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_111",
+      "subject": "回复: MEGA - EXPRESS BERLIN 26005E - NHAVA SHEVA ",
+      "question": {
+        "text": " \r\n\r\n \r\n\r\nDear Susan,\r\n\r\n \r\n\r\nAs talked, route created.\r\n\r\n \r\n\r\nThanks & Best Regards!\r\n\r\n \r\n\r\nFrankie Huang/ 黄梓轩\r\n\r\nOperation Specialist\r\n\r\nMarine Operations Team\r\n\r\nTel: +86-21-6595-6010\r\n\r\nMobile: +86-133-0174-6376\r\n\r\nE-mail: frankiehuang@culines.com <mailto:frankiehuang@culines.com> \r\n\r\nGroup E-mail: marine@culines.com <mailto:marine@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nChina United Lines Ltd.\r\n\r\n\r\n\r\n \r\n\r\n发件人: Susan Le/CUL-VN/OP <Susanle@culines.com> \r\n发送时间: 2026年3月9日 20:49\r\n收件人: Yadnesh Gawde <yadnesh.gawde@culshipping.in>; Jeff Yao/CUL-SG/LH Trade <jeffyao@culines.com>; #CUL PKG CS <pkgcs@culines.com>; #CUL TH LH Trade Sales <thlhtradesales@culines.com>; #CUL HPH Sales <hphsales@culines.com>; #CUL HCM Sales <hcmsales@culines.com>; #CUL Marine <marine@cu",
+        "sender": "Frankie Huang/CUL-CN/OP",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+        "time": "21:04"
+      },
+      "answer": {
+        "text": "Dear Indani,\r\ncc Henny,\r\n\r\nAfter checking, I find that the admin accounts that are common use had been created for following 3 office before.\r\nPlease use the staff ID we provided for eservice account approval. Any other problem, please let us know. Thanks!\r\n\r\nIDSUB: SASUB office\r\n\r\n\r\n\r\nIDJKT:  SAIID office\r\nIDBLW: SAIID office\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Indani Zulfah <indani.zulfah@samudera.id>\r\n已发送: 2026 年 3 月 9 日 星期一 16:33\r\n收件人: Henny Cut Irnawati <henny.irnawati@samudera.id>\r\n抄送: Kieran Ji/CUL-CN/IT <kieranji@culines.com>; Easton SI/CUL-CN/Agency Mgt <eastonsi@culin",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "17:16"
+      },
+      "date": "03-09",
+      "category": "提单操作",
+      "quality_score": 6,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_147",
+      "subject": "回复: REQUEST CU LINES ACCOUNT & PASSWORD",
+      "question": {
+        "text": "Dear Jessica,\r\n\r\nPenang share the same agreement with Pasir Gudang, both of 2 ports are under agency S&T's handling.\r\n\r\nThe latest contact list is attached for your reference as well.\r\n\r\nBest Regards.\r\nDylan Dong / 董枭健\r\nAgency Management Specialist\r\nAgency Management Department\r\nMobile: +86-166-0213-4124\r\nE-mail: dylandong@culines.com\r\nWeb: www.culines.com\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Jessica Shi/CUL-CN/CS <jessicashi@culines.com>\r\n已发送: 2026 年 3 月 18 日 星期三 17:34\r\n收件人: Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>\r\n抄送: Yap Choon Siong/CUL-SG/FIN <choonsiongy@culines.com>; Allan Ng/CUL-SG <allanng@culines.com>; #CUL FIN Agency <agencyfinance@culines.com>; Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>; Emma Wang/CUL-CN/CS <emmawang@culines.com>; Rita Qu/CUL-CN/F",
+        "sender": "Dylan Dong/CUL-CN/Agency Mgt",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=0cc96fb0557d41d4bcb982571fcbfb98-bb641326-3a",
+        "time": "17:39"
+      },
+      "answer": {
+        "text": "Dear Saoli,\r\n\r\nYou can click the “Manual Calculation” button to refresh. Already done for CULVNGO2600109.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mailto:kieranji@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: BLA Japan - CUL Docs <cul.docs.jp@benline.com>\r\nDate: Wednesday, March 18, 2026 at 13:32\r\nTo: Kieran Ji/CUL-CN/IT <kieranji@culines.com>\r\nCc: Document Center1 <documentcenter1@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Chris Xiao/CUL-NAS/DOC <chrisxiao@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, BLA Japan - CUL Docs <cul.docs.jp@benline.com>\r\nSubject: RE: ///Friendly reminder/// RE: ",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8fbb7a6a2da84db4b4b0ad5d4c8ba154-36114fa9-1b",
+        "time": "15:20"
+      },
+      "date": "03-18",
+      "category": "提单操作",
+      "quality_score": 4,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_161",
+      "subject": "RE: function issue",
+      "question": {
+        "text": "@#CUL AEM Trade <mailto:AEMTRADE@culines.com> \r\n\r\nThanks to assist. \r\n\r\nAttached trade approval email FYR. \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nFrom: Joanne Ding/CUL-CN/IT <joanneding@culines.com> \r\nSent: Thursday, March 26, 2026 4:24 PM\r\nTo: Randa El Zahany <randa.elzahany@seagloryegypt.com>; Abdelrahman Dahab <abdelrahman.dahab@seagloryegypt.com>; Finn Fei/CUL-UAE <finnfei@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\nCc: Export <Export@seagloryegypt.com>; Yomna elabd <yomna.elabd@seagloryegypt.com>; Sales <Sales@seagloryegypt.com>; Boquan Gan/CUL-UAE <boquangan@culines.com>\r\nSubject: 回复: function issue\r\n\r\n \r\n\r\nDear Randa,\r\n\r\n \r\n\r\nAfter checking, there is no avaliable ocean route in allegro.\r\n\r\nPlease apply to Trade for creation and copy to marine team. Thanks!\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nJoanne Di",
+        "sender": "Randa El Zahany",
+        "sender_email": "randa.elzahany@seagloryegypt.com",
+        "time": "22:28"
+      },
+      "answer": {
+        "text": "Dear Randa,\r\n\r\nAfter checking, there is no avaliable ocean route in allegro.\r\nPlease apply to Trade for creation and copy to marine team. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Randa El Zahany <randa.elzahany@seagloryegypt.com>\r\n发送时间: 2026年3月26日 22:04\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Abdelrahman Dahab <abdelrahman.dahab@seagloryegypt.com>; Finn Fei/CUL-UAE <finnfei@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\n抄送: Export <Export@seagloryegypt.com>; Yomna elabd <yomna.elabd@seagloryegypt.com>; Sales <Sales@seagloryegypt.com>; Boquan Gan/C",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "22:23"
+      },
+      "date": "03-26",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_178",
+      "subject": "RE: ERROR ON FREIGHT AGREEMENT//CULVJIB2600108",
+      "question": {
+        "text": "Dear @Joanne Ding/CUL-CN/IT <mailto:joanneding@culines.com> \r\n\r\nCC : CUL support teams.\r\n\r\n \r\n\r\nGood day\r\n\r\n \r\n\r\nEverything appears to be in order from our side. It is SOC agreement and filed under the tariff.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nBest Regards\r\n\r\nMadina Mohamed\r\nAssit.Manager -Sales & Export\r\n\r\nDjibouti Shipping Services SARL\r\n(as Agents only)\r\nRepublic of Djibouti   \r\n4th. Floor, Salaam Tower, Opposite of Nougaprix Hypermarket \r\nTel : +253 21 35 46 40 / Mobile No: +253 77 28 39 87\r\nEmail: madina@dssdjibouti.com <mailto:madina@dssdjibouti.com> \r\n\r\nwebsite: www.sharafshipping.com <http://www.sharafshipping.com/>  \r\n\r\nMiddle East   Africa  Indian SubContinent \r\n\r\n \r\n\r\nFrom: Joanne Ding/CUL-CN/IT \r\nSent: jeudi 2 avril 2026 10:40\r\nTo: Habon Abdi - DJSS <habon@dssdjibouti.com>; Kieran Ji/CUL-CN/IT",
+        "sender": "Madina Mohamed Ali - DJSS",
+        "sender_email": "madina@dssdjibouti.com",
+        "time": "15:53"
+      },
+      "answer": {
+        "text": "Dear Habon,\r\n\r\n\r\nKindly ask your sales team to re-check the agreement. There is no surcharge exception in A2631406. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Habon Abdi - DJSS <habon@dssdjibouti.com>\r\n已发送: 2026 年 4 月 2 日 星期四 15:07\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Kieran Ji/CUL-CN/IT <kieranji@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>; Madina Mohamed Ali - DJSS <Madina@dssdjibouti.com>\r\n抄送: Export Docs - DJSS <Export.Docs@dssdjibouti.com>\r\n主题: RE: ERROR ON FREIGHT AGREEMENT//CULVJIB2600108 \r\n\r\n\r\nDear Joanne Ding\r\n\r\n \r\n\r\nWe are facing a ma",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "15:39"
+      },
+      "date": "04-02",
+      "category": "提单操作",
+      "quality_score": 5,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "主题不相关Allegro",
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_180",
+      "subject": "Re: 回复: JPNGOY01 empty storage calculate free time",
+      "question": {
+        "text": "Dear Charlie \r\n\r\n \r\n\r\nYou said 7days is Terminal , this one is depot . \r\n\r\nDepot no Free time \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nAndrew Xu / 徐鲁宁\r\n\r\nOwner’s Chief Representative\r\n\r\nTH Mobile:+66-095-976-6630\r\n\r\nCH Mobile:+86-136-1291-5767\r\n\r\nJP Mobile:+81-070-6529-0053 \r\n\r\nWeb: www.culines.com/ <http://www.culines.com/>  \r\n\r\n7F, Mayapada Shiodome Plaza, 2-11-4 \r\n\r\nHigashi-Shinbashi, Minato-ku, Tokyo\r\n\r\n20th Floor Lumpini Tower, Rama 4 Road,\r\n\r\nThungmahamek, Sathorn, Bangkok 10120\r\n\r\n\r\n\r\n \r\n\r\n发件人: Charlie Zhao/CUL-CN/CS <charliezhao@culines.com>\r\n日期: 2026年4月3日 星期五 18:29\r\n收件人: Tomohiro HARASAWA <tomohiro.harasawa@benline.com>, Andrew Xu/CUL-TH <andrewxu@culines.com>, Document Center1 <documentcenter1@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>\r\n抄送: #CUL CNHQ AP/AR Settlement <cnhqa",
+        "sender": "Andrew Xu/CUL-TH",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=dc6161e08cf94e75bba26d64b76a8511-4b91bcbe-89",
+        "time": "19:49"
+      },
+      "answer": {
+        "text": "Dear Madina,\r\n\r\nPlease share your ID and PW for me to access, thanks~\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Madina Mohamed Ali - DJSS <Madina@dssdjibouti.com>\r\n发送时间: 2026年4月3日 15:52\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\n抄送: Export Docs - DJSS <Export.Docs@dssdjibouti.com>; Commercial - DJSS <Commercial@dssdjibouti.com>\r\n主题: RE: URGENT///UPDATE OFFICE CODE FOR COLLECT CHARGES/// \r\n \r\n\r\nDear Joanne\r\n\r\n \r\n\r\nGood day\r\n\r\n \r\n\r\nI understand your point. I tried to open the special note for updating as guided below, but I am unabl",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "17:24"
+      },
+      "date": "04-03",
+      "category": "提单操作",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    }
+  ]
+}

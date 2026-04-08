@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_49",
+  "subject": "回复: Guidance Required on OOS Invoice Processing",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_49_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_49_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Tonny Ni/CUL-UAE",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3f4a9778033247edac4c6550e4151b01-f8165b93-43",
+      "role": "external"
+    },
+    {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "email": "responder_qa_49@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-09T13:28:00Z",
+  "last_email_at": "2026-03-09T14:53:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_49",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

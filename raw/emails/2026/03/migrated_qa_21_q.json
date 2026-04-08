@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_21_q",
+  "conversationId": "thread_qa_21",
+  "internetMessageId": "<migrated-qa_21-q@allegro-support>",
+  "subject": "madina@dssdjibouti.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Madina Mohamed Ali - DJSS",
+      "address": "madina@dssdjibouti.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-18T14:30:00Z",
+  "sentDateTime": "2026-03-18T14:30:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear @Joanne Ding/CUL-CN/IT <mail\n\r\n \r\n\r\nCc : CUL Support teams\r\n\r\n \r\n\r\nGood morning\r\n\r\n \r\n\r\nNoted below. Please note the 2 containers corresponding to bill CULVJI2600085 are as follows:\r\n\r\n \r\n\r\nTLLU2647477 \r\n\r\nDFSU2297843\r\n\r\n \r\n\r\nSame have been updated but unable to revised the quantity of the booking to ‘’2’’ instead of ‘’3’’.\r\n\r\n \r\n\r\nThank you.\r\n\r\n \r\n\r\n \r\n\r\nBest Regards\r\n\r\nMadina Mohamed\r\nAssit.Manager -Sales & Export\r\n\r\nDjibouti Shipping Services SARL\r\n(as Agents only)\r\nRepublic of Djibouti   \r\n4th. Floor, Salaam Tower, Opposite of Nougaprix Hypermarket \r\nTel : +253 21 35 46 40 / Mobile No: +253 77 28 39 87\r\nEmail: madina@dssdjibouti.com <mail\n\r\nwebsite: www.sharafshipping.com <http://www.sharafshipping.com/>  \r\n\r\nMiddle East   Af"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_21",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_52_a",
+  "conversationId": "thread_qa_52",
+  "internetMessageId": "<migrated-qa_52-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_52@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Suki Xie/CUL-NAS/DOC",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-05T19:26:00Z",
+  "sentDateTime": "2026-03-05T19:26:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Ezgi,\r\n\r\nPlease try again. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月5日 19:23\r\n\n主题: YNT: High Importance *** ALLEGRO **** CUL ESERVICE PERMISSON FOR REVIEW AND APPROVE THE CUSOTMER ACCOUNT \r\n \r\n\r\nDear Joanne \r\n\r\nHave you changed our password , could you pls check , we can not log in now"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_52",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_59_q",
+  "conversationId": "thread_qa_59",
+  "internetMessageId": "<migrated-qa_59-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+  "sender": {
+    "emailAddress": {
+      "name": "Easton SI/CUL-CN/Agency Mgt",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-25T09:51:00Z",
+  "sentDateTime": "2026-02-25T09:51:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "<Remove agency>\r\n\r\nDear Kieran,\r\n\r\nPlease kindly assist in deactivating the three accounts highlighted in gray in the attachment.\r\n\r\n\r\nThank you!\r\n\r\nBest Regards,\r\n\r\nEaston Si/司文东\r\n\r\nAgency Management Department\r\n\r\nMobile: +86-187-5698-8480\r\n\r\nE-mail: eastonsi@culines.com\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年2月24日 20:33\r\n\n抄送: Yew Ping, Teo/CUL <ypteo@culines.com>; Allan Ng/CUL-SG <allanng@culines.com>; Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>; Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>; Izelle Tan <izelletan@culines.com>; Darico Dai/CUL-UAE <daricodai@culines.com>; Sean Wang/CUL-CN/A"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_59",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

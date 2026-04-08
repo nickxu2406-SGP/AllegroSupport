@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_44_a",
+  "conversationId": "thread_qa_44",
+  "internetMessageId": "<migrated-qa_44-a@allegro-support>",
+  "subject": "Re: henny.irnawati@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_44@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Henny Cut Irnawati",
+        "address": "henny.irnawati@samudera.id"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-04T15:13:00Z",
+  "sentDateTime": "2026-03-04T15:13:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Easton,\r\n\r\nThe account has been updated according to the information provided.\r\nFor the newly created account please find the details in the attachment.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Saturday, February 28, 2026 at 09:10\r\n\nCc: Allan Ng/CUL-SG <allanng@culines.com>, Michael Zhao/CUL-PH <michaelzhao@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Dylan Dong/CUL-CN/Agency Mgt <dylando"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_44",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

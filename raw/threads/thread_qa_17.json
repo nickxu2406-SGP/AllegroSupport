@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_17",
+  "subject": "REMINDER URGENT!! NEED IT SUPPORT CONTRACT NO INQUIRY CULVINC2600168 A26Q35412",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_17_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_17_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Janet JIN",
+      "email": "janet.jin@benline.com",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_17@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-20T14:29:00Z",
+  "last_email_at": "2026-03-20T14:49:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_17",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

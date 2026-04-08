@@ -1,0 +1,38 @@
+{
+  "id": "qa_208",
+  "classification": {
+    "category": "其他",
+    "confidence": 0.8,
+    "tags": []
+  },
+  "question": {
+    "text": "",
+    "summary": "...",
+    "keywords": [],
+    "sender": {
+      "name": "Jamie Ye/CUL-CN/SH Trade",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a786c432b5f0475082b53cb88b17b3c2-9641c722-46",
+      "role": "external"
+    }
+  },
+  "answer": {
+    "text": "",
+    "summary": "...",
+    "responder": {
+      "name": "",
+      "email": "",
+      "role": "support"
+    }
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "completeness": "complete"
+  },
+  "history": [
+    {
+      "action": "created",
+      "timestamp": "2026-04-07T22:51:12.931521",
+      "note": "180天混合采集"
+    }
+  ]
+}

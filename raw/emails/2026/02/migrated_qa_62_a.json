@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_62_a",
+  "conversationId": "thread_qa_62",
+  "internetMessageId": "<migrated-qa_62-a@allegro-support>",
+  "subject": "Re: anil.baranwal@culshipping.in",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_62@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Anil Baranwal",
+        "address": "anil.baranwal@culshipping.in"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-09T16:37:00Z",
+  "sentDateTime": "2026-02-09T16:37:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Anil,\r\n\r\nAll set now, please try again.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Monday, February 9, 2026 at 12:58\r\n\nCc: CUL-IND/Finance <culin.finance@culshipping.in>, #CUL Commercial <commercial@culines.com>, Carrie Meng/CUL-CN/FIN <carriemeng@culines.com>, Vivek Singh <v"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_62",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_27_a",
+  "conversationId": "thread_qa_27",
+  "internetMessageId": "<migrated-qa_27-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=56f322aaaa274532b5313b71918b598d-724c1e7a-54",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_27@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Izelle Tan/CUL-SG/Agency Mgt",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=56f322aaaa274532b5313b71918b598d-724c1e7a-54"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-16T18:34:00Z",
+  "sentDateTime": "2026-03-16T18:34:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Izelle,\r\n\r\nPlease check the Account info. Below, thanks!\r\n\r\nID: birkan\r\nPWD: Aa123456!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 11, 2026 at 16:56\r\n\nCc: MARTI Mersin - Birkan ÇİFTÇİ <birkan.ciftci@marticontainer.com.tr>, Nick Tian/CUL-TR <nicktian@culines.com>, Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>, Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>, Lanvee Sun/CUL-TR <lanveesun@"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_27",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

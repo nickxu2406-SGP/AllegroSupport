@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_41_q",
+  "conversationId": "thread_qa_41",
+  "internetMessageId": "<migrated-qa_41-q@allegro-support>",
+  "subject": "henny.irnawati@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Henny Cut Irnawati",
+      "address": "henny.irnawati@samudera.id"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-13T17:32:00Z",
+  "sentDateTime": "2026-02-13T17:32:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran,\r\nPls confirm my understanding:\r\nIDJKT office under SAIID : \r\nIDSUB office under SAISUB : my username is SAIID for eservice adm and irnawati for allegro\r\nIDJKT office under SAIBLW? user name allegro arifkhajapi\r\n\r\nThis one is requested for IDBLW office\r\n\r\nThanks\r\n\r\n\r\n🧧  Holiday Notice 🏮✨\r\n\r\nFebruary 16 - 17, 2026 | Chinese New Year 2577 Kongzili\r\n\r\n\r\nBest Regards,\r\n\r\n\r\nHenny Cut Irnawati\r\n\r\nTraffic and Document Manager - GENA\r\n\r\nPT Samudera Agencies Indonesia\r\n\r\nLetjen S. Parman St No.Kav. 35, Kemanggisan, Palmerah, West Jakarta City, Jakarta 11480, Indonesia\r\n\r\np: (021) 5300580 ext 87271\r\n\r\nm: +6282110291033\r\n\r\ne: henny.irnawati@samudera.id <mail\n\r\n\r\nOn Fri, Feb 13, 2026 at 3:29 PM Kieran Ji/CUL-CN/IT <kieranji@culines.com <mailto:kieranji@culin"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_41",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

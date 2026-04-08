@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_26_a",
+  "conversationId": "thread_qa_26",
+  "internetMessageId": "<migrated-qa_26-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_26@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Louis Xia/CUL-CN/CS",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-16T18:37:00Z",
+  "sentDateTime": "2026-03-16T18:37:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Mohamed,\r\n\r\n\r\nAs I explained before, please provide the route detail for marine team to unlock VVD, and then ask Trade to unlock CULVPZU2500034 within 2 hours.\r\n\r\nThen, please also delete the OFT within 2 hours after VVD unlocked. Tks~\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Louis Xia/CUL-CN/CS <louisxia@culines.com>; Kevin Du/CUL-West Asia <kevindu@culines.com>; Darico Dai/CUL-UAE <daricodai@culines.com>; Smitha Vipin/CUL-West Asia <Smithavi"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_26",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

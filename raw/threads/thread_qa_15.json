@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_15",
+  "subject": "POD agent set-up for new POD: AEKLF // JEA FPOD in INNSA  - route via AEKLF GFS GISELLE 033",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_15_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_15_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Chris Nguyen/CUL-VN/OP",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e2c8e3180ecc4f0299445e2ee5e928fe-40c4651c-87",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_15@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-20T15:06:00Z",
+  "last_email_at": "2026-03-20T16:04:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_15",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

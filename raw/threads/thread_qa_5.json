@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_5",
+  "subject": "BL Code Removal Request",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_5_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_5_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Simon Sun/CUL-CN/CS",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=d352a743ecc84203ba952215d57a407d-82ee8892-5a",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_5@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-20T17:28:00Z",
+  "last_email_at": "2026-03-30T16:11:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_5",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

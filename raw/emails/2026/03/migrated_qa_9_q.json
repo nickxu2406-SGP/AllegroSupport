@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_9_q",
+  "conversationId": "thread_qa_9",
+  "internetMessageId": "<migrated-qa_9-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a81254885d5447238e610c00604bbd08-f16bdac8-94",
+  "sender": {
+    "emailAddress": {
+      "name": "Daisy Xiang/CUL-SZN/OP",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a81254885d5447238e610c00604bbd08-f16bdac8-94"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-24T18:04:00Z",
+  "sentDateTime": "2026-03-24T18:04:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Danny,\r\n\r\n \r\n\r\nPls kindly contact  with IT team for further assist, thanks.\r\n\r\n \r\n\r\nDaisy Xiang\r\n\r\nOperation Department\r\n\r\nTel: +86-755-2360-7852\r\n\r\nMobile: +86-13725593431\r\n\r\nE-mail: daisyxiang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nCULines Shipping Agency Ltd. Shenzhen Branch\r\n\r\nAs agent for CULINES\r\n\r\n\t\r\n\t\r\n\r\n \r\n\r\n \r\n\r\n\n发送时间: 2026年3月24日 17:24\r\n收件人: Daisy Xiang/CUL-SZN/OP <daisyxiang@culines.com>; EGL | Hany Ibrahim <H.ibrahim@eglegypt.com>; Bob Wu/CUL-SG/LH Trade <bobwu@culines.com>; EGL | Booking CULINES <exp.culines@eglegypt.com>; Senna Yao/CUL-SZN/OP <sennayao@culines.com>; Boquan Gan/CUL-UAE <boquangan@culines.com>; EGL | REEFER <reefer@eglegypt.com>; Nick Leung/CUL-"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_9",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

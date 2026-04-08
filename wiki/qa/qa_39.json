@@ -1,0 +1,63 @@
+{
+  "id": "qa_39",
+  "version": 1,
+  "question": {
+    "text": "Dear Kieran/Joanne，\r\n\r\n \r\n\r\nAny update?\r\n\r\n \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nHelen Zhang\r\n\r\nCustomer Service\r\n\r\nTel: +65 6681 5696\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\n\nSubject: RE: DDS Invoice Error - CULVPKG2600057 & CULVPKG2600150\r\n\r\n \r\n\r\nDear Kieran/ Joanne,\r\n\r\n \r\n\r\nAny update? \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nHelen Zhang\r\n\r\nCustomer Service\r\n\r\nTel: +65 6681 5696\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\nFrom: Kieran Ji/CU",
+    "original_email_id": "migrated_qa_39_q",
+    "sender_name": "Helen Zhang/CUS-SG/SGAgency",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+    "sent_at": "2026-03-10T14:42:00Z",
+    "summary": "Dear Kieran/Joanne， Any update? Helen Zhang Customer Service 200 Cantonment Road #11-01 Southpoint, ...",
+    "keywords": [
+      "error",
+      "订舱操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Helen,\r\n\r\nThese two are still under fix. Will update you once done.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, March 10, 2026 at 14:42\r\n\nSubject: RE: DDS Invoice Error - CULVPKG2600057 & CULVPKG2600150\r\n\r\n\r\n\r\nDear Kieran/Joanne，\r\n\r\n \r\n\r\nAny update?\r\n\r\n \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nHelen Zhang\r\n\r\nCustomer Service\r\n\r\nTel: +65 6681 5696\r\n\r\nWeb: www.culine",
+    "original_email_id": "migrated_qa_39_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_39@culines.com",
+    "sent_at": "2026-03-10T17:57:00Z",
+    "summary": "Dear Helen, These two are still under fix. Will update you once done. Kieran Ji ...",
+    "keywords": [
+      "error",
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_39",
+    "path": "../raw/threads/thread_qa_39.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "DDS Invoice Error - CULVPKG2600057 & CULVPKG2600150"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

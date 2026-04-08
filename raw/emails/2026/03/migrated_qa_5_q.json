@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_5_q",
+  "conversationId": "thread_qa_5",
+  "internetMessageId": "<migrated-qa_5-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=d352a743ecc84203ba952215d57a407d-82ee8892-5a",
+  "sender": {
+    "emailAddress": {
+      "name": "Simon Sun/CUL-CN/CS",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=d352a743ecc84203ba952215d57a407d-82ee8892-5a"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-20T17:28:00Z",
+  "sentDateTime": "2026-03-20T17:28:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran,\r\n\r\nPlease check the BL code, which does not appear in Freight but exists in the actual invoice detail within the finance system. Could this be removed? Thank you.\r\n\r\nB/L No.\r\nCharge Code\r\nCurrency\r\nTotal\r\nCULVNGB2202100\r\nLSS\r\nUSD\r\n250\r\nCULVNGB2202100\r\nWRS\r\nUSD\r\n250\r\nCULVSHK2118512\r\nWRS\r\nUSD\r\n50\r\nCULVSHK2118512\r\nLSS\r\nUSD\r\n50\r\nCULVSHK2202214\r\nLSS\r\nUSD\r\n400\r\nCULVSHK2202214\r\nWRS\r\nUSD\r\n400\r\n\r\n\r\n\r\nBest regards.\r\n\r\n \r\n\r\nSimon sun / 孙宇飞\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nMobile: +86-136-1187-7786\r\n\r\nE-mail: simonsun@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/>"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_5",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

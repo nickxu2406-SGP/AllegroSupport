@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_23",
+  "subject": "REQUEST CU LINES ACCOUNT & PASSWORD",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_23_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_23_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Pei Yee",
+      "email": "peiyee.chong@sjclemenger.com",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_23@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-05T13:17:00Z",
+  "last_email_at": "2026-03-18T15:16:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_23",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

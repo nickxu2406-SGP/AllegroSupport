@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_61_a",
+  "conversationId": "thread_qa_61",
+  "internetMessageId": "<migrated-qa_61-a@allegro-support>",
+  "subject": "Re: raka.guritno@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_61@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Raka Pandam Guritno",
+        "address": "raka.guritno@samudera.id"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-13T16:39:00Z",
+  "sentDateTime": "2026-02-13T16:39:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Raka,\r\n\r\nPlease check your account info below, thanks!\r\n\r\nID: rakaguritno\r\nPWDD: Aa123456!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, February 13, 2026 at 15:07\r\n\nCc: Michael Zhao/CUL-PH <michaelzhao@culines.com>, Finance Agency <finance.agency@samudera.id>, Diana Paays <diana.paays@samudera.id>, #CUL Commercial <commercial@culines.com>, #CUL Allegro Support"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_61",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

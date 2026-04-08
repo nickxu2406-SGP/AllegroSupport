@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_2",
+  "subject": "回复: Allegro System – Customer Code Consolidation",
+  "emails": [
+    {
+      "$ref": "../emails/2026/04/migrated_qa_2_q.json"
+    },
+    {
+      "$ref": "../emails/2026/04/migrated_qa_2_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Ricky Qin/CUL-CN/IT",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_2@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-04-07T11:52:00Z",
+  "last_email_at": "2026-04-07T12:05:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_2",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

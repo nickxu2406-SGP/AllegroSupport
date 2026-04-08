@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_29_a",
+  "conversationId": "thread_qa_29",
+  "internetMessageId": "<migrated-qa_29-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+  "sender": {
+    "emailAddress": {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "address": "responder_qa_29@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Frankie Huang/CUL-CN/OP",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-11T18:14:00Z",
+  "sentDateTime": "2026-03-11T18:14:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Finn,\r\n\r\n \r\n\r\nSince EGALYT05 and EGALYT02 is under same location EGALY, so impossible to create an ocean(trunk or feeder) link between 2 them.\r\n\r\nIf the Delivery Term of the bookings can change to CY, then we can create a inland link of EGALYT05-EGALYT02 (similar as carrier’s haulage route) , if it must be Free Out term at EGALY, then the route only can be POL=CNTAOT02 ~POD=EGALYT05.  As for the movements, Terminal T/S costs and feeder charge if any, it has to be settled manually.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月10日 20:00\r\n收件人: Fr"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_29",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

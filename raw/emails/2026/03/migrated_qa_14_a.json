@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_14_a",
+  "conversationId": "thread_qa_14",
+  "internetMessageId": "<migrated-qa_14-a@allegro-support>",
+  "subject": "Re: cul.docs.jp@benline.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_14@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "BLA Japan - CUL Docs",
+        "address": "cul.docs.jp@benline.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-23T18:08:00Z",
+  "sentDateTime": "2026-03-23T18:08:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Good day Amane,\r\n\r\nIf this container is confirmed to belong to the booking, you can attach it to the slot and then perform a manual calculation.\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Monday, March 23, 2026 at 16:46\r\n\nCc: Document Center1 <documentcenter1@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Chris Xiao/CUL-NAS/DOC <chrisxiao@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, BLA"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_14",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

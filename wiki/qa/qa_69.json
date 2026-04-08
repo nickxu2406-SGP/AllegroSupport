@@ -1,0 +1,64 @@
+{
+  "id": "qa_69",
+  "version": 1,
+  "question": {
+    "text": "Dear IT Team，\r\n\r\nDue to business requirements, bank accounts are required for clearing operations in the Allegro system. \r\n\r\nHowever, the relevant bank account has not yet been configured in the system, \r\n\r\nwhich is affecting daily clearing processes.\r\n\r\nTo ensure smooth business operations going forward,\r\n\r\nwe kindly request that the following bank account be added to the system and enabled for clearing purposes:\r\n\r\nBank Name: MIZUHO BANK , Ltd.（0001）\r\n\r\nBranch Name: GINZA BRANCH（035）\r\n\r\nAccount Type: Saving Account\r\n\r\nAccount Number:4352036\r\n\r\nAccount Name: 海和海運株式会社（KAIWA SHIPPING Co., Ltd.）\r\n\r\nSWIFT CODE：MHCBJPJT\r\n\r\nBank Address：\r\n\r\n〒104-0061東京都中央区銀座4-2-11(4-2-11 Ginza, Chuo-ku, Tokyo 104-0061, Japan)\r\n\r\nPlease let us know if any additional information or further action is required.",
+    "original_email_id": "migrated_qa_69_q",
+    "sender_name": "Limeng An/CUL-JP/FIN&HR",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba",
+    "sent_at": "2026-01-16T14:24:00Z",
+    "summary": "Dear IT Team， Due to business requirements, bank accounts are required for clearing operations in th...",
+    "keywords": [
+      "Allegro",
+      "BL",
+      "提单操作",
+      "system"
+    ]
+  },
+  "answer": {
+    "text": "Dear Limeng,\r\n\r\nReceived. We will create it in the system once confirmed.\r\n\r\nDear FIN,\r\n\r\nPlease review the request below and advise the setup. Thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, January 16, 2026 at 14:24\r\n\nCc: Andrew Xu/CUL-TH <andrewxu@culines.com>, Doris Huang/CUL-TPE/FIN&HR <tw.dorishuang@culines.com>, Cathy Xu/CUL-TPE/FIN&HR <tw.cathyxu@culines.com>, #CUL JP Office <jp@culines.com>, Monica Teng/CUL-CN/FIN <monicateng@culines.com>,",
+    "original_email_id": "migrated_qa_69_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_69@culines.com",
+    "sent_at": "2026-01-16T16:59:00Z",
+    "summary": "Dear Limeng, Received. We will create it in the system once confirmed. Dear FIN,...",
+    "keywords": [
+      "提单操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_69",
+    "path": "../raw/threads/thread_qa_69.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "提单操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "Request to Add Bank Account for System Clearing/申请追加Allegro系统销账所需银行账号"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

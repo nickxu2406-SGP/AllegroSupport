@@ -1,0 +1,62 @@
+{
+  "id": "qa_49",
+  "version": 1,
+  "question": {
+    "text": "Keep more IDs in the loop.\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nTonny Ni / 倪嘉安\r\n\r\nOwner’s Representative\r\n\r\nCULINES SHIPPING LLC (WEST ASIA)\r\n\r\nMobile (UAE): +971-050-307-9199 (WhatsApp)\r\n\r\nMobile (CN): +86-158-2196-8265 (WeChat)\r\n\r\nE-mail: tonnyni@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n\n发送时间: 2026年3月8日 3:11\r\n\n主题: Gu",
+    "original_email_id": "migrated_qa_49_q",
+    "sender_name": "Tonny Ni/CUL-UAE",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3f4a9778033247edac4c6550e4151b01-f8165b93-43",
+    "sent_at": "2026-03-09T13:28:00Z",
+    "summary": "Keep more IDs in the loop. Tonny Ni / 倪嘉安 Owner’s Representative CULINES SHIPPING LLC (WEST ASIA) 主题...",
+    "keywords": [
+      "其他"
+    ]
+  },
+  "answer": {
+    "text": "Dear Tonny,\r\n\r\n \r\n\r\nAccording to the Booking, INNSA/INMUN ~ SAJED is under IMR service, which the slot charge shall be settled by BSA&SLT, instead of J/O.\r\n\r\nSo please kindly contact with NPD team to update the BSA and SLT invoice accordingly.\r\n\r\n\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月9日 13:28\r\n收件人: #CUL Allegro Support <allegrosupport@culines.com>; Catherine Kang/CUL-CN/IT <catherinekang@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Rita Qu/CUL-CN/FIN <ritaqu@culines.com>; Sharon Lim/CUL-SG/FIN <sharonlim@culines.com>; Daric",
+    "original_email_id": "migrated_qa_49_a",
+    "responder_name": "Catherine Kang/CUL-CN/IT",
+    "responder_email": "responder_qa_49@culines.com",
+    "sent_at": "2026-03-09T14:53:00Z",
+    "summary": "Dear Tonny, According to the Booking, INNSA/INMUN ~ SAJED is under IMR service, ...",
+    "keywords": [
+      "booking",
+      "其他",
+      "Allegro"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_49",
+    "path": "../raw/threads/thread_qa_49.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "其他",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: Guidance Required on OOS Invoice Processing"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

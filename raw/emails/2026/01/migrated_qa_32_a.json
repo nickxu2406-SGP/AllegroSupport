@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_32_a",
+  "conversationId": "thread_qa_32",
+  "internetMessageId": "<migrated-qa_32-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_32@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Chris Xiao/CUL-NAS/DOC",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-14T11:13:00Z",
+  "sentDateTime": "2026-01-14T11:13:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Chris,\r\n\r\n为了保证开发质量，更新上线时间如下，谢谢！\r\n\r\n预计完成时间：\r\n\r\n*\t\r\n\tUAT server: Friday, 06-March-2026\r\n*\t\r\n\tPROD server: Saturday, 14-March-2026\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47 \r\n\r\nHi Chris,\r\n\r\n附件为最后确认的开发说明书，供参考，如有问"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_32",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

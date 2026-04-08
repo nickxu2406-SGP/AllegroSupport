@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_55_q",
+  "conversationId": "thread_qa_55",
+  "internetMessageId": "<migrated-qa_55-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+  "sender": {
+    "emailAddress": {
+      "name": "Helen Zhang/CUS-SG/SGAgency",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-03T10:45:00Z",
+  "sentDateTime": "2026-03-03T10:45:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Joanne \r\n\r\nAllegro Support\r\n\r\n \r\n\r\nAny update?\r\n\r\n \r\n\r\nPlease assist for the DDS invoice which is wrong. \r\n\r\n \r\n\r\nCULVPKG2600101\r\n\r\nCULVPKG2600102\r\n\r\n \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nHelen Zhang\r\n\r\nCustomer Service\r\n\r\nTel: +65 6681 5696\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01\r\n\r\nSouthpoint, Singapore 089763"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_55",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_24_a",
+  "conversationId": "thread_qa_24",
+  "internetMessageId": "<migrated-qa_24-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_24@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Frankie Huang/CUL-CN/OP",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-16T18:47:00Z",
+  "sentDateTime": "2026-03-16T18:47:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Challa,\r\n\r\nPlease check following that the unit is wrong.Tks~\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月16日 14:12\r\n收件人: Frankie Huang/CUL-CN/OP <frankiehuang@culines.com>; Raghu <eqc@nationaldubai.ae>; Hardy Hou/CUL-West Asia <hardyhou@culines.com>; Anakha Arun/CUL-West Asia <anakhaarun@culines.com>; Rubick Chen/CUL-CN/EQC <rubickchen@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Madina Mohamed Ali - DJSS <Madina@dssdjibouti.com>; BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>; Laveena <laveena@nationaldubai.ae>;"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_24",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_45_a",
+  "conversationId": "thread_qa_45",
+  "internetMessageId": "<migrated-qa_45-a@allegro-support>",
+  "subject": "Re: indani.zulfah@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_45@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Indani Zulfah",
+        "address": "indani.zulfah@samudera.id"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-10T11:04:00Z",
+  "sentDateTime": "2026-03-10T11:04:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Indani,\r\n\r\nPlease try to re-login and check, thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, March 10, 2026 at 10:06\r\n\nCc: Henny Cut Irnawati <henny.irnawati@samudera.id>, Kieran Ji/CUL-CN/IT <kieranji@culines.com>, Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>, Michael Zhao/CUL-PH <michaelzhao@culines.com>, Allan Ng/CUL-SG <allanng@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_45",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

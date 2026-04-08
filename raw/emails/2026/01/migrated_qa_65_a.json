@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_65_a",
+  "conversationId": "thread_qa_65",
+  "internetMessageId": "<migrated-qa_65-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09",
+  "sender": {
+    "emailAddress": {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "address": "responder_qa_65@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Sean Wang/CUL-CN/Agency Mgt",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-28T10:38:00Z",
+  "sentDateTime": "2026-01-28T10:38:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Invite EQC team to comment,\r\n\r\n \r\n\r\nTarget Container: DFSU2687754, located at DJJIBT01\r\n\r\n \r\n\r\nAccording to the instruction in below, above container shall be attached to the booking CULVSHK2528832, which outbound from CNSHK.\r\n\r\nPlease help to create a virtual status(via SLIN/SLOT) or a virtual movement (via reposition booking) to relocate the container from current DJJIB to CNSHK in system, then manually create a Full cycle movements corresponding to the booking route.\r\n\r\nIn addition, there will be many virtual movements and cost generated in system due to this irregular case, we expect the relevant teams to make a corresponding manual adjustments/settlements accordingly.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherine"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_65",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

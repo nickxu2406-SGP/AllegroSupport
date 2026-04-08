@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_61",
+  "subject": "Username and Password in Allegro",
+  "emails": [
+    {
+      "$ref": "../emails/2026/02/migrated_qa_61_q.json"
+    },
+    {
+      "$ref": "../emails/2026/02/migrated_qa_61_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Raka Pandam Guritno",
+      "email": "raka.guritno@samudera.id",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_61@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-02-13T16:25:00Z",
+  "last_email_at": "2026-02-13T16:39:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_61",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

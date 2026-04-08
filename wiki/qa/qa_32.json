@@ -1,0 +1,61 @@
+{
+  "id": "qa_32",
+  "version": 1,
+  "question": {
+    "text": "Hi 小丁姐，\r\n\r\n \r\n\r\n请问以下优化的功能预计几时上线？\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nChris Xiao / 肖婷婷\r\n\r\nDocument Specialist\r\n\r\nDocument Center \r\n\r\nTel: +86-20-8496-9501 \r\n\r\nMobile: +86-159-2039-5537\r\n\r\nE-mail: chrisxiao@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年1月7日 17:12\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47\r\n\r\n \r\n\r\nHi Chris,\r\n\r\n \r\n\r\n如之前沟通，在系统自动校验全口岸提单规则的功能开发前，我们先按原计划优化土耳其进出口TAX ID 和email 的校验功能。\r\n\r\n优化内容如下，如有问题请帮忙告知，多谢！",
+    "original_email_id": "migrated_qa_32_q",
+    "sender_name": "Chris Xiao/CUL-NAS/DOC",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+    "sent_at": "2026-01-08T09:37:00Z",
+    "summary": "Hi 小丁姐， 请问以下优化的功能预计几时上线？ Chris Xiao / 肖婷婷 Document Specialist Document Center 主题: 回复: Weekly Report,...",
+    "keywords": [
+      "提单",
+      "提单操作"
+    ]
+  },
+  "answer": {
+    "text": "Hi Chris,\r\n\r\n为了保证开发质量，更新上线时间如下，谢谢！\r\n\r\n预计完成时间：\r\n\r\n*\t\r\n\tUAT server: Friday, 06-March-2026\r\n*\t\r\n\tPROD server: Saturday, 14-March-2026\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47 \r\n\r\nHi Chris,\r\n\r\n附件为最后确认的开发说明书，供参考，如有问",
+    "original_email_id": "migrated_qa_32_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_32@culines.com",
+    "sent_at": "2026-01-14T11:13:00Z",
+    "summary": "Hi Chris, 为了保证开发质量，更新上线时间如下，谢谢！ 预计完成时间： * UAT server: Friday, 06-March-2026 * PR...",
+    "keywords": [
+      "提单操作"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_32",
+    "path": "../raw/threads/thread_qa_32.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "提单操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

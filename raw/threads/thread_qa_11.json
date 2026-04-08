@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_11",
+  "subject": "///Friendly reminder/// RE: Request to Restore Booking No. CULVNGO2600109, CULVNGO2600121 and CULVNGO2600108",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_11_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_11_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "BLA Japan - CUL Docs",
+      "email": "cul.docs.jp@benline.com",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_11@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-18T13:32:00Z",
+  "last_email_at": "2026-03-18T15:20:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_11",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

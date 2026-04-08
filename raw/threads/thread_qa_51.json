@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_51",
+  "subject": "回复: High Importance  *** ALLEGRO     ****      CUL ESERVICE PERMISSON FOR REVIEW AND APPROVE THE CUSOTMER ACCOUNT",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_51_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_51_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Suki Xie/CUL-NAS/DOC",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_51@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-05T15:56:00Z",
+  "last_email_at": "2026-03-05T19:00:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_51",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

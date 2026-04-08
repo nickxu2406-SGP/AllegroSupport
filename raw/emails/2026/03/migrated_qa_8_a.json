@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_8_a",
+  "conversationId": "thread_qa_8",
+  "internetMessageId": "<migrated-qa_8-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=dc6161e08cf94e75bba26d64b76a8511-4b91bcbe-89",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_8@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Andrew Xu/CUL-TH",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=dc6161e08cf94e75bba26d64b76a8511-4b91bcbe-89"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-27T18:29:00Z",
+  "sentDateTime": "2026-03-27T18:29:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Limeng,\r\n\r\nThe MIS Invoice access is not user-specific but is managed at the invoice office level. Please contact the HQ FIN team to request this access.\r\n\r\nThe rest of the requested permissions have been enabled. Please check, thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 27, 2026 at 16:06\r\n\nCc: Doris Huang/CUL-TPE/FIN&HR <tw.dorishuang@culines.com>, Cathy"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_8",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

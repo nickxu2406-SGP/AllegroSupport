@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_12_q",
+  "conversationId": "thread_qa_12",
+  "internetMessageId": "<migrated-qa_12-q@allegro-support>",
+  "subject": "cul.docs.jp@benline.com",
+  "sender": {
+    "emailAddress": {
+      "name": "BLA Japan - CUL Docs",
+      "address": "cul.docs.jp@benline.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-18T15:44:00Z",
+  "sentDateTime": "2026-03-18T15:44:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran san\r\n\r\n \r\n\r\nThank you for your advise.\r\n\r\nCould you advise us how to update the free days from 0 to 10?\r\n\r\n \r\n\r\nBest regards,\r\n\r\n \r\n\r\nSaori IWATA\r\n\r\nEQC/Operation – As agents for CU LINES\r\n\r\nBen Line Agencies – Tokyo, Japan\r\n\r\nTel +81 3 6718 0741\r\n\r\nsaori.iwata@benline.com <mail\n\r\nwww.benlineagencies.com <http://www.benlineagencies.com/> \r\n\r\n \r\n\r\n\nSubject: Re: ///Fr"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_12",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

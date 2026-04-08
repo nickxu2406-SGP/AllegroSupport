@@ -1,0 +1,64 @@
+{
+  "id": "qa_64",
+  "version": 1,
+  "question": {
+    "text": "Dear Allegro team,\r\n    Please help suggest, thanks.\r\n\r\n\r\n\r\nColleeh Zhou/周珂\r\n\r\nResearch & Analysis Specialist\r\n\r\nChina Analysis Team,CUL China \r\n\r\nTel: 021-6595 6093\r\n\r\nE-mail: Colleehzhou@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\t\r\n\t\t \r\n \r\n\r\n \r\n\r\n\r\n\r\n\n发送时间: 2026年2月2日 19:52\r\n\n主题: Re: 回复: 官网缺少THD费用: 申请合约：CUL JAKARTA 2604W 上海口岸 \r\n \r\nDear Colleeh，\r\n\r\n重新跑约还是没有",
+    "original_email_id": "migrated_qa_64_q",
+    "sender_name": "Colleeh Zhou/CUL-CN/Analysis",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+    "sent_at": "2026-02-03T09:00:00Z",
+    "summary": "Dear Allegro team, Colleeh Zhou/周珂 Research & Analysis Specialist China Analysis Team,CUL China 主题: ...",
+    "keywords": [
+      "Allegro",
+      "费用相关"
+    ]
+  },
+  "answer": {
+    "text": "Dear Colleeh,\r\n\r\nPlease check following that POD ETA of subject booking is 09-Mar that is not within the valid period of THD.  So THD is not applicable. Thanks!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n抄送: mindychen <mi",
+    "original_email_id": "migrated_qa_64_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_64@culines.com",
+    "sent_at": "2026-02-03T10:28:00Z",
+    "summary": "Dear Colleeh, Joanne Ding / 丁佳莹 Digital & IT Department",
+    "keywords": [
+      "booking",
+      "BL",
+      "POD",
+      "费用相关"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_64",
+    "path": "../raw/threads/thread_qa_64.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "费用相关",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: 回复: 官网缺少THD费用: 申请合约：CUL JAKARTA 2604W  上海口岸"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

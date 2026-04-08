@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_15_a",
+  "conversationId": "thread_qa_15",
+  "internetMessageId": "<migrated-qa_15-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e2c8e3180ecc4f0299445e2ee5e928fe-40c4651c-87",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_15@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Chris Nguyen/CUL-VN/OP",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e2c8e3180ecc4f0299445e2ee5e928fe-40c4651c-87"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-20T16:04:00Z",
+  "sentDateTime": "2026-03-20T16:04:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Chris,\r\n\r\nAll set. For previous bookings, you can manually refresh by clicking the button below.\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 20, 2026 at 15:06\r\n\nSubject: Re: POD agent set-up for new POD: AEKLF // JEA FPOD in INNSA - route via AEKLF GFS GISELLE 033\r\n\r\n\r\nDear Allegro Support Team,\r\n\r\n\r\nAs per attached from Trade, please help set up POD agent for new POD: AEKLF (same as AEJEA). Thank yo"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_15",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

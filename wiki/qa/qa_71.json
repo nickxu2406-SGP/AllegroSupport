@@ -1,0 +1,62 @@
+{
+  "id": "qa_71",
+  "version": 1,
+  "question": {
+    "text": "Adding @Joanne Ding/CUL-CN/IT <mail\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nRegards,\r\n\r\n \r\n\r\nMarah Al Fawaier/Ms\r\nSenior Customer Service Executive\r\n\r\nSharaf Shipping Agencies Co. W.L.L\r\n\r\nTHE BOULIVARD, ABDALI\r\n\r\nTel: +962 6 5695960 / 5695970 \r\nWhatsApp :+962797229071\r\n\r\nFax: +962 6 5682813\r\nE-mail: csv@ssajordan.com <mail\n\r\nwww.sharafshipping.com <http://www.sharafshipping.com/> \r\n\r\n \r\n\r\n\nCc: #CUL Allegro Support <allegrosupport@culines.com>; Mohanned -SSAJOR <mohanned@ssajordan.com>; Finance - SS",
+    "original_email_id": "migrated_qa_71_q",
+    "sender_name": "CSV - SSA JOR",
+    "sender_email": "csv@ssajordan.com",
+    "sent_at": "2026-01-13T13:51:00Z",
+    "summary": "Adding @Joanne Ding/CUL-CN/IT <mail Marah Al Fawaier/Ms Senior Customer Service Executive Sharaf Shi...",
+    "keywords": [
+      "报关操作",
+      "Allegro"
+    ]
+  },
+  "answer": {
+    "text": "Dear Marah,\r\n\r\nDue to restrictions in the MIV Invoice module, the bill-to customer can only be the actual customer instead of the Office Rep customer. Please try to revise the customer code and try again.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, January 13, 2026 at 13:51\r\nTo: Kieran Ji/CUL-CN/IT <kieranji@culines.com>, Amber Hu/CUL-CN/FIN <amberhu@culines.com>, Louis Xia/CUL-CN/CS <louisxia@culines.com>, DANIEL CHEN/CUL-West Asia <danielchen@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Kieran Ji/CUL-C",
+    "original_email_id": "migrated_qa_71_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_71@culines.com",
+    "sent_at": "2026-01-13T14:38:00Z",
+    "summary": "Dear Marah, Due to restrictions in the MIV Invoice module, the bill-to customer ...",
+    "keywords": [
+      "报关操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_71",
+    "path": "../raw/threads/thread_qa_71.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "报关操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "LOLO  INVOICE // BL# CULVAQJ2500076"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

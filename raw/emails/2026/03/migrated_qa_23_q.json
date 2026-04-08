@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_23_q",
+  "conversationId": "thread_qa_23",
+  "internetMessageId": "<migrated-qa_23-q@allegro-support>",
+  "subject": "peiyee.chong@sjclemenger.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Pei Yee",
+      "address": "peiyee.chong@sjclemenger.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-05T13:17:00Z",
+  "sentDateTime": "2026-03-05T13:17:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Dylan,\r\n\r\n \r\n\r\nPls find as attached. \r\n\r\n \r\n\r\nPublic Holiday :- \r\n\r\n23-03-2026     Hari Raya Aidilfitri (replacement)\r\n\r\n01-05-2026     Labour Day \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nPei Yee 佩儀\r\n\r\n \r\n\r\nOffice: +6(03)33589799 / 0589\r\n\r\nMobile: +60(12)6865885\r\n\r\nE-mail: peiyee.chong@sjclemenger.com <mail\n\r\n \r\n\r\n\nCc: shellysong <shellysong@st-pacific.sg>; shipping@my.suijun.com; karloschen <karloschen@st-pacific.sg>; Allan Ng/CUL-SG <allanng@culines.com>; Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>; Easton SI/CUL-CN/Agency Mgt <eastons"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_23",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

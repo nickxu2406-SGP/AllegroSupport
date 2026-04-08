@@ -1,0 +1,62 @@
+{
+  "id": "qa_60",
+  "version": 1,
+  "question": {
+    "text": "To Allegro Support \r\n\r\n \r\n\r\nPlease assist check the DDS invoice for this Vsl TSHK2605W, All are wrong \r\n\r\n \r\n\r\n\r\n\r\nBest Regards,\r\n\r\nHelen Zhang\r\n\r\nCustomer Service\r\n\r\nTel: +65 6681 5696\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01\r\n\r\nSouthpoint, Singapore 089763",
+    "original_email_id": "migrated_qa_60_q",
+    "sender_name": "Helen Zhang/CUS-SG/SGAgency",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+    "sent_at": "2026-02-20T14:34:00Z",
+    "summary": "To Allegro Support Please assist check the DDS invoice for this Vsl TSHK2605W, All are wrong Helen Z...",
+    "keywords": [
+      "Allegro",
+      "订舱操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Helen\r\n\r\n\r\nThe DB patch was done. Please help to re-check the invoice.Thanks.\r\n\r\n\r\n发自我的 iPhone\r\n\r\n\r\n\t在 2026年2月20日，20:58，Joanne Ding/CUL-CN/IT <joanneding@culines.com> 写道：\r\n\t\r\n\t\r\n\r\n\t﻿ \r\n\tDear Helen,\r\n\r\n\tAs our vendor is on holiday from Feb 16th to Feb 22nd, I've asked them to fix it once they resume work on Feb 23th. We will let you know once fixed. Tks~\r\n\r\n\r\n\tJoanne Ding / 丁佳莹\r\n\r\n\tDigital & IT Department\r\n\r\n\tMobile: +86-13417033072\r\n\r\n\tE-mail: joanneding@culines.com <mail\n\r\n\tWeb: www.culines.com <http://www.culines.com> \r\n\r\n\t\r\n\t<Outlook-徽标 描述已自动生.png>\r\n\r\n\r\n\r\n\r\n\t\n\t发送时间: 2026年2月20日 14:34\r\n\t收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; #CUL Allegro Support <allegro",
+    "original_email_id": "migrated_qa_60_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_60@culines.com",
+    "sent_at": "2026-02-23T20:48:00Z",
+    "summary": "Dear Helen 发自我的 iPhone ﻿ Dear Helen, As our vendor is on holiday from Feb 16th t...",
+    "keywords": [
+      "Allegro",
+      "订舱操作"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_60",
+    "path": "../raw/threads/thread_qa_60.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "DDS Invoice - Ex Vsl TSHK2605W"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

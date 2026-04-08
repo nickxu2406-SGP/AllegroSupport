@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_27_q",
+  "conversationId": "thread_qa_27",
+  "internetMessageId": "<migrated-qa_27-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=56f322aaaa274532b5313b71918b598d-724c1e7a-54",
+  "sender": {
+    "emailAddress": {
+      "name": "Izelle Tan/CUL-SG/Agency Mgt",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=56f322aaaa274532b5313b71918b598d-724c1e7a-54"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-11T16:56:00Z",
+  "sentDateTime": "2026-03-11T16:56:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Kieran, Joanne,\r\n\r\nPlease help to update for MTMER office as mentioned below. Thank you!\r\n\r\n//Quote\r\nAllegro user ID,  delete “bboybek:,  create a new one for “Birkan”\r\n//Unquote\r\n\r\n\r\n\r\n\r\n\r\nBest Regards, \r\n\r\n \r\n\r\nIzelle Tan\r\n\r\nAgency Management Department\r\n\r\nMobile: +65 8250 4645\r\n\r\nE-mail: izelletan@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n200 Cantonment Road #11-01,\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\n\nTo: Nick Tian/CUL-TR <nicktian@culines.com>; Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>; Izelle Tan/CUL-SG/Agency Mgt <izelletan@culines.com>; MARTI Mersin - Birkan ÇİFTÇİ <birkan.ciftci@marticontainer.com.tr>; MARTI M"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_27",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

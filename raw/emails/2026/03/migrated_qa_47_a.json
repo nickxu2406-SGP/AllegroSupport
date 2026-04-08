@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_47_a",
+  "conversationId": "thread_qa_47",
+  "internetMessageId": "<migrated-qa_47-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=4ada351d1e474ca2b95a849d611a85d6-86005bc3-18",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_47@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Michael Zhao/CUL-PH",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=4ada351d1e474ca2b95a849d611a85d6-86005bc3-18"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-09T17:16:00Z",
+  "sentDateTime": "2026-03-09T17:16:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Indani,\r\ncc Henny,\r\n\r\nAfter checking, I find that the admin accounts that are common use had been created for following 3 office before.\r\nPlease use the staff ID we provided for eservice account approval. Any other problem, please let us know. Thanks!\r\n\r\nIDSUB: SASUB office\r\n\r\n\r\n\r\nIDJKT:  SAIID office\r\nIDBLW: SAIID office\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n抄送: Kieran Ji/CUL-CN/IT <kieranji@culines.com>; Easton SI/CUL-CN/Agency Mgt <eastonsi@culin"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_47",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

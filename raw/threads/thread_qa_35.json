@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_35",
+  "subject": "BL#CULVSHA2603420",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_35_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_35_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Document Center3",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=9188faeebfc74ceb93bf0c2f3d98e95f-d6ed8fc5-f1",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_35@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-11T08:59:00Z",
+  "last_email_at": "2026-03-11T14:39:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_35",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

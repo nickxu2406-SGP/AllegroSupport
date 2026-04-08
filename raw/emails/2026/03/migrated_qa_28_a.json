@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_28_a",
+  "conversationId": "thread_qa_28",
+  "internetMessageId": "<migrated-qa_28-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3edaacba8e9a4ed09c4959d44bc5855f-47e4d4a0-3a",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_28@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Siti Aisha/CUS-SG/LH Trade",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3edaacba8e9a4ed09c4959d44bc5855f-47e4d4a0-3a"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-16T17:46:00Z",
+  "sentDateTime": "2026-03-16T17:46:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Siti,\r\n\r\nAs shown in the screenshot , both highlighted lines meet the conditions, and No. 2 has a higher priority than No. 8, so the system picked No. 2 first.\r\n\r\nIf you want No. 8 to take priority, you can do any of the following:\r\n\r\n1.\t\r\n\tChange the Validity From Date of No. 8 to a later date than No. 2\r\n2.\t\r\n\tAdd one more condition to No. 8, for example Cargo Type\r\n3.\t\r\n\tReorder them so that No. 8 is placed before No. 2\r\n\r\n\r\nAny of these will make No. 8 take higher priority.\r\n\r\n\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: Siti Aisha/CUS-SG/LH Trade <sitiaisha@"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_28",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

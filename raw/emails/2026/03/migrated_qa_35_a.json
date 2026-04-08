@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_35_a",
+  "conversationId": "thread_qa_35",
+  "internetMessageId": "<migrated-qa_35-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=9188faeebfc74ceb93bf0c2f3d98e95f-d6ed8fc5-f1",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_35@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Document Center3",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=9188faeebfc74ceb93bf0c2f3d98e95f-d6ed8fc5-f1"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-11T14:39:00Z",
+  "sentDateTime": "2026-03-11T14:39:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Cody,\r\n\r\n已提交这个问题给供应商，后续将做优化避免改情况发生。对于本次重复booking的修复，由于直接通过数据库进行删除有一定风险，需要时间评估相关影响，建议直接通过前端Cancel其中一票，谢谢～\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 11, 2026 at 08:59\r\n\nSubject: BL#CULVSHA2603420\r\n\r\n\r\n\r\n \r\n\r\nDear all,\r\n\r\n \r\n\r\nBL#CULVSHA2603420\r\n\r\n主题单并单的时候系统卡顿，导致并了两次单，现在booking出现重复，SI无法上传，请帮忙解决，谢谢。\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nThanks & Best regards.\r\n\r\n \r\n\r\nCody Zeng / 曾家俊\r\n\r\nDocument Specialist\r\n\r\nDocument Center\r\n\r\nE-mail: codyzeng@culines."
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_35",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

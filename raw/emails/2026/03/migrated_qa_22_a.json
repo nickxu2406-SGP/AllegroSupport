@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_22_a",
+  "conversationId": "thread_qa_22",
+  "internetMessageId": "<migrated-qa_22-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_22@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-18T17:00:00Z",
+  "sentDateTime": "2026-03-18T17:00:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Colleeh/Irshad,\r\n\r\nIt can be saved successfully after SOC flag unticked and QTY deleted. Pleaes re-check. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n收件人: Docs.cul – SSA JED <docs.cul@ssajeddah.com>; Lucy.Yan (STRD) <cus@strd-logistics.com.cn>; Tonny Ni/CUL-UAE <tonnyni@culines.com>; sales.cul <sales.cul@ssajeddah.com>; Syed Faiz - SSA JED <cul.tshp1@ssajeddah.com>; MGT.CUL - SSA JED <mgt.cul@ssajeddah.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; #CUL Allegro Support <allegros"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_22",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

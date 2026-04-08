@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_31",
+  "subject": "回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47",
+  "emails": [
+    {
+      "$ref": "../emails/2026/01/migrated_qa_31_q.json"
+    },
+    {
+      "$ref": "../emails/2026/01/migrated_qa_31_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Chris Xiao/CUL-NAS/DOC",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_31@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-01-08T09:37:00Z",
+  "last_email_at": "2026-01-12T15:45:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_31",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

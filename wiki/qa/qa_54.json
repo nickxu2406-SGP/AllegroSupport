@@ -1,0 +1,61 @@
+{
+  "id": "qa_54",
+  "version": 1,
+  "question": {
+    "text": "Dear Jamie &IT Team,\r\n\r\n \r\n\r\nGood day,\r\n\r\n \r\n\r\nSorry for late reply. Pls kindly find attached as update, thanks a lot.\r\n\r\n \r\n\r\n\r\n\r\nAmber Hu / 胡思渺\r\n\r\nAccounting and Settlement Center\r\n\r\nFinance Department\r\n\r\nCUL China Agency\r\n\r\nTel: +86-21-6595-6062\r\n\r\nMobile: +86-156-9211-1648\r\n\r\nE-mail: amberhu@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月3日 14:17\r\n\n抄送: #CUL Long Haul <longhaul@culines.com>; #CUL Short Haul <shorthaul@culines.com>; #CUL TWN Trade <twntrade@culines.com>; CUL West Asia Tr",
+    "original_email_id": "migrated_qa_54_q",
+    "sender_name": "Amber Hu/CUL-CN/FIN",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=81c18d6f9a3c4a7fb0036456e4e23875-64924920-21",
+    "sent_at": "2026-03-03T14:50:00Z",
+    "summary": "Dear Jamie &IT Team, Good day, Amber Hu / 胡思渺 Accounting and Settlement Center Finance Department CU...",
+    "keywords": [
+      "订舱操作"
+    ]
+  },
+  "answer": {
+    "text": "Hi Jamie,\r\n\r\nCreated. Please check below.\r\nAny problem, please feel free to let us know. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月3日 14:50\r\n\n抄送: #CUL Long Haul <longhaul@culines.com>; #CUL Short Haul <shorthaul@culines.com>; #CUL TWN Trade <twntrade@culines.com>; CUL West Asia Trade <wat@culines.com",
+    "original_email_id": "migrated_qa_54_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_54@culines.com",
+    "sent_at": "2026-03-04T14:03:00Z",
+    "summary": "Hi Jamie, Created. Please check below. Joanne Ding / 丁佳莹 Digital & IT Department",
+    "keywords": [
+      "订舱操作",
+      "BL"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_54",
+    "path": "../raw/threads/thread_qa_54.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: <DCC> New Surcharge Code Creation in Allegro"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

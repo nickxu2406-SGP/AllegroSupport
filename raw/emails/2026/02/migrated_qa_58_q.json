@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_58_q",
+  "conversationId": "thread_qa_58",
+  "internetMessageId": "<migrated-qa_58-q@allegro-support>",
+  "subject": "luciagong.sh@suldc.com",
+  "sender": {
+    "emailAddress": {
+      "name": "luciagong.sh@suldc.com",
+      "address": "luciagong.sh@suldc.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-26T14:45:00Z",
+  "sentDateTime": "2026-02-26T14:45:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear All,\r\n\r\n烦请帮忙增加用户名：luciagong 下office权限：\r\n\r\n新增：ULXGG\r\n\r\n谢谢。\r\n\r\n\r\n\r\n\r\nBest Regards\r\n\r\n龚裕花/Lucia Gong\r\n客服经理/Customer-Service Manager\r\n深圳市联合物流发展有限公司上海分公司\r\nSHENZHEN UNITED LOGISTICS  DEVELOPMENT CO.,LTD. SHANGHAI BRANCH\r\n地址： 上海市虹口区东大名路908号金岸大厦606室\r\nADD： 606, Jinan Tower, No.908 Daming Rd(E), Shanghai 200082, China\r\nMOB：13764260270         \r\nTEL：+86-021-65660722 \r\nWEB：WWW.SULDC.COM\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*****************************\r\n如阁下对我司服务不满意或有指导性建议，欢迎联系管理部门：mindychen@suldc.com, 86-755-26889074，我们竭诚为您服务！\r\nWelcome any complaints or useful suggestions and guidance about our service at mindychen@suldc.com, 86-755-26889074, we always at your disposal !\r\n*****************************"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_58",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

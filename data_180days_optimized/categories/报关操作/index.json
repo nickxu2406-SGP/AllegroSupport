@@ -1,0 +1,204 @@
+{
+  "category": "报关操作",
+  "count": 9,
+  "qa_pairs": [
+    {
+      "id": "qa_2",
+      "subject": "回复: Allegro System – Customer Code Consolidation",
+      "question": {
+        "text": "Hi Ezgi,\r\n\r\nI think it will be better if we inactive all customers code under GAC & Marti entities.\r\n\r\n \r\n\r\nThanks & Best Regards\r\n\r\n \r\n\r\nRicky Qin / 秦 琪\r\n\r\nDigital Project Manager\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-138-1732-7221\r\n\r\nE-mail: rickyqin@culines.com <mail\n\r\nWeb: www.culines.com <https://url.emailprotection.link/?bTarGOjpqKBdnAhGSLJN9zjtDgKh3sdobaBVGqXokp-cIm_BxjKmCeSAmpcaZ9f4dULeUT5TBYjmVMhJWsct9aQ~~> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年4月6日 21:35\r\n\n抄送: Lanvee Sun/CUL-TR <lanveesun@culines.com>; #CUL TR CUS <trcus@culines.com>; #CUL TR Sales <trsales@culines.com>; Suki Xie/CUL-NAS/DOC <sukixie@culines.com>",
+        "sender": "Ricky Qin/CUL-CN/IT",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+        "time": "04-07 11:52"
+      },
+      "answer": {
+        "text": "Hi Ezgi,\r\n\r\nNot sure whether any customer code under Marti is still in use since ALIAGA is still using MTIST office to create customer code.  I've downloaded all the TR customer code from Allegro as attachment.\r\n\r\nCould you assist to review and change the status to be inactive at your side ( you can sort out them by filtering the admin office)?  Any problem, please let us know. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n收件人: Ezgi Sahin/CUL-TR/DOC &CS <ezgi.sahin@culines.com>; Joanne Ding/CUL-CN/IT <joannedi",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "time": "04-07 12:05"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_5",
+      "subject": "BL Code Removal Request",
+      "question": {
+        "text": "Dear Kieran,\r\n\r\nPlease check the BL code, which does not appear in Freight but exists in the actual invoice detail within the finance system. Could this be removed? Thank you.\r\n\r\nB/L No.\r\nCharge Code\r\nCurrency\r\nTotal\r\nCULVNGB2202100\r\nLSS\r\nUSD\r\n250\r\nCULVNGB2202100\r\nWRS\r\nUSD\r\n250\r\nCULVSHK2118512\r\nWRS\r\nUSD\r\n50\r\nCULVSHK2118512\r\nLSS\r\nUSD\r\n50\r\nCULVSHK2202214\r\nLSS\r\nUSD\r\n400\r\nCULVSHK2202214\r\nWRS\r\nUSD\r\n400\r\n\r\n\r\n\r\nBest regards.\r\n\r\n \r\n\r\nSimon sun / 孙宇飞\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nMobile: +86-136-1187-7786\r\n\r\nE-mail: simonsun@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/>",
+        "sender": "Simon Sun/CUL-CN/CS",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=d352a743ecc84203ba952215d57a407d-82ee8892-5a",
+        "time": "03-20 17:28"
+      },
+      "answer": {
+        "text": "Dear Simon,\r\n\r\nSince these bookings are from 21/22, the vessel is already closed. Please request the Marine team to temporarily activate it, then proceed with the AR re-interface.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 20, 2026 at 17:28\r\n\nCc: Rita Qu/CUL-CN/FIN <ritaqu@culines.com>, Monica Teng/CUL-CN/FIN <monicateng@culines.com>, #CUL FIN Agency <agencyfinance@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, #CUL Revenue Audit <revenueaudi",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "03-30 16:11"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_16",
+      "subject": "REMINDER URGENT!! NEED IT SUPPORT CONTRACT NO INQUIRY CULVINC2600168 A26Q35412",
+      "question": {
+        "text": "Hi, dear IT team @#CUL Allegro Support <mail\n\r\nKindly REMINDER\r\n\r\n\r\n\r\n\r\n\r\n감사합니다.\r\n\r\n\r\nBest regards,\r\n\r\nJANET KIM\r\nCustomer Service & Documentation\r\nBen Line Agencies – Korea\r\nAs agents only\r\nTel 070-4699-6920 \r\n\r\nJanet.Jin@benline.com\r\n\r\nhttps://benline.com <https://benline.com/> \r\n\r\n\r\n\r\n\r\nBen Line Agencies (Liner) Customer Feedback Form <https://forms.office.com/pages/responsepage.aspx?id=SMexj5May0qnGkwH0vBVxF7vwhAQ-qdAmoPBBVP23cFUQUdXVk5COE5WMzk4UjNKVVVNRkVPNllDQS4u&route=shorturl> \r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月20日 11:47\r\n\n主题: URGENT!! NEED IT",
+        "sender": "Janet JIN",
+        "sender_email": "janet.jin@benline.com",
+        "time": "03-20 14:29"
+      },
+      "answer": {
+        "text": "Hi Janet,\r\n\r\nThe service scope in the agreement is CRS, while in the booking freight is AEU, which doesn't match, so the calculation cannot be performed.\r\nPlease confirm with the trade team which one is correct.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 20, 2026 at 14:29\r\n\nSubject: REMINDER URGENT!! NEED IT SUPPORT CONTRACT NO INQUIRY CULVINC2600168 A26Q35412\r\n\r\n\r\nHi,",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "03-20 14:38"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_25",
+      "subject": "回复: CULVPZU2500034 & CULVPZU2500055  //[SUDAN MAY-2025]//Reg for CUL Line  SOA for 2025- Jan to May // Sharaf Sudan",
+      "question": {
+        "text": "Dear Tahir,\r\n\r\n \r\n\r\nPlease try this way to amend the system, attached for your reference.\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nLouis Xia / 夏莹\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nTel: +86-21-6858-2153\r\n\r\nMobile: +86-176-1272-2817\r\n\r\nE-mail: louisxia@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月12日 11:01\r\n\n抄送:",
+        "sender": "Louis Xia/CUL-CN/CS",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa",
+        "time": "03-12 11:21"
+      },
+      "answer": {
+        "text": "Dear Moham,\r\n\r\n\r\nAfter checking your case, I have to clarify following.\r\n\r\n\r\n1.\t\r\n\tWhen you delete OFT/Surcharge via FCA, please delete the row directly. Please do not change the amount to be '0'. Otherwise, Trade will be unable to approve/reject it.\r\n\r\n\r\n\r\n\r\n\r\n\r\n2.\t\r\n\tIn case you fail to proceed,  please ask to trade to unlock the booking.\r\n\r\n\r\n\r\n\r\n       3. In case the VVD must be unlock also, please ask Trade to unlock the booking and you have to amend the freight detial within 2 hours after Marine team unlock the VVD.\r\n \r\nIn summary, please coordinate with Marine team and Trade within two hours and complete the amendment.Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.cul",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "time": "03-12 18:50"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_40",
+      "subject": "REQUEST USER ACCESS ALLEGRO FOR IDBLW TEAM",
+      "question": {
+        "text": "Dear Kieran,\r\n\r\nPls assist to grant user ID and password for BLW team to access: https://eserviceadm.culines.com/gnoss/SignOn.do\r\n\r\nto create customers code\r\n\r\nAppreciate your immediate follow up. Thank you\r\n- \r\n\r\n🧧  Holiday Notice 🏮✨\r\n\r\nFebruary 16 - 17, 2026 | Chinese New Year 2577 Kongzili\r\n\r\n\r\nBest Regards,\r\n\r\n\r\nHenny Cut Irnawati\r\n\r\nTraffic and Document Manager - GENA\r\n\r\nPT Samudera Agencies Indonesia\r\n\r\nLetjen S. Parman St No.Kav. 35, Kemanggisan, Palmerah, West Jakarta City, Jakarta 11480, Indonesia\r\n\r\np: (021) 5300580 ext 87271\r\n\r\nm: +6282110291033\r\n\r\ne: henny.irnawati@samudera.id <mail\n\r\n\r\nOn Fri, Nov 7, 2025 at 5:20 PM Henny Cut Irnawati <henny.irnawati@samudera.id <mail\n\r\n\r\n\tDear Kieran,\r\n\tthanks\r\n\r\n\tDear In",
+        "sender": "Henny Cut Irnawati",
+        "sender_email": "henny.irnawati@samudera.id",
+        "time": "02-11 16:30"
+      },
+      "answer": {
+        "text": "Dear Henny,\r\n\r\nSeems there is an existing account (ID: SAIID). Do you need me to reset the password for you?\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Thursday, February 12, 2026 at 09:18\r\n\nCc: Henny Cut Irnawati <henny.irnawati@samudera.id>, Michael Zhao/CUL-PH <michaelzhao@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Dylan Dong/CUL-CN/Agency Mgt",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "02-13 16:29"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_57",
+      "subject": "回复: CUL EXPORT BLs - WRS & LSS CHARGES",
+      "question": {
+        "text": "Adding @#CUL Allegro Support <mail\n\r\n \r\n\r\nDear Catherine sis,\r\n\r\n \r\n\r\nPlease help to review this matter in FCA module. Thank you.\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nBest Regards,\r\n\r\n \r\n\r\nBoris Yang / 杨博翔\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nMobile: +86-159-2107-1965\r\n\r\nE-mail: borisyang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月3日 16:23\r\n\n抄送: MGT.CUL - SSA JED <mgt.cul@ssajeddah",
+        "sender": "Boris Yang/CUL-CN/CS",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=1191b8db96924f4982dd25b37ddcc2c1-e28ccbc6-b3",
+        "time": "03-03 16:37"
+      },
+      "answer": {
+        "text": "Hi, Boris and Siti,\r\n\r\n \r\n\r\nThe same error occurred when we tried to do the “confirm”, we assumed it might cause by the closed vessel/CUQD2422E, which ATD at POL on 2024.10.16.  Anyway, let us check and find out a solution.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月3日 16:38\r\n收件人: Siti Aisha/CUS-SG/LH Trade <sitiaisha@culines.com>; Docs.cul – SSA JED <docs.cul@ssajeddah.com>; Darico Dai/CUL-UAE <daricodai@culines.com>; Finn Fei/CUL-UAE <finnfei@culines.com>; BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>; #CUL Allegro Support <allegrosupp",
+        "responder": "Catherine Kang/CUL-CN/IT",
+        "time": "03-03 17:29"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_58",
+      "subject": "ALLEGRO系统权限调整",
+      "question": {
+        "text": "Dear All,\r\n\r\n烦请帮忙增加用户名：luciagong 下office权限：\r\n\r\n新增：ULXGG\r\n\r\n谢谢。\r\n\r\n\r\n\r\n\r\nBest Regards\r\n\r\n龚裕花/Lucia Gong\r\n客服经理/Customer-Service Manager\r\n深圳市联合物流发展有限公司上海分公司\r\nSHENZHEN UNITED LOGISTICS  DEVELOPMENT CO.,LTD. SHANGHAI BRANCH\r\n地址： 上海市虹口区东大名路908号金岸大厦606室\r\nADD： 606, Jinan Tower, No.908 Daming Rd(E), Shanghai 200082, China\r\nMOB：13764260270         \r\nTEL：+86-021-65660722 \r\nWEB：WWW.SULDC.COM\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*****************************\r\n如阁下对我司服务不满意或有指导性建议，欢迎联系管理部门：mindychen@suldc.com, 86-755-26889074，我们竭诚为您服务！\r\nWelcome any complaints or useful suggestions and guidance about our service at mindychen@suldc.com, 86-755-26889074, we always at your disposal !\r\n*****************************",
+        "sender": "luciagong.sh@suldc.com",
+        "sender_email": "luciagong.sh@suldc.com",
+        "time": "02-26 14:45"
+      },
+      "answer": {
+        "text": "Hi Lucia,\r\n\r\nULTNJ已添加，XINGANG under在ULTNJ control\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Thursday, February 26, 2026 at 14:45\r\n\nSubject: ALLEGRO系统权限调整\r\n\r\n\r\nDear All,\r\n\r\n烦请帮忙增加用户名：luciagong 下office权限：\r\n\r\n新增：ULXGG\r\n\r\n谢谢。\r\n\r\n\r\n\r\n\r\nBest Regards\r\n\r\n龚裕花/Lucia Gong\r\n客服经理/Customer-Service Manager\r\n深圳市联合物流发展有限公司上海分公司\r\nSHENZHEN UNITED LOGISTICS  DEVELOPMENT CO.,LTD. SHANGHAI BRANCH\r\n地址： 上海市虹口区东大名路908号金岸大厦606室\r\nADD： 606, Jinan Tower, No.",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "02-26 15:23"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_70",
+      "subject": "LOLO  INVOICE // BL# CULVAQJ2500076 +CULVAQJ2500078",
+      "question": {
+        "text": "Dear Kieran,\r\nGood day,\r\n\r\n \r\n\r\nUnfortunately, I am unable to amend the customer code in the BL details.\r\n\r\n \r\n\r\nWhen i select another customer code, it does not appear after I click on select .\r\n\r\n \r\n\r\nPlease advise on how we can proceed.\r\n\r\n \r\n\r\nCULVAQJ2500076\r\n\r\nCULVAQJ2500078\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\nRegards,\r\n\r\n \r\n\r\nMarah Al Fawaier/Ms\r\nSenior Customer Service Executive\r\n\r\nSharaf Shipping Agencies Co. W.L.L\r\n\r\nTHE BOULIVARD, ABDALI\r\n\r\nTel: +962 6 5695960 / 5695970 \r\nWhatsApp :+962797229071\r\n\r\nFax: +962 6 5682813\r\nE-mail: csv@ssajordan.com <mail\n\r\nwww.sharafshipping.com <http://www.sharafshipping.com/> \r\n\r\n \r\n\r\n\nTo: CSV - SSA JOR <csv@ssajordan.com>; Amber Hu/CUL-CN/FIN <amber",
+        "sender": "CSV - SSA JOR",
+        "sender_email": "csv@ssajordan.com",
+        "time": "01-13 15:13"
+      },
+      "answer": {
+        "text": "Dear Marah,\r\n\r\nFor the MIV invoice, you just need to update the Actual Customer in MIV.\r\n\r\nIf the Shipper Customer in the booking needs to be changed, a C/N is required since DPY = Y, but it won’t affect the invoice.\r\n\r\n\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, January 13, 2026 at 15:13\r\nTo: Kieran Ji/CUL-CN/IT <kieranji@culines.com>, Amber Hu/CUL-CN/FIN <amberhu@culines.com>, Louis Xia/CUL-CN/CS <louisxia@culines.com>, DANIEL CHEN/CUL-West Asia <danielchen@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "01-13 15:44"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_71",
+      "subject": "LOLO  INVOICE // BL# CULVAQJ2500076",
+      "question": {
+        "text": "Adding @Joanne Ding/CUL-CN/IT <mail\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nRegards,\r\n\r\n \r\n\r\nMarah Al Fawaier/Ms\r\nSenior Customer Service Executive\r\n\r\nSharaf Shipping Agencies Co. W.L.L\r\n\r\nTHE BOULIVARD, ABDALI\r\n\r\nTel: +962 6 5695960 / 5695970 \r\nWhatsApp :+962797229071\r\n\r\nFax: +962 6 5682813\r\nE-mail: csv@ssajordan.com <mail\n\r\nwww.sharafshipping.com <http://www.sharafshipping.com/> \r\n\r\n \r\n\r\n\nCc: #CUL Allegro Support <allegrosupport@culines.com>; Mohanned -SSAJOR <mohanned@ssajordan.com>; Finance - SS",
+        "sender": "CSV - SSA JOR",
+        "sender_email": "csv@ssajordan.com",
+        "time": "01-13 13:51"
+      },
+      "answer": {
+        "text": "Dear Marah,\r\n\r\nDue to restrictions in the MIV Invoice module, the bill-to customer can only be the actual customer instead of the Office Rep customer. Please try to revise the customer code and try again.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, January 13, 2026 at 13:51\r\nTo: Kieran Ji/CUL-CN/IT <kieranji@culines.com>, Amber Hu/CUL-CN/FIN <amberhu@culines.com>, Louis Xia/CUL-CN/CS <louisxia@culines.com>, DANIEL CHEN/CUL-West Asia <danielchen@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Kieran Ji/CUL-C",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "time": "01-13 14:38"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "报关操作",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    }
+  ]
+}

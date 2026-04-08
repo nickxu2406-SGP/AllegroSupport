@@ -1,0 +1,64 @@
+{
+  "id": "qa_68",
+  "version": 1,
+  "question": {
+    "text": "Dear Culines team,\r\n\r\nany update ?\r\n\r\n\r\n\r\nOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\r\n\r\n\tDear CULINES Team,\r\n\t\r\n\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\r\n\t \r\n\r\n\t\r\n\t\r\n\t\r\n\t-- \r\n\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mail\n\r\n <https://apps.samudera.id/apps/apps.nsf/logo-connecting-indonesia.png> \r\n\r\n\r\n <http://www.samudera.id/> \r\n\r\n\r\n <http://www.facebook.com/SamuderaID>   <http://www.twitter.com/@samudera_ind>    <http://www.instagram.com/samudera.id>",
+    "original_email_id": "migrated_qa_68_q",
+    "sender_name": "Hendra Kurniawan",
+    "sender_email": "hendra.kurniawan@samudera.id",
+    "sent_at": "2026-01-22T18:24:00Z",
+    "summary": "Dear Culines team, any update ? On 21/01/2026 16:48, Hendra Kurniawan wrote: Dear CULINES Team, Pls ...",
+    "keywords": [
+      "Allegro",
+      "BL",
+      "提单操作"
+    ]
+  },
+  "answer": {
+    "text": "﻿Dear Hendra\r\n\r\nPlease retrieve BL by ID under office SASUB but not SAIID,thanks.\r\n\r\n发自我的 iPhone\r\n\r\n\r\n\t在 2026年1月22日，18:24，Hendra Kurniawan <hendra.kurniawan@samudera.id> 写道：\r\n\t\r\n\t\r\n\r\n\t﻿ Dear Culines team,\r\n\t\r\n\tany update ?\r\n\t\r\n\t\r\n\t\r\n\tOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\t\r\n\r\n\t\tDear CULINES Team,\r\n\t\t\r\n\t\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\t\r\n\t\t\r\n\t\t<eqZ3tM0MmvRb3FfW.png>\r\n\r\n\t\t<WFw6vzHpYPz3Bmk7.png>\r\n\r\n\r\n\r\n\t\t-- \r\n\t\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mailto:hendra.kurniawan@samudera.i",
+    "original_email_id": "migrated_qa_68_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_68@culines.com",
+    "sent_at": "2026-01-22T20:04:00Z",
+    "summary": "﻿Dear Hendra 发自我的 iPhone ﻿ Dear Culines team, any update ? On 21/01/2026 16:48, ...",
+    "keywords": [
+      "Allegro",
+      "BL",
+      "提单操作"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_68",
+    "path": "../raw/threads/thread_qa_68.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "提单操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "Can't open Allegro BL Preview and Print"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

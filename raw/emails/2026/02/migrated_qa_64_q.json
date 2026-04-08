@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_64_q",
+  "conversationId": "thread_qa_64",
+  "internetMessageId": "<migrated-qa_64-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+  "sender": {
+    "emailAddress": {
+      "name": "Colleeh Zhou/CUL-CN/Analysis",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-03T09:00:00Z",
+  "sentDateTime": "2026-02-03T09:00:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Allegro team,\r\n    Please help suggest, thanks.\r\n\r\n\r\n\r\nColleeh Zhou/周珂\r\n\r\nResearch & Analysis Specialist\r\n\r\nChina Analysis Team,CUL China \r\n\r\nTel: 021-6595 6093\r\n\r\nE-mail: Colleehzhou@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\t\r\n\t\t \r\n \r\n\r\n \r\n\r\n\r\n\r\n\n发送时间: 2026年2月2日 19:52\r\n\n主题: Re: 回复: 官网缺少THD费用: 申请合约：CUL JAKARTA 2604W 上海口岸 \r\n \r\nDear Colleeh，\r\n\r\n重新跑约还是没有"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_64",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

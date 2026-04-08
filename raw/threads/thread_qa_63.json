@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_63",
+  "subject": "Cancel Shipment  DDS / Tax Invoice  //  TEMU7088508\t40FT\tCULVJED2501802",
+  "emails": [
+    {
+      "$ref": "../emails/2026/02/migrated_qa_63_q.json"
+    },
+    {
+      "$ref": "../emails/2026/02/migrated_qa_63_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Helen Zhang/CUS-SG/SGAgency",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_63@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-02-05T14:24:00Z",
+  "last_email_at": "2026-02-05T15:07:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_63",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

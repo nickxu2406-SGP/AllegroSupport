@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_40_q",
+  "conversationId": "thread_qa_40",
+  "internetMessageId": "<migrated-qa_40-q@allegro-support>",
+  "subject": "henny.irnawati@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Henny Cut Irnawati",
+      "address": "henny.irnawati@samudera.id"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-11T16:30:00Z",
+  "sentDateTime": "2026-02-11T16:30:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran,\r\n\r\nPls assist to grant user ID and password for BLW team to access: https://eserviceadm.culines.com/gnoss/SignOn.do\r\n\r\nto create customers code\r\n\r\nAppreciate your immediate follow up. Thank you\r\n- \r\n\r\n🧧  Holiday Notice 🏮✨\r\n\r\nFebruary 16 - 17, 2026 | Chinese New Year 2577 Kongzili\r\n\r\n\r\nBest Regards,\r\n\r\n\r\nHenny Cut Irnawati\r\n\r\nTraffic and Document Manager - GENA\r\n\r\nPT Samudera Agencies Indonesia\r\n\r\nLetjen S. Parman St No.Kav. 35, Kemanggisan, Palmerah, West Jakarta City, Jakarta 11480, Indonesia\r\n\r\np: (021) 5300580 ext 87271\r\n\r\nm: +6282110291033\r\n\r\ne: henny.irnawati@samudera.id <mail\n\r\n\r\nOn Fri, Nov 7, 2025 at 5:20 PM Henny Cut Irnawati <henny.irnawati@samudera.id <mail\n\r\n\r\n\tDear Kieran,\r\n\tthanks\r\n\r\n\tDear In"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_40",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

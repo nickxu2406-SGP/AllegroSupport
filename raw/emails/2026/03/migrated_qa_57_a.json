@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_57_a",
+  "conversationId": "thread_qa_57",
+  "internetMessageId": "<migrated-qa_57-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=1191b8db96924f4982dd25b37ddcc2c1-e28ccbc6-b3",
+  "sender": {
+    "emailAddress": {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "address": "responder_qa_57@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Boris Yang/CUL-CN/CS",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=1191b8db96924f4982dd25b37ddcc2c1-e28ccbc6-b3"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-03T17:29:00Z",
+  "sentDateTime": "2026-03-03T17:29:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi, Boris and Siti,\r\n\r\n \r\n\r\nThe same error occurred when we tried to do the “confirm”, we assumed it might cause by the closed vessel/CUQD2422E, which ATD at POL on 2024.10.16.  Anyway, let us check and find out a solution.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月3日 16:38\r\n收件人: Siti Aisha/CUS-SG/LH Trade <sitiaisha@culines.com>; Docs.cul – SSA JED <docs.cul@ssajeddah.com>; Darico Dai/CUL-UAE <daricodai@culines.com>; Finn Fei/CUL-UAE <finnfei@culines.com>; BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>; #CUL Allegro Support <allegrosupp"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_57",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

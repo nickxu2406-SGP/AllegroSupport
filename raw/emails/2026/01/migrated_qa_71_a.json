@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_71_a",
+  "conversationId": "thread_qa_71",
+  "internetMessageId": "<migrated-qa_71-a@allegro-support>",
+  "subject": "Re: csv@ssajordan.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_71@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "CSV - SSA JOR",
+        "address": "csv@ssajordan.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-13T14:38:00Z",
+  "sentDateTime": "2026-01-13T14:38:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Marah,\r\n\r\nDue to restrictions in the MIV Invoice module, the bill-to customer can only be the actual customer instead of the Office Rep customer. Please try to revise the customer code and try again.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, January 13, 2026 at 13:51\r\nTo: Kieran Ji/CUL-CN/IT <kieranji@culines.com>, Amber Hu/CUL-CN/FIN <amberhu@culines.com>, Louis Xia/CUL-CN/CS <louisxia@culines.com>, DANIEL CHEN/CUL-West Asia <danielchen@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Kieran Ji/CUL-C"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_71",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

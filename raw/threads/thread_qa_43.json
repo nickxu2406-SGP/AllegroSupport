@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_43",
+  "subject": "REQUEST USER ACCESS ALLEGRO FOR IDBLW TEAM",
+  "emails": [
+    {
+      "$ref": "../emails/2026/02/migrated_qa_43_q.json"
+    },
+    {
+      "$ref": "../emails/2026/02/migrated_qa_43_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Henny Cut Irnawati",
+      "email": "henny.irnawati@samudera.id",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_43@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-02-27T13:30:00Z",
+  "last_email_at": "2026-02-27T17:44:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_43",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

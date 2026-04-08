@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_54",
+  "subject": "回复: <DCC> New Surcharge Code Creation in Allegro",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_54_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_54_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Amber Hu/CUL-CN/FIN",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=81c18d6f9a3c4a7fb0036456e4e23875-64924920-21",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_54@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-03T14:50:00Z",
+  "last_email_at": "2026-03-04T14:03:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_54",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

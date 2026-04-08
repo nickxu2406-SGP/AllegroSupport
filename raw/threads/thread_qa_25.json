@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_25",
+  "subject": "回复: CULVPZU2500034 & CULVPZU2500055  //[SUDAN MAY-2025]//Reg for CUL Line  SOA for 2025- Jan to May // Sharaf Sudan",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_25_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_25_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Louis Xia/CUL-CN/CS",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_25@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-12T11:21:00Z",
+  "last_email_at": "2026-03-12T18:50:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_25",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

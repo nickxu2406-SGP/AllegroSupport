@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_51_q",
+  "conversationId": "thread_qa_51",
+  "internetMessageId": "<migrated-qa_51-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2",
+  "sender": {
+    "emailAddress": {
+      "name": "Suki Xie/CUL-NAS/DOC",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-05T15:56:00Z",
+  "sentDateTime": "2026-03-05T15:56:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Ezgi，\r\n\r\n \r\n\r\nThis company has code TR342066 in the Allegro system before, you don't need create again.\r\n\r\n \r\n\r\nThanks & Best regards\r\n\r\n \r\n\r\nSuki xie/谢海燕\r\n\r\nDocumentation Specialist\r\n\r\nCulines Documentation Center\r\n\r\nTel: +86-020-8452-9614\r\n\r\nE-mail: Sukixie@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nCULines Shipping Agency Ltd. Guangzhou Branch\r\n\r\nAs agent for China United Lines Ltd.\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\n发送时间: 2026年3月5日 15:52\r\n\n抄送: Gülhan ALKAN <g.alkan@martiz.com>; Özgür ÖZTÜRK <ozgur@martiz.com>; Sali"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_51",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

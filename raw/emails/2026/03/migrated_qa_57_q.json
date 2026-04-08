@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_57_q",
+  "conversationId": "thread_qa_57",
+  "internetMessageId": "<migrated-qa_57-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=1191b8db96924f4982dd25b37ddcc2c1-e28ccbc6-b3",
+  "sender": {
+    "emailAddress": {
+      "name": "Boris Yang/CUL-CN/CS",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=1191b8db96924f4982dd25b37ddcc2c1-e28ccbc6-b3"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-03T16:37:00Z",
+  "sentDateTime": "2026-03-03T16:37:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Adding @#CUL Allegro Support <mail\n\r\n \r\n\r\nDear Catherine sis,\r\n\r\n \r\n\r\nPlease help to review this matter in FCA module. Thank you.\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nBest Regards,\r\n\r\n \r\n\r\nBoris Yang / 杨博翔\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nMobile: +86-159-2107-1965\r\n\r\nE-mail: borisyang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月3日 16:23\r\n\n抄送: MGT.CUL - SSA JED <mgt.cul@ssajeddah"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_57",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

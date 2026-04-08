@@ -1,0 +1,62 @@
+{
+  "id": "qa_36",
+  "version": 1,
+  "question": {
+    "text": "add Allegro team to help, thanks.\r\n\r\n\r\n\r\nColleeh Zhou/周珂\r\n\r\nSpecialist\r\n\r\nAEM trade,CUL China \r\n\r\nTel: 021-6858 2021\r\n\r\nE-mail: Colleehzhou@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\t\r\n\t\t \r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月10日 17:36\r\n\n主题: YNT: A26Q33833/FREIGHT AGREEMENT APPROVAL TRALI - JEDDAH /Yonca Gida \r\n \r\n\r\nDear Colleeh \r\n\r\nCould you pls also check ; we can not make it request again after free time amedment ?",
+    "original_email_id": "migrated_qa_36_q",
+    "sender_name": "Colleeh Zhou/CUL-CN/AEM Trade",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+    "sent_at": "2026-03-10T18:40:00Z",
+    "summary": "Colleeh Zhou/周珂 Specialist AEM trade,CUL China 主题: YNT: A26Q33833/FREIGHT AGREEMENT APPROVAL TRALI -...",
+    "keywords": [
+      "Allegro",
+      "订舱操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Ezgi,\r\n\r\nPlease click Amend ,then you can see the request button. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月10日 18:40\r\n\n主题: 回复: A26Q33833/FREIGHT AGREEMENT APPROVAL TRALI - JEDDAH /Yonca Gida \r\n \r\nadd Allegro team to help, thanks.",
+    "original_email_id": "migrated_qa_36_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_36@culines.com",
+    "sent_at": "2026-03-10T18:53:00Z",
+    "summary": "Dear Ezgi, Joanne Ding / 丁佳莹 Digital & IT Department 主题: 回复: A26Q33833/FREIGHT A...",
+    "keywords": [
+      "Allegro",
+      "订舱操作"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_36",
+    "path": "../raw/threads/thread_qa_36.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: A26Q33833/FREIGHT AGREEMENT APPROVAL  TRALI - JEDDAH /Yonca Gida"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

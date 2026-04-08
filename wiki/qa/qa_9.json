@@ -1,0 +1,63 @@
+{
+  "id": "qa_9",
+  "version": 1,
+  "question": {
+    "text": "Dear Danny,\r\n\r\n \r\n\r\nPls kindly contact  with IT team for further assist, thanks.\r\n\r\n \r\n\r\nDaisy Xiang\r\n\r\nOperation Department\r\n\r\nTel: +86-755-2360-7852\r\n\r\nMobile: +86-13725593431\r\n\r\nE-mail: daisyxiang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nCULines Shipping Agency Ltd. Shenzhen Branch\r\n\r\nAs agent for CULINES\r\n\r\n\t\r\n\t\r\n\r\n \r\n\r\n \r\n\r\n\n发送时间: 2026年3月24日 17:24\r\n收件人: Daisy Xiang/CUL-SZN/OP <daisyxiang@culines.com>; EGL | Hany Ibrahim <H.ibrahim@eglegypt.com>; Bob Wu/CUL-SG/LH Trade <bobwu@culines.com>; EGL | Booking CULINES <exp.culines@eglegypt.com>; Senna Yao/CUL-SZN/OP <sennayao@culines.com>; Boquan Gan/CUL-UAE <boquangan@culines.com>; EGL | REEFER <reefer@eglegypt.com>; Nick Leung/CUL-",
+    "original_email_id": "migrated_qa_9_q",
+    "sender_name": "Daisy Xiang/CUL-SZN/OP",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a81254885d5447238e610c00604bbd08-f16bdac8-94",
+    "sent_at": "2026-03-24T18:04:00Z",
+    "summary": "Dear Danny, Daisy Xiang Operation Department CULines Shipping Agency Ltd. Shenzhen Branch As agent f...",
+    "keywords": [
+      "booking",
+      "订舱操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Hany,\r\n\r\nPlease try agian. Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月24日 15:59\r\n收件人: EGL | Hany Ibrahim <H.ibrahim@eglegypt.com>; Senna Yao/CUL-SZN/OP <sennayao@culines.com>; Boquan Gan/CUL-UAE <boquangan@culines.com>; EGL | Booking CULINES <exp.culines@eglegypt.com>; EGL | REEFER <reefer@eglegypt.com>; EGL | Sales Culines <sales.culines@eglegypt.com>; Nick Leung/CUL-CN/MKT <nickleung@culines.com>; EGL | Karim Afifi <K.afifi@eglegypt.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; #CUL Allegro Support <allegrosupport",
+    "original_email_id": "migrated_qa_9_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_9@culines.com",
+    "sent_at": "2026-03-24T18:24:00Z",
+    "summary": "Dear Hany, Joanne Ding / 丁佳莹 Digital & IT Department",
+    "keywords": [
+      "booking",
+      "Allegro",
+      "订舱操作"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_9",
+    "path": "../raw/threads/thread_qa_9.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: COD REQUIREMENT//CULVSOK2600321  FBIU5167880 / ETB SHK 19-Mar"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

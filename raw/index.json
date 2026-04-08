@@ -1,0 +1,740 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-07T11:52:48Z",
+  "total_emails": 142,
+  "total_threads": 71,
+  "emails_by_month": {
+    "2026-03": {
+      "count": 92,
+      "emails": [
+        "migrated_qa_1_q",
+        "migrated_qa_1_a",
+        "migrated_qa_5_q",
+        "migrated_qa_5_a",
+        "migrated_qa_6_q",
+        "migrated_qa_6_a",
+        "migrated_qa_7_q",
+        "migrated_qa_7_a",
+        "migrated_qa_8_q",
+        "migrated_qa_8_a",
+        "migrated_qa_9_q",
+        "migrated_qa_9_a",
+        "migrated_qa_10_q",
+        "migrated_qa_10_a",
+        "migrated_qa_11_q",
+        "migrated_qa_11_a",
+        "migrated_qa_12_q",
+        "migrated_qa_12_a",
+        "migrated_qa_13_q",
+        "migrated_qa_13_a",
+        "migrated_qa_14_q",
+        "migrated_qa_14_a",
+        "migrated_qa_15_q",
+        "migrated_qa_15_a",
+        "migrated_qa_16_q",
+        "migrated_qa_16_a",
+        "migrated_qa_17_q",
+        "migrated_qa_17_a",
+        "migrated_qa_18_q",
+        "migrated_qa_18_a",
+        "migrated_qa_19_q",
+        "migrated_qa_19_a",
+        "migrated_qa_20_q",
+        "migrated_qa_20_a",
+        "migrated_qa_21_q",
+        "migrated_qa_21_a",
+        "migrated_qa_22_q",
+        "migrated_qa_22_a",
+        "migrated_qa_23_q",
+        "migrated_qa_23_a",
+        "migrated_qa_24_q",
+        "migrated_qa_24_a",
+        "migrated_qa_25_q",
+        "migrated_qa_25_a",
+        "migrated_qa_26_q",
+        "migrated_qa_26_a",
+        "migrated_qa_27_q",
+        "migrated_qa_27_a",
+        "migrated_qa_28_q",
+        "migrated_qa_28_a",
+        "migrated_qa_29_q",
+        "migrated_qa_29_a",
+        "migrated_qa_30_q",
+        "migrated_qa_30_a",
+        "migrated_qa_34_q",
+        "migrated_qa_34_a",
+        "migrated_qa_35_q",
+        "migrated_qa_35_a",
+        "migrated_qa_36_q",
+        "migrated_qa_36_a",
+        "migrated_qa_37_q",
+        "migrated_qa_37_a",
+        "migrated_qa_38_q",
+        "migrated_qa_38_a",
+        "migrated_qa_39_q",
+        "migrated_qa_39_a",
+        "migrated_qa_44_q",
+        "migrated_qa_44_a",
+        "migrated_qa_45_q",
+        "migrated_qa_45_a",
+        "migrated_qa_47_q",
+        "migrated_qa_47_a",
+        "migrated_qa_48_q",
+        "migrated_qa_48_a",
+        "migrated_qa_49_q",
+        "migrated_qa_49_a",
+        "migrated_qa_50_q",
+        "migrated_qa_50_a",
+        "migrated_qa_51_q",
+        "migrated_qa_51_a",
+        "migrated_qa_52_q",
+        "migrated_qa_52_a",
+        "migrated_qa_53_q",
+        "migrated_qa_53_a",
+        "migrated_qa_54_q",
+        "migrated_qa_54_a",
+        "migrated_qa_55_q",
+        "migrated_qa_55_a",
+        "migrated_qa_56_q",
+        "migrated_qa_56_a",
+        "migrated_qa_57_q",
+        "migrated_qa_57_a"
+      ]
+    },
+    "2026-04": {
+      "count": 6,
+      "emails": [
+        "migrated_qa_2_q",
+        "migrated_qa_2_a",
+        "migrated_qa_3_q",
+        "migrated_qa_3_a",
+        "migrated_qa_4_q",
+        "migrated_qa_4_a"
+      ]
+    },
+    "2026-01": {
+      "count": 20,
+      "emails": [
+        "migrated_qa_31_q",
+        "migrated_qa_31_a",
+        "migrated_qa_32_q",
+        "migrated_qa_32_a",
+        "migrated_qa_33_q",
+        "migrated_qa_33_a",
+        "migrated_qa_65_q",
+        "migrated_qa_65_a",
+        "migrated_qa_66_q",
+        "migrated_qa_66_a",
+        "migrated_qa_67_q",
+        "migrated_qa_67_a",
+        "migrated_qa_68_q",
+        "migrated_qa_68_a",
+        "migrated_qa_69_q",
+        "migrated_qa_69_a",
+        "migrated_qa_70_q",
+        "migrated_qa_70_a",
+        "migrated_qa_71_q",
+        "migrated_qa_71_a"
+      ]
+    },
+    "2026-02": {
+      "count": 24,
+      "emails": [
+        "migrated_qa_40_q",
+        "migrated_qa_40_a",
+        "migrated_qa_41_q",
+        "migrated_qa_41_a",
+        "migrated_qa_42_q",
+        "migrated_qa_42_a",
+        "migrated_qa_43_q",
+        "migrated_qa_43_a",
+        "migrated_qa_46_q",
+        "migrated_qa_46_a",
+        "migrated_qa_58_q",
+        "migrated_qa_58_a",
+        "migrated_qa_59_q",
+        "migrated_qa_59_a",
+        "migrated_qa_60_q",
+        "migrated_qa_60_a",
+        "migrated_qa_61_q",
+        "migrated_qa_61_a",
+        "migrated_qa_62_q",
+        "migrated_qa_62_a",
+        "migrated_qa_63_q",
+        "migrated_qa_63_a",
+        "migrated_qa_64_q",
+        "migrated_qa_64_a"
+      ]
+    }
+  },
+  "by_id": {
+    "migrated_qa_1_q": {
+      "path": "emails/2026/03/migrated_qa_1_q.json",
+      "thread_id": "thread_qa_1"
+    },
+    "migrated_qa_1_a": {
+      "path": "emails/2026/03/migrated_qa_1_a.json",
+      "thread_id": "thread_qa_1"
+    },
+    "migrated_qa_2_q": {
+      "path": "emails/2026/04/migrated_qa_2_q.json",
+      "thread_id": "thread_qa_2"
+    },
+    "migrated_qa_2_a": {
+      "path": "emails/2026/04/migrated_qa_2_a.json",
+      "thread_id": "thread_qa_2"
+    },
+    "migrated_qa_3_q": {
+      "path": "emails/2026/04/migrated_qa_3_q.json",
+      "thread_id": "thread_qa_3"
+    },
+    "migrated_qa_3_a": {
+      "path": "emails/2026/04/migrated_qa_3_a.json",
+      "thread_id": "thread_qa_3"
+    },
+    "migrated_qa_4_q": {
+      "path": "emails/2026/04/migrated_qa_4_q.json",
+      "thread_id": "thread_qa_4"
+    },
+    "migrated_qa_4_a": {
+      "path": "emails/2026/04/migrated_qa_4_a.json",
+      "thread_id": "thread_qa_4"
+    },
+    "migrated_qa_5_q": {
+      "path": "emails/2026/03/migrated_qa_5_q.json",
+      "thread_id": "thread_qa_5"
+    },
+    "migrated_qa_5_a": {
+      "path": "emails/2026/03/migrated_qa_5_a.json",
+      "thread_id": "thread_qa_5"
+    },
+    "migrated_qa_6_q": {
+      "path": "emails/2026/03/migrated_qa_6_q.json",
+      "thread_id": "thread_qa_6"
+    },
+    "migrated_qa_6_a": {
+      "path": "emails/2026/03/migrated_qa_6_a.json",
+      "thread_id": "thread_qa_6"
+    },
+    "migrated_qa_7_q": {
+      "path": "emails/2026/03/migrated_qa_7_q.json",
+      "thread_id": "thread_qa_7"
+    },
+    "migrated_qa_7_a": {
+      "path": "emails/2026/03/migrated_qa_7_a.json",
+      "thread_id": "thread_qa_7"
+    },
+    "migrated_qa_8_q": {
+      "path": "emails/2026/03/migrated_qa_8_q.json",
+      "thread_id": "thread_qa_8"
+    },
+    "migrated_qa_8_a": {
+      "path": "emails/2026/03/migrated_qa_8_a.json",
+      "thread_id": "thread_qa_8"
+    },
+    "migrated_qa_9_q": {
+      "path": "emails/2026/03/migrated_qa_9_q.json",
+      "thread_id": "thread_qa_9"
+    },
+    "migrated_qa_9_a": {
+      "path": "emails/2026/03/migrated_qa_9_a.json",
+      "thread_id": "thread_qa_9"
+    },
+    "migrated_qa_10_q": {
+      "path": "emails/2026/03/migrated_qa_10_q.json",
+      "thread_id": "thread_qa_10"
+    },
+    "migrated_qa_10_a": {
+      "path": "emails/2026/03/migrated_qa_10_a.json",
+      "thread_id": "thread_qa_10"
+    },
+    "migrated_qa_11_q": {
+      "path": "emails/2026/03/migrated_qa_11_q.json",
+      "thread_id": "thread_qa_11"
+    },
+    "migrated_qa_11_a": {
+      "path": "emails/2026/03/migrated_qa_11_a.json",
+      "thread_id": "thread_qa_11"
+    },
+    "migrated_qa_12_q": {
+      "path": "emails/2026/03/migrated_qa_12_q.json",
+      "thread_id": "thread_qa_12"
+    },
+    "migrated_qa_12_a": {
+      "path": "emails/2026/03/migrated_qa_12_a.json",
+      "thread_id": "thread_qa_12"
+    },
+    "migrated_qa_13_q": {
+      "path": "emails/2026/03/migrated_qa_13_q.json",
+      "thread_id": "thread_qa_13"
+    },
+    "migrated_qa_13_a": {
+      "path": "emails/2026/03/migrated_qa_13_a.json",
+      "thread_id": "thread_qa_13"
+    },
+    "migrated_qa_14_q": {
+      "path": "emails/2026/03/migrated_qa_14_q.json",
+      "thread_id": "thread_qa_14"
+    },
+    "migrated_qa_14_a": {
+      "path": "emails/2026/03/migrated_qa_14_a.json",
+      "thread_id": "thread_qa_14"
+    },
+    "migrated_qa_15_q": {
+      "path": "emails/2026/03/migrated_qa_15_q.json",
+      "thread_id": "thread_qa_15"
+    },
+    "migrated_qa_15_a": {
+      "path": "emails/2026/03/migrated_qa_15_a.json",
+      "thread_id": "thread_qa_15"
+    },
+    "migrated_qa_16_q": {
+      "path": "emails/2026/03/migrated_qa_16_q.json",
+      "thread_id": "thread_qa_16"
+    },
+    "migrated_qa_16_a": {
+      "path": "emails/2026/03/migrated_qa_16_a.json",
+      "thread_id": "thread_qa_16"
+    },
+    "migrated_qa_17_q": {
+      "path": "emails/2026/03/migrated_qa_17_q.json",
+      "thread_id": "thread_qa_17"
+    },
+    "migrated_qa_17_a": {
+      "path": "emails/2026/03/migrated_qa_17_a.json",
+      "thread_id": "thread_qa_17"
+    },
+    "migrated_qa_18_q": {
+      "path": "emails/2026/03/migrated_qa_18_q.json",
+      "thread_id": "thread_qa_18"
+    },
+    "migrated_qa_18_a": {
+      "path": "emails/2026/03/migrated_qa_18_a.json",
+      "thread_id": "thread_qa_18"
+    },
+    "migrated_qa_19_q": {
+      "path": "emails/2026/03/migrated_qa_19_q.json",
+      "thread_id": "thread_qa_19"
+    },
+    "migrated_qa_19_a": {
+      "path": "emails/2026/03/migrated_qa_19_a.json",
+      "thread_id": "thread_qa_19"
+    },
+    "migrated_qa_20_q": {
+      "path": "emails/2026/03/migrated_qa_20_q.json",
+      "thread_id": "thread_qa_20"
+    },
+    "migrated_qa_20_a": {
+      "path": "emails/2026/03/migrated_qa_20_a.json",
+      "thread_id": "thread_qa_20"
+    },
+    "migrated_qa_21_q": {
+      "path": "emails/2026/03/migrated_qa_21_q.json",
+      "thread_id": "thread_qa_21"
+    },
+    "migrated_qa_21_a": {
+      "path": "emails/2026/03/migrated_qa_21_a.json",
+      "thread_id": "thread_qa_21"
+    },
+    "migrated_qa_22_q": {
+      "path": "emails/2026/03/migrated_qa_22_q.json",
+      "thread_id": "thread_qa_22"
+    },
+    "migrated_qa_22_a": {
+      "path": "emails/2026/03/migrated_qa_22_a.json",
+      "thread_id": "thread_qa_22"
+    },
+    "migrated_qa_23_q": {
+      "path": "emails/2026/03/migrated_qa_23_q.json",
+      "thread_id": "thread_qa_23"
+    },
+    "migrated_qa_23_a": {
+      "path": "emails/2026/03/migrated_qa_23_a.json",
+      "thread_id": "thread_qa_23"
+    },
+    "migrated_qa_24_q": {
+      "path": "emails/2026/03/migrated_qa_24_q.json",
+      "thread_id": "thread_qa_24"
+    },
+    "migrated_qa_24_a": {
+      "path": "emails/2026/03/migrated_qa_24_a.json",
+      "thread_id": "thread_qa_24"
+    },
+    "migrated_qa_25_q": {
+      "path": "emails/2026/03/migrated_qa_25_q.json",
+      "thread_id": "thread_qa_25"
+    },
+    "migrated_qa_25_a": {
+      "path": "emails/2026/03/migrated_qa_25_a.json",
+      "thread_id": "thread_qa_25"
+    },
+    "migrated_qa_26_q": {
+      "path": "emails/2026/03/migrated_qa_26_q.json",
+      "thread_id": "thread_qa_26"
+    },
+    "migrated_qa_26_a": {
+      "path": "emails/2026/03/migrated_qa_26_a.json",
+      "thread_id": "thread_qa_26"
+    },
+    "migrated_qa_27_q": {
+      "path": "emails/2026/03/migrated_qa_27_q.json",
+      "thread_id": "thread_qa_27"
+    },
+    "migrated_qa_27_a": {
+      "path": "emails/2026/03/migrated_qa_27_a.json",
+      "thread_id": "thread_qa_27"
+    },
+    "migrated_qa_28_q": {
+      "path": "emails/2026/03/migrated_qa_28_q.json",
+      "thread_id": "thread_qa_28"
+    },
+    "migrated_qa_28_a": {
+      "path": "emails/2026/03/migrated_qa_28_a.json",
+      "thread_id": "thread_qa_28"
+    },
+    "migrated_qa_29_q": {
+      "path": "emails/2026/03/migrated_qa_29_q.json",
+      "thread_id": "thread_qa_29"
+    },
+    "migrated_qa_29_a": {
+      "path": "emails/2026/03/migrated_qa_29_a.json",
+      "thread_id": "thread_qa_29"
+    },
+    "migrated_qa_30_q": {
+      "path": "emails/2026/03/migrated_qa_30_q.json",
+      "thread_id": "thread_qa_30"
+    },
+    "migrated_qa_30_a": {
+      "path": "emails/2026/03/migrated_qa_30_a.json",
+      "thread_id": "thread_qa_30"
+    },
+    "migrated_qa_31_q": {
+      "path": "emails/2026/01/migrated_qa_31_q.json",
+      "thread_id": "thread_qa_31"
+    },
+    "migrated_qa_31_a": {
+      "path": "emails/2026/01/migrated_qa_31_a.json",
+      "thread_id": "thread_qa_31"
+    },
+    "migrated_qa_32_q": {
+      "path": "emails/2026/01/migrated_qa_32_q.json",
+      "thread_id": "thread_qa_32"
+    },
+    "migrated_qa_32_a": {
+      "path": "emails/2026/01/migrated_qa_32_a.json",
+      "thread_id": "thread_qa_32"
+    },
+    "migrated_qa_33_q": {
+      "path": "emails/2026/01/migrated_qa_33_q.json",
+      "thread_id": "thread_qa_33"
+    },
+    "migrated_qa_33_a": {
+      "path": "emails/2026/01/migrated_qa_33_a.json",
+      "thread_id": "thread_qa_33"
+    },
+    "migrated_qa_34_q": {
+      "path": "emails/2026/03/migrated_qa_34_q.json",
+      "thread_id": "thread_qa_34"
+    },
+    "migrated_qa_34_a": {
+      "path": "emails/2026/03/migrated_qa_34_a.json",
+      "thread_id": "thread_qa_34"
+    },
+    "migrated_qa_35_q": {
+      "path": "emails/2026/03/migrated_qa_35_q.json",
+      "thread_id": "thread_qa_35"
+    },
+    "migrated_qa_35_a": {
+      "path": "emails/2026/03/migrated_qa_35_a.json",
+      "thread_id": "thread_qa_35"
+    },
+    "migrated_qa_36_q": {
+      "path": "emails/2026/03/migrated_qa_36_q.json",
+      "thread_id": "thread_qa_36"
+    },
+    "migrated_qa_36_a": {
+      "path": "emails/2026/03/migrated_qa_36_a.json",
+      "thread_id": "thread_qa_36"
+    },
+    "migrated_qa_37_q": {
+      "path": "emails/2026/03/migrated_qa_37_q.json",
+      "thread_id": "thread_qa_37"
+    },
+    "migrated_qa_37_a": {
+      "path": "emails/2026/03/migrated_qa_37_a.json",
+      "thread_id": "thread_qa_37"
+    },
+    "migrated_qa_38_q": {
+      "path": "emails/2026/03/migrated_qa_38_q.json",
+      "thread_id": "thread_qa_38"
+    },
+    "migrated_qa_38_a": {
+      "path": "emails/2026/03/migrated_qa_38_a.json",
+      "thread_id": "thread_qa_38"
+    },
+    "migrated_qa_39_q": {
+      "path": "emails/2026/03/migrated_qa_39_q.json",
+      "thread_id": "thread_qa_39"
+    },
+    "migrated_qa_39_a": {
+      "path": "emails/2026/03/migrated_qa_39_a.json",
+      "thread_id": "thread_qa_39"
+    },
+    "migrated_qa_40_q": {
+      "path": "emails/2026/02/migrated_qa_40_q.json",
+      "thread_id": "thread_qa_40"
+    },
+    "migrated_qa_40_a": {
+      "path": "emails/2026/02/migrated_qa_40_a.json",
+      "thread_id": "thread_qa_40"
+    },
+    "migrated_qa_41_q": {
+      "path": "emails/2026/02/migrated_qa_41_q.json",
+      "thread_id": "thread_qa_41"
+    },
+    "migrated_qa_41_a": {
+      "path": "emails/2026/02/migrated_qa_41_a.json",
+      "thread_id": "thread_qa_41"
+    },
+    "migrated_qa_42_q": {
+      "path": "emails/2026/02/migrated_qa_42_q.json",
+      "thread_id": "thread_qa_42"
+    },
+    "migrated_qa_42_a": {
+      "path": "emails/2026/02/migrated_qa_42_a.json",
+      "thread_id": "thread_qa_42"
+    },
+    "migrated_qa_43_q": {
+      "path": "emails/2026/02/migrated_qa_43_q.json",
+      "thread_id": "thread_qa_43"
+    },
+    "migrated_qa_43_a": {
+      "path": "emails/2026/02/migrated_qa_43_a.json",
+      "thread_id": "thread_qa_43"
+    },
+    "migrated_qa_44_q": {
+      "path": "emails/2026/03/migrated_qa_44_q.json",
+      "thread_id": "thread_qa_44"
+    },
+    "migrated_qa_44_a": {
+      "path": "emails/2026/03/migrated_qa_44_a.json",
+      "thread_id": "thread_qa_44"
+    },
+    "migrated_qa_45_q": {
+      "path": "emails/2026/03/migrated_qa_45_q.json",
+      "thread_id": "thread_qa_45"
+    },
+    "migrated_qa_45_a": {
+      "path": "emails/2026/03/migrated_qa_45_a.json",
+      "thread_id": "thread_qa_45"
+    },
+    "migrated_qa_46_q": {
+      "path": "emails/2026/02/migrated_qa_46_q.json",
+      "thread_id": "thread_qa_46"
+    },
+    "migrated_qa_46_a": {
+      "path": "emails/2026/02/migrated_qa_46_a.json",
+      "thread_id": "thread_qa_46"
+    },
+    "migrated_qa_47_q": {
+      "path": "emails/2026/03/migrated_qa_47_q.json",
+      "thread_id": "thread_qa_47"
+    },
+    "migrated_qa_47_a": {
+      "path": "emails/2026/03/migrated_qa_47_a.json",
+      "thread_id": "thread_qa_47"
+    },
+    "migrated_qa_48_q": {
+      "path": "emails/2026/03/migrated_qa_48_q.json",
+      "thread_id": "thread_qa_48"
+    },
+    "migrated_qa_48_a": {
+      "path": "emails/2026/03/migrated_qa_48_a.json",
+      "thread_id": "thread_qa_48"
+    },
+    "migrated_qa_49_q": {
+      "path": "emails/2026/03/migrated_qa_49_q.json",
+      "thread_id": "thread_qa_49"
+    },
+    "migrated_qa_49_a": {
+      "path": "emails/2026/03/migrated_qa_49_a.json",
+      "thread_id": "thread_qa_49"
+    },
+    "migrated_qa_50_q": {
+      "path": "emails/2026/03/migrated_qa_50_q.json",
+      "thread_id": "thread_qa_50"
+    },
+    "migrated_qa_50_a": {
+      "path": "emails/2026/03/migrated_qa_50_a.json",
+      "thread_id": "thread_qa_50"
+    },
+    "migrated_qa_51_q": {
+      "path": "emails/2026/03/migrated_qa_51_q.json",
+      "thread_id": "thread_qa_51"
+    },
+    "migrated_qa_51_a": {
+      "path": "emails/2026/03/migrated_qa_51_a.json",
+      "thread_id": "thread_qa_51"
+    },
+    "migrated_qa_52_q": {
+      "path": "emails/2026/03/migrated_qa_52_q.json",
+      "thread_id": "thread_qa_52"
+    },
+    "migrated_qa_52_a": {
+      "path": "emails/2026/03/migrated_qa_52_a.json",
+      "thread_id": "thread_qa_52"
+    },
+    "migrated_qa_53_q": {
+      "path": "emails/2026/03/migrated_qa_53_q.json",
+      "thread_id": "thread_qa_53"
+    },
+    "migrated_qa_53_a": {
+      "path": "emails/2026/03/migrated_qa_53_a.json",
+      "thread_id": "thread_qa_53"
+    },
+    "migrated_qa_54_q": {
+      "path": "emails/2026/03/migrated_qa_54_q.json",
+      "thread_id": "thread_qa_54"
+    },
+    "migrated_qa_54_a": {
+      "path": "emails/2026/03/migrated_qa_54_a.json",
+      "thread_id": "thread_qa_54"
+    },
+    "migrated_qa_55_q": {
+      "path": "emails/2026/03/migrated_qa_55_q.json",
+      "thread_id": "thread_qa_55"
+    },
+    "migrated_qa_55_a": {
+      "path": "emails/2026/03/migrated_qa_55_a.json",
+      "thread_id": "thread_qa_55"
+    },
+    "migrated_qa_56_q": {
+      "path": "emails/2026/03/migrated_qa_56_q.json",
+      "thread_id": "thread_qa_56"
+    },
+    "migrated_qa_56_a": {
+      "path": "emails/2026/03/migrated_qa_56_a.json",
+      "thread_id": "thread_qa_56"
+    },
+    "migrated_qa_57_q": {
+      "path": "emails/2026/03/migrated_qa_57_q.json",
+      "thread_id": "thread_qa_57"
+    },
+    "migrated_qa_57_a": {
+      "path": "emails/2026/03/migrated_qa_57_a.json",
+      "thread_id": "thread_qa_57"
+    },
+    "migrated_qa_58_q": {
+      "path": "emails/2026/02/migrated_qa_58_q.json",
+      "thread_id": "thread_qa_58"
+    },
+    "migrated_qa_58_a": {
+      "path": "emails/2026/02/migrated_qa_58_a.json",
+      "thread_id": "thread_qa_58"
+    },
+    "migrated_qa_59_q": {
+      "path": "emails/2026/02/migrated_qa_59_q.json",
+      "thread_id": "thread_qa_59"
+    },
+    "migrated_qa_59_a": {
+      "path": "emails/2026/02/migrated_qa_59_a.json",
+      "thread_id": "thread_qa_59"
+    },
+    "migrated_qa_60_q": {
+      "path": "emails/2026/02/migrated_qa_60_q.json",
+      "thread_id": "thread_qa_60"
+    },
+    "migrated_qa_60_a": {
+      "path": "emails/2026/02/migrated_qa_60_a.json",
+      "thread_id": "thread_qa_60"
+    },
+    "migrated_qa_61_q": {
+      "path": "emails/2026/02/migrated_qa_61_q.json",
+      "thread_id": "thread_qa_61"
+    },
+    "migrated_qa_61_a": {
+      "path": "emails/2026/02/migrated_qa_61_a.json",
+      "thread_id": "thread_qa_61"
+    },
+    "migrated_qa_62_q": {
+      "path": "emails/2026/02/migrated_qa_62_q.json",
+      "thread_id": "thread_qa_62"
+    },
+    "migrated_qa_62_a": {
+      "path": "emails/2026/02/migrated_qa_62_a.json",
+      "thread_id": "thread_qa_62"
+    },
+    "migrated_qa_63_q": {
+      "path": "emails/2026/02/migrated_qa_63_q.json",
+      "thread_id": "thread_qa_63"
+    },
+    "migrated_qa_63_a": {
+      "path": "emails/2026/02/migrated_qa_63_a.json",
+      "thread_id": "thread_qa_63"
+    },
+    "migrated_qa_64_q": {
+      "path": "emails/2026/02/migrated_qa_64_q.json",
+      "thread_id": "thread_qa_64"
+    },
+    "migrated_qa_64_a": {
+      "path": "emails/2026/02/migrated_qa_64_a.json",
+      "thread_id": "thread_qa_64"
+    },
+    "migrated_qa_65_q": {
+      "path": "emails/2026/01/migrated_qa_65_q.json",
+      "thread_id": "thread_qa_65"
+    },
+    "migrated_qa_65_a": {
+      "path": "emails/2026/01/migrated_qa_65_a.json",
+      "thread_id": "thread_qa_65"
+    },
+    "migrated_qa_66_q": {
+      "path": "emails/2026/01/migrated_qa_66_q.json",
+      "thread_id": "thread_qa_66"
+    },
+    "migrated_qa_66_a": {
+      "path": "emails/2026/01/migrated_qa_66_a.json",
+      "thread_id": "thread_qa_66"
+    },
+    "migrated_qa_67_q": {
+      "path": "emails/2026/01/migrated_qa_67_q.json",
+      "thread_id": "thread_qa_67"
+    },
+    "migrated_qa_67_a": {
+      "path": "emails/2026/01/migrated_qa_67_a.json",
+      "thread_id": "thread_qa_67"
+    },
+    "migrated_qa_68_q": {
+      "path": "emails/2026/01/migrated_qa_68_q.json",
+      "thread_id": "thread_qa_68"
+    },
+    "migrated_qa_68_a": {
+      "path": "emails/2026/01/migrated_qa_68_a.json",
+      "thread_id": "thread_qa_68"
+    },
+    "migrated_qa_69_q": {
+      "path": "emails/2026/01/migrated_qa_69_q.json",
+      "thread_id": "thread_qa_69"
+    },
+    "migrated_qa_69_a": {
+      "path": "emails/2026/01/migrated_qa_69_a.json",
+      "thread_id": "thread_qa_69"
+    },
+    "migrated_qa_70_q": {
+      "path": "emails/2026/01/migrated_qa_70_q.json",
+      "thread_id": "thread_qa_70"
+    },
+    "migrated_qa_70_a": {
+      "path": "emails/2026/01/migrated_qa_70_a.json",
+      "thread_id": "thread_qa_70"
+    },
+    "migrated_qa_71_q": {
+      "path": "emails/2026/01/migrated_qa_71_q.json",
+      "thread_id": "thread_qa_71"
+    },
+    "migrated_qa_71_a": {
+      "path": "emails/2026/01/migrated_qa_71_a.json",
+      "thread_id": "thread_qa_71"
+    }
+  }
+}

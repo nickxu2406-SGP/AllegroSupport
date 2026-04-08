@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_28_q",
+  "conversationId": "thread_qa_28",
+  "internetMessageId": "<migrated-qa_28-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3edaacba8e9a4ed09c4959d44bc5855f-47e4d4a0-3a",
+  "sender": {
+    "emailAddress": {
+      "name": "Siti Aisha/CUS-SG/LH Trade",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3edaacba8e9a4ed09c4959d44bc5855f-47e4d4a0-3a"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-16T16:24:00Z",
+  "sentDateTime": "2026-03-16T16:24:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran, \r\n\r\nAuto-rating is not capturing new WRS updated in system on 5/3. Kindly assist to check and advise. \r\n\r\nPOR - DJJIB @ USD250 / USD 500\r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nSiti Aisha\r\n\r\nLong Haul Trade\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01,\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n\nSubject: RE:"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_28",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

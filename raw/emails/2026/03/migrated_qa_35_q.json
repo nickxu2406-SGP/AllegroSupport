@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_35_q",
+  "conversationId": "thread_qa_35",
+  "internetMessageId": "<migrated-qa_35-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=9188faeebfc74ceb93bf0c2f3d98e95f-d6ed8fc5-f1",
+  "sender": {
+    "emailAddress": {
+      "name": "Document Center3",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=9188faeebfc74ceb93bf0c2f3d98e95f-d6ed8fc5-f1"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-11T08:59:00Z",
+  "sentDateTime": "2026-03-11T08:59:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear all,\r\n\r\n \r\n\r\nBL#CULVSHA2603420\r\n\r\n主题单并单的时候系统卡顿，导致并了两次单，现在booking出现重复，SI无法上传，请帮忙解决，谢谢。\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nThanks & Best regards.\r\n\r\n \r\n\r\nCody Zeng / 曾家俊\r\n\r\nDocument Specialist\r\n\r\nDocument Center\r\n\r\nE-mail: codyzeng@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/>"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_35",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

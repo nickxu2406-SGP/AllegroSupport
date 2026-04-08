@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_70",
+  "subject": "LOLO  INVOICE // BL# CULVAQJ2500076 +CULVAQJ2500078",
+  "emails": [
+    {
+      "$ref": "../emails/2026/01/migrated_qa_70_q.json"
+    },
+    {
+      "$ref": "../emails/2026/01/migrated_qa_70_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "CSV - SSA JOR",
+      "email": "csv@ssajordan.com",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_70@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-01-13T15:13:00Z",
+  "last_email_at": "2026-01-13T15:44:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_70",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_21",
+  "subject": "SPLIT BOOKING ISSUE--CULVJIB2600032 (MASTER BILL)",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_21_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_21_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Madina Mohamed Ali - DJSS",
+      "email": "madina@dssdjibouti.com",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_21@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-18T14:30:00Z",
+  "last_email_at": "2026-03-18T18:19:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_21",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

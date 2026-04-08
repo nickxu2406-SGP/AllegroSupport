@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_8_q",
+  "conversationId": "thread_qa_8",
+  "internetMessageId": "<migrated-qa_8-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=dc6161e08cf94e75bba26d64b76a8511-4b91bcbe-89",
+  "sender": {
+    "emailAddress": {
+      "name": "Andrew Xu/CUL-TH",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=dc6161e08cf94e75bba26d64b76a8511-4b91bcbe-89"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-27T16:06:00Z",
+  "sentDateTime": "2026-03-27T16:06:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Nick Zong \r\n\r\n \r\n\r\nSorry for suddenly email request. \r\n\r\n \r\n\r\nMs An limeng is our JP side Fin, in future JP side agency Benline will work under CUL JP (KAIWA SHIPPING) or not only Benline with CUL PTE . \r\n\r\n \r\n\r\nSo, we need to open Ms An limeng’s below factions. \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nAndrew Xu / 徐鲁宁\r\n\r\nOwner’s Chief Representative\r\n\r\nTH Mobile:+66-095-976-6630\r\n\r\nCH Mobile:+86-136-1291-5767\r\n\r\nJP Mobile:+81-070-6529-0053 \r\n\r\nWeb: www.culines.com/ <http://www.culines.com/>  \r\n\r\n7F, Mayapada Shiodome Plaza, 2-11-4 \r\n\r\nHigashi-Shinbashi, Minato-ku, Tokyo\r\n\r\n20th Floor Lumpini Tower, Rama 4 Road,\r\n\r\nThungmahamek, Sathorn, Bangkok 10120\r\n\r\n\r\n\r\n \r\n\r\n\n日期: 2026年3月27日 星期五 12:00\r\n收件人: Limeng An/CUL-JP/FIN&HR <jp.limengan@culines.com>, #CUL Allegro"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_8",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

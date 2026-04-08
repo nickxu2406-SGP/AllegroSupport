@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_60",
+  "subject": "DDS Invoice - Ex Vsl TSHK2605W",
+  "emails": [
+    {
+      "$ref": "../emails/2026/02/migrated_qa_60_q.json"
+    },
+    {
+      "$ref": "../emails/2026/02/migrated_qa_60_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Helen Zhang/CUS-SG/SGAgency",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_60@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-02-20T14:34:00Z",
+  "last_email_at": "2026-02-23T20:48:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_60",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

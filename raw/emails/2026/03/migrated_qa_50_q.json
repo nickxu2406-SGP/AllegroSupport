@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_50_q",
+  "conversationId": "thread_qa_50",
+  "internetMessageId": "<migrated-qa_50-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+  "sender": {
+    "emailAddress": {
+      "name": "Easton SI/CUL-CN/Agency Mgt",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-05T14:00:00Z",
+  "sentDateTime": "2026-03-05T14:00:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Joanne & Kieran,\r\n\r\nConfirmed with Nick, please urgently assist with the new User ID creation according to our communication.\r\n\r\nThank you!\r\n\r\nBest Regards,\r\n\r\nEaston Si/司文东\r\n\r\nAgency Management Department\r\n\r\nMobile: +86-187-5698-8480\r\n\r\nE-mail: eastonsi@culines.com\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月5日 10:18\r\n收件人: Ezgi KUNT ONUK <ezgi@martiz.com>; MARTI Mersin - Uğur KANKANAT <ugur.kankanat@marticontainer.com.tr>; Ebru SABUNCUOĞLU <ebru@martiz.com>; Vefiye TÜRKANTOS <vefiye@martiz.com>; Marketing <marketing@martiz.com>; trsales <trsales@uglines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Kieran Ji/CUL-CN/IT <kieranji@culines.com>; Suki Xie/CUL"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_50",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

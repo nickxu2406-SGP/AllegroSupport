@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_42_a",
+  "conversationId": "thread_qa_42",
+  "internetMessageId": "<migrated-qa_42-a@allegro-support>",
+  "subject": "Re: henny.irnawati@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_42@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Henny Cut Irnawati",
+        "address": "henny.irnawati@samudera.id"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-13T18:29:00Z",
+  "sentDateTime": "2026-02-13T18:29:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Henny,\r\n\r\nBased on the current setup, IDBLW is under SAIID’s control.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, February 13, 2026 at 18:26\r\n\nCc: Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Michael Zhao/CUL-PH <michaelzhao@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>, Indani Zul"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_42",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

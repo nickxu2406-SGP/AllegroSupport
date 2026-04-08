@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_5_a",
+  "conversationId": "thread_qa_5",
+  "internetMessageId": "<migrated-qa_5-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=d352a743ecc84203ba952215d57a407d-82ee8892-5a",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_5@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Simon Sun/CUL-CN/CS",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=d352a743ecc84203ba952215d57a407d-82ee8892-5a"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-30T16:11:00Z",
+  "sentDateTime": "2026-03-30T16:11:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Simon,\r\n\r\nSince these bookings are from 21/22, the vessel is already closed. Please request the Marine team to temporarily activate it, then proceed with the AR re-interface.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 20, 2026 at 17:28\r\n\nCc: Rita Qu/CUL-CN/FIN <ritaqu@culines.com>, Monica Teng/CUL-CN/FIN <monicateng@culines.com>, #CUL FIN Agency <agencyfinance@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, #CUL Revenue Audit <revenueaudi"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_5",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

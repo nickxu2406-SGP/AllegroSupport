@@ -1,0 +1,62 @@
+{
+  "id": "qa_46",
+  "version": 1,
+  "question": {
+    "text": "Dear Kieran & Joanne,\r\nI've confirmed with Michael.\r\nPlease kindly assist in creating a new user ID for Belawam team to access our E-service website.\r\n\r\nThank you!\r\n\r\nBest Regards,\r\n\r\nEaston Si/司文东\r\n\r\nAgency Management Department\r\n\r\nMobile: +86-187-5698-8480\r\n\r\nE-mail: eastonsi@culines.com\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年2月11日 16:30\r\n\n抄送: Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>; Michael Zhao/CUL-PH <michaelzhao@culines.com>; Indani Zulfah <indani.zulfah@samudera.id>; #CUL Allegro Support <allegrosupport@culines.com>; Arif Khajapi <arifkhajapi@samudera.id>; Abdul Malik <mal",
+    "original_email_id": "migrated_qa_46_q",
+    "sender_name": "Easton SI/CUL-CN/Agency Mgt",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+    "sent_at": "2026-02-12T09:18:00Z",
+    "summary": "Dear Kieran & Joanne, I've confirmed with Michael. Please kindly assist in creating a new user ID fo...",
+    "keywords": [
+      "权限申请",
+      "Allegro"
+    ]
+  },
+  "answer": {
+    "text": "Forward to Agency Management Team.\r\n\r\n \r\n\r\nPlease kindly confirm whether we need to create a new office code for BELAWAN (IDBLW), if yes, please provide necessary informations for our creation (the attachment is for your reference).\r\n\r\nIn addition, please also help to check and confirm the user ID and his/her authorities requested in below.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年2月24日 16:01\r\n\n抄送: Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines",
+    "original_email_id": "migrated_qa_46_a",
+    "responder_name": "Catherine Kang/CUL-CN/IT",
+    "responder_email": "responder_qa_46@culines.com",
+    "sent_at": "2026-02-25T12:04:00Z",
+    "summary": "Forward to Agency Management Team. Please kindly confirm whether we need to crea...",
+    "keywords": [
+      "权限申请",
+      "BL"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_46",
+    "path": "../raw/threads/thread_qa_46.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "权限申请",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: REQUEST USER ACCESS ALLEGRO FOR IDBLW TEAM"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

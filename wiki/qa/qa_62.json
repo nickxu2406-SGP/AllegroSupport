@@ -1,0 +1,64 @@
+{
+  "id": "qa_62",
+  "version": 1,
+  "question": {
+    "text": "Dear Kieran,\r\n\r\nBelow issue is yet to be fixed, please check and do the needful.\r\n\r\n \r\n\r\n“Q”\r\n\r\nFor below containers, I am facing error while performing the MT work order, which already raised with IT team. \r\n\r\nIf possible, please advise whether this can be closed manually.\r\n\r\n \r\n\r\nOffice\r\n\r\nContainer#\r\n\r\nFrom\r\n\r\nTo\r\n\r\nBL#\r\n\r\nStatus\r\n\r\nINR Amount \r\n\r\nInvoice#\r\n\r\nJO\r\n\r\nInvoice\r\n\r\nCUMUN\r\n\r\nBURU6698508\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\nCUMUN\r\n\r\nWFHU5145860\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\nCUMUN\r\n\r\nTRLU7021548\r\n\r\nINHARY01\r\n\r\nINTKDY01\r\n\r\n \r\n\r\nM\r\n\r\n7,800.00\r\n\r\n8429\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n“U”\r\n\r\n \r\n\r\n \r\n\r\nBest Regards \r\n\r\nAnil Baranwal\r\n\r\nAsst. Manager - EQC\r\n\r\nIndia\r\n\r\nTel: +91-22-4159 9974\r\n\r\nMobile: +91-9892578436\r\n\r\nE-mail",
+    "original_email_id": "migrated_qa_62_q",
+    "sender_name": "Anil Baranwal",
+    "sender_email": "anil.baranwal@culshipping.in",
+    "sent_at": "2026-02-09T12:58:00Z",
+    "summary": "Dear Kieran, Below issue is yet to be fixed, please check and do the needful. “Q” For below containe...",
+    "keywords": [
+      "error",
+      "container",
+      "BL",
+      "提单操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Anil,\r\n\r\nAll set now, please try again.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Monday, February 9, 2026 at 12:58\r\n\nCc: CUL-IND/Finance <culin.finance@culshipping.in>, #CUL Commercial <commercial@culines.com>, Carrie Meng/CUL-CN/FIN <carriemeng@culines.com>, Vivek Singh <v",
+    "original_email_id": "migrated_qa_62_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_62@culines.com",
+    "sent_at": "2026-02-09T16:37:00Z",
+    "summary": "Dear Anil, All set now, please try again. Kieran Ji / 季胤喆 System Engineer Digita...",
+    "keywords": [
+      "提单操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_62",
+    "path": "../raw/threads/thread_qa_62.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "提单操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "CUL INDIA SUB AGENT RAIL COSTS IN MAY SOA"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

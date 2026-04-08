@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_33_q",
+  "conversationId": "thread_qa_33",
+  "internetMessageId": "<migrated-qa_33-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+  "sender": {
+    "emailAddress": {
+      "name": "Chris Xiao/CUL-NAS/DOC",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-08T09:37:00Z",
+  "sentDateTime": "2026-01-08T09:37:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi 小丁姐，\r\n\r\n \r\n\r\n请问以下优化的功能预计几时上线？\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nChris Xiao / 肖婷婷\r\n\r\nDocument Specialist\r\n\r\nDocument Center \r\n\r\nTel: +86-20-8496-9501 \r\n\r\nMobile: +86-159-2039-5537\r\n\r\nE-mail: chrisxiao@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年1月7日 17:12\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47\r\n\r\n \r\n\r\nHi Chris,\r\n\r\n \r\n\r\n如之前沟通，在系统自动校验全口岸提单规则的功能开发前，我们先按原计划优化土耳其进出口TAX ID 和email 的校验功能。\r\n\r\n优化内容如下，如有问题请帮忙告知，多谢！"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_33",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

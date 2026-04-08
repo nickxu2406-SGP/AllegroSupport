@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_27",
+  "subject": "VESSEL SCHEDULE Update in Allegro",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_27_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_27_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Izelle Tan/CUL-SG/Agency Mgt",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=56f322aaaa274532b5313b71918b598d-724c1e7a-54",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_27@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-11T16:56:00Z",
+  "last_email_at": "2026-03-16T18:34:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_27",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

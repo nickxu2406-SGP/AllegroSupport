@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_14_q",
+  "conversationId": "thread_qa_14",
+  "internetMessageId": "<migrated-qa_14-q@allegro-support>",
+  "subject": "cul.docs.jp@benline.com",
+  "sender": {
+    "emailAddress": {
+      "name": "BLA Japan - CUL Docs",
+      "address": "cul.docs.jp@benline.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-23T16:46:00Z",
+  "sentDateTime": "2026-03-23T16:46:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Keran sama\r\n\r\nGood day\r\n\r\n \r\n\r\nI noticed that CULVNGO2600108 has another container.\r\n\r\nOn Allegro charge handling by booking , CULVNGO2600108 has 7 containers as below.\r\n\r\n\r\n\r\n \r\n\r\nBut I noticed that CULVNGO2600108 has another container.\r\n\r\n\r\n\r\n \r\n\r\nWould you advise how to add this container to booking CULVNGO2600108 in the charge handling by booking section?\r\n\r\n \r\n\r\nThank you\r\n\r\n \r\n\r\nBest Regards.\r\n\r\n \r\n\r\nAmane AOKI（青木　周）\r\n\r\nAccount Manager – Liner Div.\r\n\r\nBen Line Agencies - Tokyo, Japan\r\n\r\nTel | +81-3-6718-0741 |\r\n\r\nEmail : amane.aoki@benline.com <mail\n\r\nWebsite : https://benline.com/ <https://benline.com/> \r\n\r\n \r\n\r\n \r\n\r\n\nTo: BLA Japan - CUL Docs <cul.docs.jp@be"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_14",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

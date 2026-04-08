@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_49_q",
+  "conversationId": "thread_qa_49",
+  "internetMessageId": "<migrated-qa_49-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3f4a9778033247edac4c6550e4151b01-f8165b93-43",
+  "sender": {
+    "emailAddress": {
+      "name": "Tonny Ni/CUL-UAE",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3f4a9778033247edac4c6550e4151b01-f8165b93-43"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-09T13:28:00Z",
+  "sentDateTime": "2026-03-09T13:28:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Keep more IDs in the loop.\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nTonny Ni / 倪嘉安\r\n\r\nOwner’s Representative\r\n\r\nCULINES SHIPPING LLC (WEST ASIA)\r\n\r\nMobile (UAE): +971-050-307-9199 (WhatsApp)\r\n\r\nMobile (CN): +86-158-2196-8265 (WeChat)\r\n\r\nE-mail: tonnyni@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n\n发送时间: 2026年3月8日 3:11\r\n\n主题: Gu"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_49",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

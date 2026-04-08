@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_4",
+  "subject": "回复: Storage Waiver Request // SHENGTANG 2606W",
+  "emails": [
+    {
+      "$ref": "../emails/2026/04/migrated_qa_4_q.json"
+    },
+    {
+      "$ref": "../emails/2026/04/migrated_qa_4_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_4@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-04-03T17:27:00Z",
+  "last_email_at": "2026-04-06T16:18:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_4",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

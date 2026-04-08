@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_28",
+  "subject": "Booking Confirmation – PIL Vessel KMAK0333W",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_28_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_28_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Siti Aisha/CUS-SG/LH Trade",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=3edaacba8e9a4ed09c4959d44bc5855f-47e4d4a0-3a",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_28@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-16T16:24:00Z",
+  "last_email_at": "2026-03-16T17:46:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_28",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

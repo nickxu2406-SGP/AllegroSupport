@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_48",
+  "subject": "回复: REQUEST USER ACCESS ALLEGRO FOR IDBLW TEAM",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_48_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_48_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Michael Zhao/CUL-PH",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=4ada351d1e474ca2b95a849d611a85d6-86005bc3-18",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_48@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-03T10:48:00Z",
+  "last_email_at": "2026-03-09T18:33:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_48",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

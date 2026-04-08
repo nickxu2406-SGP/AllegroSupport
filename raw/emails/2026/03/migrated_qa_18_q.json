@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_18_q",
+  "conversationId": "thread_qa_18",
+  "internetMessageId": "<migrated-qa_18-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=493f3ae49ba84c8bb0242c4914d08816-a35b2ee0-93",
+  "sender": {
+    "emailAddress": {
+      "name": "Bob Wu/CUL-SG/LH Trade",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=493f3ae49ba84c8bb0242c4914d08816-a35b2ee0-93"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-19T17:54:00Z",
+  "sentDateTime": "2026-03-19T17:54:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear @#CUL Allegro Support <mail\n\r\n \r\n\r\nPlease help to check and advise why below WRS tariff for 40RH cannot be captured?\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nThank you.\r\n\r\n \r\n\r\nBob Wu / 吴梓玮\r\n\r\nLong Haul Trade\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01,\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\n\nSubject: RE: <CCT> FREIGHT AGREEMENT -CUL YANGPU 2611N- CUYP2611N- LH- ETD 21 MAR 2026"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_18",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

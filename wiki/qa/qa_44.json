@@ -1,0 +1,64 @@
+{
+  "id": "qa_44",
+  "version": 1,
+  "question": {
+    "text": "Dear Indani, Bastian, Alfa, Mas Bela, Bu Leni, Fadila,\r\n\r\nPls list down all the menu/module access for daily operation as well as availability status in your user account, in order BLW and SUB able to check if their account also already has complete access for daily ops.\r\nThanks\r\n\r\nexample template asf:\r\n\r\nno\t user name\t Role\t menu/module required for daily operation\t function\t availability status (Y/N)\t remark\t \r\n1\t Indani\t CS\t  \t Customer approval in vservice adm\t N\t pls add on/open access module for customer approval in vservice adm\t \r\n \t  \t  \t  \t  \t  \t  \t \r\n2\t Malip\t Sales\t booking unlock etc\t  \t  N\t  \t \r\n3\t Leni\t Sales\t  \t  \t  \t  \t \r\n \t  \t  \t  \t  \t  \t  \t \r\n3\t Ybastian\t Export Document\t  \t  \t  \t  \t \r\n4\t Ybastian\t Inventory\t  \t Update movement VD, ID, OC, VL\t  Y\t  \t \r\n \t  \t  \t  \t Unlock",
+    "original_email_id": "migrated_qa_44_q",
+    "sender_name": "Henny Cut Irnawati",
+    "sender_email": "henny.irnawati@samudera.id",
+    "sent_at": "2026-03-03T11:07:00Z",
+    "summary": "Dear Indani, Bastian, Alfa, Mas Bela, Bu Leni, Fadila, Pls list down all the menu/module access for ...",
+    "keywords": [
+      "booking",
+      "订舱操作",
+      "BL",
+      "VD"
+    ]
+  },
+  "answer": {
+    "text": "Dear Easton,\r\n\r\nThe account has been updated according to the information provided.\r\nFor the newly created account please find the details in the attachment.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Saturday, February 28, 2026 at 09:10\r\n\nCc: Allan Ng/CUL-SG <allanng@culines.com>, Michael Zhao/CUL-PH <michaelzhao@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Dylan Dong/CUL-CN/Agency Mgt <dylando",
+    "original_email_id": "migrated_qa_44_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_44@culines.com",
+    "sent_at": "2026-03-04T15:13:00Z",
+    "summary": "Dear Easton, The account has been updated according to the information provided....",
+    "keywords": [
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_44",
+    "path": "../raw/threads/thread_qa_44.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "REQUEST USER ACCESS ALLEGRO FOR IDBLW TEAM"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

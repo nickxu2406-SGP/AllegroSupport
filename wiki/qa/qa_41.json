@@ -1,0 +1,64 @@
+{
+  "id": "qa_41",
+  "version": 1,
+  "question": {
+    "text": "Dear Kieran,\r\nPls confirm my understanding:\r\nIDJKT office under SAIID : \r\nIDSUB office under SAISUB : my username is SAIID for eservice adm and irnawati for allegro\r\nIDJKT office under SAIBLW? user name allegro arifkhajapi\r\n\r\nThis one is requested for IDBLW office\r\n\r\nThanks\r\n\r\n\r\n🧧  Holiday Notice 🏮✨\r\n\r\nFebruary 16 - 17, 2026 | Chinese New Year 2577 Kongzili\r\n\r\n\r\nBest Regards,\r\n\r\n\r\nHenny Cut Irnawati\r\n\r\nTraffic and Document Manager - GENA\r\n\r\nPT Samudera Agencies Indonesia\r\n\r\nLetjen S. Parman St No.Kav. 35, Kemanggisan, Palmerah, West Jakarta City, Jakarta 11480, Indonesia\r\n\r\np: (021) 5300580 ext 87271\r\n\r\nm: +6282110291033\r\n\r\ne: henny.irnawati@samudera.id <mail\n\r\n\r\nOn Fri, Feb 13, 2026 at 3:29 PM Kieran Ji/CUL-CN/IT <kieranji@culines.com <mailto:kieranji@culin",
+    "original_email_id": "migrated_qa_41_q",
+    "sender_name": "Henny Cut Irnawati",
+    "sender_email": "henny.irnawati@samudera.id",
+    "sent_at": "2026-02-13T17:32:00Z",
+    "summary": "Dear Kieran, Pls confirm my understanding: IDJKT office under SAIID : IDSUB office under SAISUB : my...",
+    "keywords": [
+      "Allegro",
+      "BL",
+      "提单操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Henny,\r\n\r\nUnderstood, thanks for the explanation.\r\n\r\nID: SASUB\r\nPWD: qwer1234\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, February 13, 2026 at 17:32\r\n\nCc: Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>, Joanne Ding/CUL-CN/IT <joanneding@culines.com>, Michael Zhao/CUL-PH <michaelzhao@culines.com>, #CUL Allegro Support <allegrosupport@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>, In",
+    "original_email_id": "migrated_qa_41_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_41@culines.com",
+    "sent_at": "2026-02-13T18:25:00Z",
+    "summary": "Dear Henny, ID: SASUB PWD: qwer1234 Kieran Ji / 季胤喆 System Engineer Digital & IT...",
+    "keywords": [
+      "Allegro",
+      "提单操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_41",
+    "path": "../raw/threads/thread_qa_41.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "提单操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "REQUEST USER ACCESS ALLEGRO FOR IDBLW TEAM"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "qa_15",
+  "version": 1,
+  "question": {
+    "text": "Dear Allegro Support Team,\r\n\r\n\r\nAs per attached from Trade, please help set up POD agent for new POD: AEKLF (same as AEJEA). Thank you,\r\n\r\n\r\nNATIONAL SHIPPING SERVICES LLC\r\nSHARAF BUILDING 1ST FLOOR  OFFICE NO  101,OPP BUR JUMAN METRO STATION, KHALID BIN WALEED ST\r\n971-43709208/LAVEENA/IMPORTCUL@NATIONALDUBAI.AE \r\n\r\n\r\n\r\n\r\n\r\nBest Regards,\r\nChris Nguyen / Tiến (Mr.)\r\nSupervisor, CS & Documentation\r\nCS & Documentation Department\r\nTel: +84 28 39393920 – Ext 120\r\nWeb: www.culines.com\r\n15th Floor, Doji Tower, No. 81-83-83B-85 Ham Nghi Street, Sai Gon Ward, Ho Chi Minh City, Vietnam\r\nE-services: https://eservice.culines.com/ \r\nE-mail: chrisnguyen@culines.com <mail",
+    "original_email_id": "migrated_qa_15_q",
+    "sender_name": "Chris Nguyen/CUL-VN/OP",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e2c8e3180ecc4f0299445e2ee5e928fe-40c4651c-87",
+    "sent_at": "2026-03-20T15:06:00Z",
+    "summary": "Dear Allegro Support Team, As per attached from Trade, please help set up POD agent for new POD: AEK...",
+    "keywords": [
+      "Allegro",
+      "订舱操作",
+      "POD"
+    ]
+  },
+  "answer": {
+    "text": "Dear Chris,\r\n\r\nAll set. For previous bookings, you can manually refresh by clicking the button below.\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, March 20, 2026 at 15:06\r\n\nSubject: Re: POD agent set-up for new POD: AEKLF // JEA FPOD in INNSA - route via AEKLF GFS GISELLE 033\r\n\r\n\r\nDear Allegro Support Team,\r\n\r\n\r\nAs per attached from Trade, please help set up POD agent for new POD: AEKLF (same as AEJEA). Thank yo",
+    "original_email_id": "migrated_qa_15_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_15@culines.com",
+    "sent_at": "2026-03-20T16:04:00Z",
+    "summary": "Dear Chris, All set. For previous bookings, you can manually refresh by clicking...",
+    "keywords": [
+      "system",
+      "route",
+      "booking",
+      "订舱操作",
+      "Allegro",
+      "POD"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_15",
+    "path": "../raw/threads/thread_qa_15.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "POD agent set-up for new POD: AEKLF // JEA FPOD in INNSA  - route via AEKLF GFS GISELLE 033"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

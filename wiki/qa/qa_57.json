@@ -1,0 +1,65 @@
+{
+  "id": "qa_57",
+  "version": 1,
+  "question": {
+    "text": "Adding @#CUL Allegro Support <mail\n\r\n \r\n\r\nDear Catherine sis,\r\n\r\n \r\n\r\nPlease help to review this matter in FCA module. Thank you.\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nBest Regards,\r\n\r\n \r\n\r\nBoris Yang / 杨博翔\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nMobile: +86-159-2107-1965\r\n\r\nE-mail: borisyang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月3日 16:23\r\n\n抄送: MGT.CUL - SSA JED <mgt.cul@ssajeddah",
+    "original_email_id": "migrated_qa_57_q",
+    "sender_name": "Boris Yang/CUL-CN/CS",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=1191b8db96924f4982dd25b37ddcc2c1-e28ccbc6-b3",
+    "sent_at": "2026-03-03T16:37:00Z",
+    "summary": "Adding @#CUL Allegro Support <mail Dear Catherine sis, Please help to review this matter in FCA modu...",
+    "keywords": [
+      "报关操作",
+      "Allegro"
+    ]
+  },
+  "answer": {
+    "text": "Hi, Boris and Siti,\r\n\r\n \r\n\r\nThe same error occurred when we tried to do the “confirm”, we assumed it might cause by the closed vessel/CUQD2422E, which ATD at POL on 2024.10.16.  Anyway, let us check and find out a solution.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月3日 16:38\r\n收件人: Siti Aisha/CUS-SG/LH Trade <sitiaisha@culines.com>; Docs.cul – SSA JED <docs.cul@ssajeddah.com>; Darico Dai/CUL-UAE <daricodai@culines.com>; Finn Fei/CUL-UAE <finnfei@culines.com>; BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>; #CUL Allegro Support <allegrosupp",
+    "original_email_id": "migrated_qa_57_a",
+    "responder_name": "Catherine Kang/CUL-CN/IT",
+    "responder_email": "responder_qa_57@culines.com",
+    "sent_at": "2026-03-03T17:29:00Z",
+    "summary": "Hi, Boris and Siti, The same error occurred when we tried to do the “confirm”, w...",
+    "keywords": [
+      "error",
+      "POL",
+      "报关操作",
+      "vessel",
+      "Allegro"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_57",
+    "path": "../raw/threads/thread_qa_57.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "报关操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: CUL EXPORT BLs - WRS & LSS CHARGES"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

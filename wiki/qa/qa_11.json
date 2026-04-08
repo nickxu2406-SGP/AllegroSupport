@@ -1,0 +1,62 @@
+{
+  "id": "qa_11",
+  "version": 1,
+  "question": {
+    "text": "Dear Kieran san\r\n\r\n \r\n\r\nThank you for your response.\r\n\r\nCould you advise us how to manually refresh the DDS calculation?\r\n\r\nThe bookings are already restored.\r\n\r\nI tried to input the MT date directly, but I couldn’t.\r\n\r\n\r\n\r\n\r\n \r\n\r\nBest regards,\r\n\r\n \r\n\r\nSaori IWATA\r\n\r\nEQC/Operation – As agents for CU LINES\r\n\r\nBen Line Agencies – Tokyo, Japan\r\n\r\nTel +81 3 6718 0741\r\n\r\nsaori.iwata@benline.com <mail\n\r\nwww.benlineagencies.com <http://www.benlineagencies.com/> \r\n\r\n \r\n\r\n\nCc: Document Center1 <documentcenter1@culines.com>; Chris X",
+    "original_email_id": "migrated_qa_11_q",
+    "sender_name": "BLA Japan - CUL Docs",
+    "sender_email": "cul.docs.jp@benline.com",
+    "sent_at": "2026-03-18T13:32:00Z",
+    "summary": "Dear Kieran san Thank you for your response. Could you advise us how to manually refresh the DDS cal...",
+    "keywords": [
+      "booking",
+      "订舱操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Saoli,\r\n\r\nYou can click the “Manual Calculation” button to refresh. Already done for CULVNGO2600109.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 18, 2026 at 13:32\r\n\nSubject: RE: ///Friendly reminder/// RE:",
+    "original_email_id": "migrated_qa_11_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_11@culines.com",
+    "sent_at": "2026-03-18T15:20:00Z",
+    "summary": "Dear Saoli, You can click the “Manual Calculation” button to refresh. Already do...",
+    "keywords": [
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_11",
+    "path": "../raw/threads/thread_qa_11.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "///Friendly reminder/// RE: Request to Restore Booking No. CULVNGO2600109, CULVNGO2600121 and CULVNGO2600108"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

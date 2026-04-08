@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_7_a",
+  "conversationId": "thread_qa_7",
+  "internetMessageId": "<migrated-qa_7-a@allegro-support>",
+  "subject": "Re: habon@dssdjibouti.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_7@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Habon Abdi - DJSS",
+        "address": "habon@dssdjibouti.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-30T14:58:00Z",
+  "sentDateTime": "2026-03-30T14:58:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Habon,\r\n\r\nPlease check the route in the agreement: DJJIB -> INMUN, which is not matched with the booking route.\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Monday, March 30, 2026 at 14:42\r\n\nSubject: RE: ERROR ON FREIGHT AGREEMENT//\r\n\r\n\r\n\r\nDear Cul allegro support teams\r\n\r\n \r\n\r\nAwaiting your support. Please do t"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_7",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

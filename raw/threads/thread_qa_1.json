@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_1",
+  "subject": "Update the Route detail related to AEJEAT01 in Allegro",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_1_q.json"
+    },
+    {
+      "$ref": "../emails/2026/04/migrated_qa_1_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Siraj - National Shipping",
+      "email": "siraj@nationaldubai.ae",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_1@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-31T16:51:00Z",
+  "last_email_at": "2026-04-07T12:15:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_1",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

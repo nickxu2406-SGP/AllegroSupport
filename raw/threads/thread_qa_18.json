@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_18",
+  "subject": "<CCT> FREIGHT AGREEMENT -CUL YANGPU 2611N- CUYP2611N- LH-  ETD 21 MAR 2026",
+  "emails": [
+    {
+      "$ref": "../emails/2026/03/migrated_qa_18_q.json"
+    },
+    {
+      "$ref": "../emails/2026/03/migrated_qa_18_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Bob Wu/CUL-SG/LH Trade",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=493f3ae49ba84c8bb0242c4914d08816-a35b2ee0-93",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_18@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-03-19T17:54:00Z",
+  "last_email_at": "2026-03-19T18:35:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_18",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

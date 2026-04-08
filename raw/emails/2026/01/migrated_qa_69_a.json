@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_69_a",
+  "conversationId": "thread_qa_69",
+  "internetMessageId": "<migrated-qa_69-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_69@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Limeng An/CUL-JP/FIN&HR",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=f0013e074da54da1aa60f3b4b586a7b6-7f317ba7-ba"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-16T16:59:00Z",
+  "sentDateTime": "2026-01-16T16:59:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Limeng,\r\n\r\nReceived. We will create it in the system once confirmed.\r\n\r\nDear FIN,\r\n\r\nPlease review the request below and advise the setup. Thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Friday, January 16, 2026 at 14:24\r\n\nCc: Andrew Xu/CUL-TH <andrewxu@culines.com>, Doris Huang/CUL-TPE/FIN&HR <tw.dorishuang@culines.com>, Cathy Xu/CUL-TPE/FIN&HR <tw.cathyxu@culines.com>, #CUL JP Office <jp@culines.com>, Monica Teng/CUL-CN/FIN <monicateng@culines.com>,"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_69",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

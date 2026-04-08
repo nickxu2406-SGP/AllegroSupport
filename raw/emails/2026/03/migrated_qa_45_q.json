@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_45_q",
+  "conversationId": "thread_qa_45",
+  "internetMessageId": "<migrated-qa_45-q@allegro-support>",
+  "subject": "indani.zulfah@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Indani Zulfah",
+      "address": "indani.zulfah@samudera.id"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-10T10:06:00Z",
+  "sentDateTime": "2026-03-10T10:06:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Joanne,\r\n\r\nAs per checking today,\r\n\r\nStill not yet enable for create customer code :\r\n\r\n\r\n\r\nThank you,\r\n\t  \tIndani Zulfah\t\r\nGENA Division\t\r\n\r\nPT Samudera Agencies Indonesia\r\nSamudera Kirana 8th Floor, Jl. Yos Sudarso No. 88, Sunter Jaya, Jakarta Utara 14350, Indonesia\r\np: (+62) 21530 0580 ext 89299         \r\n\r\ne: indani.zulfah@samudera.id <mail\n\r\n\r\n <https://apps.samudera.id/apps/apps.nsf/logo-indonesia-beyond.png> \t\r\n\r\n <https://www.samudera.id/> \t <https://apps.samudera.id/apps/apps.nsf/Logo-SSL5.png> \t\r\n\r\n <http://www.facebook.com/SamuderaID>    <http://www.twitter.com/@samudera_ind>    <http://www.instagram.com/samudera.id> \t\r\n\r\n\r\nOn Mon, Mar 9, 2026 at 5:33 PM Joanne Ding/CUL-CN/IT <joanneding@culines.com <mail"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_45",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

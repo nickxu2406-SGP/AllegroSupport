@@ -1,0 +1,65 @@
+{
+  "id": "qa_25",
+  "version": 1,
+  "question": {
+    "text": "Dear Tahir,\r\n\r\n \r\n\r\nPlease try this way to amend the system, attached for your reference.\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nLouis Xia / 夏莹\r\n\r\nCommercial Specialist\r\n\r\nCommercial & Customer Service Team\r\n\r\nTel: +86-21-6858-2153\r\n\r\nMobile: +86-176-1272-2817\r\n\r\nE-mail: louisxia@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月12日 11:01\r\n\n抄送:",
+    "original_email_id": "migrated_qa_25_q",
+    "sender_name": "Louis Xia/CUL-CN/CS",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa",
+    "sent_at": "2026-03-12T11:21:00Z",
+    "summary": "Dear Tahir, Please try this way to amend the system, attached for your reference. Louis Xia / 夏莹 Com...",
+    "keywords": [
+      "报关操作",
+      "system"
+    ]
+  },
+  "answer": {
+    "text": "Dear Moham,\r\n\r\n\r\nAfter checking your case, I have to clarify following.\r\n\r\n\r\n1.\t\r\n\tWhen you delete OFT/Surcharge via FCA, please delete the row directly. Please do not change the amount to be '0'. Otherwise, Trade will be unable to approve/reject it.\r\n\r\n\r\n\r\n\r\n\r\n\r\n2.\t\r\n\tIn case you fail to proceed,  please ask to trade to unlock the booking.\r\n\r\n\r\n\r\n\r\n       3. In case the VVD must be unlock also, please ask Trade to unlock the booking and you have to amend the freight detial within 2 hours after Marine team unlock the VVD.\r\n \r\nIn summary, please coordinate with Marine team and Trade within two hours and complete the amendment.Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.cul",
+    "original_email_id": "migrated_qa_25_a",
+    "responder_name": "Joanne Ding/CUL-CN/IT",
+    "responder_email": "responder_qa_25@culines.com",
+    "sent_at": "2026-03-12T18:50:00Z",
+    "summary": "Dear Moham, After checking your case, I have to clarify following. 1. When you d...",
+    "keywords": [
+      "DEL",
+      "报关操作",
+      "VD",
+      "booking",
+      "BL"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_25",
+    "path": "../raw/threads/thread_qa_25.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "报关操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: CULVPZU2500034 & CULVPZU2500055  //[SUDAN MAY-2025]//Reg for CUL Line  SOA for 2025- Jan to May // Sharaf Sudan"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

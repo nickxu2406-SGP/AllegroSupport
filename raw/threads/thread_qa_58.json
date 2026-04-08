@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_58",
+  "subject": "ALLEGRO系统权限调整",
+  "emails": [
+    {
+      "$ref": "../emails/2026/02/migrated_qa_58_q.json"
+    },
+    {
+      "$ref": "../emails/2026/02/migrated_qa_58_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "luciagong.sh@suldc.com",
+      "email": "luciagong.sh@suldc.com",
+      "role": "external"
+    },
+    {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "email": "responder_qa_58@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-02-26T14:45:00Z",
+  "last_email_at": "2026-02-26T15:23:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_58",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

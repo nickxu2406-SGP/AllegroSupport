@@ -1,0 +1,62 @@
+{
+  "id": "qa_58",
+  "version": 1,
+  "question": {
+    "text": "Dear All,\r\n\r\n烦请帮忙增加用户名：luciagong 下office权限：\r\n\r\n新增：ULXGG\r\n\r\n谢谢。\r\n\r\n\r\n\r\n\r\nBest Regards\r\n\r\n龚裕花/Lucia Gong\r\n客服经理/Customer-Service Manager\r\n深圳市联合物流发展有限公司上海分公司\r\nSHENZHEN UNITED LOGISTICS  DEVELOPMENT CO.,LTD. SHANGHAI BRANCH\r\n地址： 上海市虹口区东大名路908号金岸大厦606室\r\nADD： 606, Jinan Tower, No.908 Daming Rd(E), Shanghai 200082, China\r\nMOB：13764260270         \r\nTEL：+86-021-65660722 \r\nWEB：WWW.SULDC.COM\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*****************************\r\n如阁下对我司服务不满意或有指导性建议，欢迎联系管理部门：mindychen@suldc.com, 86-755-26889074，我们竭诚为您服务！\r\nWelcome any complaints or useful suggestions and guidance about our service at mindychen@suldc.com, 86-755-26889074, we always at your disposal !\r\n*****************************",
+    "original_email_id": "migrated_qa_58_q",
+    "sender_name": "luciagong.sh@suldc.com",
+    "sender_email": "luciagong.sh@suldc.com",
+    "sent_at": "2026-02-26T14:45:00Z",
+    "summary": "Dear All, 烦请帮忙增加用户名：luciagong 下office权限： 新增：ULXGG 谢谢。 龚裕花/Lucia Gong 客服经理/Customer-Service Manager 深...",
+    "keywords": [
+      "报关操作"
+    ]
+  },
+  "answer": {
+    "text": "Hi Lucia,\r\n\r\nULTNJ已添加，XINGANG under在ULTNJ control\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Thursday, February 26, 2026 at 14:45\r\n\nSubject: ALLEGRO系统权限调整\r\n\r\n\r\nDear All,\r\n\r\n烦请帮忙增加用户名：luciagong 下office权限：\r\n\r\n新增：ULXGG\r\n\r\n谢谢。\r\n\r\n\r\n\r\n\r\nBest Regards\r\n\r\n龚裕花/Lucia Gong\r\n客服经理/Customer-Service Manager\r\n深圳市联合物流发展有限公司上海分公司\r\nSHENZHEN UNITED LOGISTICS  DEVELOPMENT CO.,LTD. SHANGHAI BRANCH\r\n地址： 上海市虹口区东大名路908号金岸大厦606室\r\nADD： 606, Jinan Tower, No.",
+    "original_email_id": "migrated_qa_58_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_58@culines.com",
+    "sent_at": "2026-02-26T15:23:00Z",
+    "summary": "Hi Lucia, ULTNJ已添加，XINGANG under在ULTNJ control Kieran Ji / 季胤喆 System Engineer D...",
+    "keywords": [
+      "报关操作",
+      "Allegro",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_58",
+    "path": "../raw/threads/thread_qa_58.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "报关操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "ALLEGRO系统权限调整"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

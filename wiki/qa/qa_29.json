@@ -1,0 +1,68 @@
+{
+  "id": "qa_29",
+  "version": 1,
+  "question": {
+    "text": "Dear all,\r\n\r\n \r\n\r\nPlease see attached mail, CNTAO local has disscussed this issue with 康姐, using EGALYT05-EGALYT02 under ocean route is not logical in system\r\n\r\n \r\n\r\nThanks & Best Regards!\r\n\r\n \r\n\r\nFrankie Huang/ 黄梓轩\r\n\r\nOperation Specialist\r\n\r\nMarine Operations Team\r\n\r\nTel: +86-21-6595-6010\r\n\r\nMobile: +86-133-0174-6376\r\n\r\nE-mail: frankiehuang@culines.com <mail\n\r\nGroup E-mail: marine@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nChina United Lines Ltd.\r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月9日 19:23\r\n\n抄送: Ahmed Moustafa <ahmed.moust",
+    "original_email_id": "migrated_qa_29_q",
+    "sender_name": "Frankie Huang/CUL-CN/OP",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+    "sent_at": "2026-03-10T09:42:00Z",
+    "summary": "Dear all, Please see attached mail, CNTAO local has disscussed this issue with 康姐, using EGALYT05-EG...",
+    "keywords": [
+      "route",
+      "系统问题",
+      "system"
+    ]
+  },
+  "answer": {
+    "text": "Dear Finn,\r\n\r\n \r\n\r\nSince EGALYT05 and EGALYT02 is under same location EGALY, so impossible to create an ocean(trunk or feeder) link between 2 them.\r\n\r\nIf the Delivery Term of the bookings can change to CY, then we can create a inland link of EGALYT05-EGALYT02 (similar as carrier’s haulage route) , if it must be Free Out term at EGALY, then the route only can be POL=CNTAOT02 ~POD=EGALYT05.  As for the movements, Terminal T/S costs and feeder charge if any, it has to be settled manually.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月10日 20:00\r\n收件人: Fr",
+    "original_email_id": "migrated_qa_29_a",
+    "responder_name": "Catherine Kang/CUL-CN/IT",
+    "responder_email": "responder_qa_29@culines.com",
+    "sent_at": "2026-03-11T18:14:00Z",
+    "summary": "Dear Finn, Since EGALYT05 and EGALYT02 is under same location EGALY, so impossib...",
+    "keywords": [
+      "DEL",
+      "POL",
+      "系统问题",
+      "route",
+      "booking",
+      "BL",
+      "POD"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_29",
+    "path": "../raw/threads/thread_qa_29.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "系统问题",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: UPDATE ROUTE FROM EGALYT05 TO EGALYT02 FOR BZ CHONGFU 2602 ISSUE"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

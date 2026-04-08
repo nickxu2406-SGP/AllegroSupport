@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_70_q",
+  "conversationId": "thread_qa_70",
+  "internetMessageId": "<migrated-qa_70-q@allegro-support>",
+  "subject": "csv@ssajordan.com",
+  "sender": {
+    "emailAddress": {
+      "name": "CSV - SSA JOR",
+      "address": "csv@ssajordan.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-13T15:13:00Z",
+  "sentDateTime": "2026-01-13T15:13:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Kieran,\r\nGood day,\r\n\r\n \r\n\r\nUnfortunately, I am unable to amend the customer code in the BL details.\r\n\r\n \r\n\r\nWhen i select another customer code, it does not appear after I click on select .\r\n\r\n \r\n\r\nPlease advise on how we can proceed.\r\n\r\n \r\n\r\nCULVAQJ2500076\r\n\r\nCULVAQJ2500078\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\nRegards,\r\n\r\n \r\n\r\nMarah Al Fawaier/Ms\r\nSenior Customer Service Executive\r\n\r\nSharaf Shipping Agencies Co. W.L.L\r\n\r\nTHE BOULIVARD, ABDALI\r\n\r\nTel: +962 6 5695960 / 5695970 \r\nWhatsApp :+962797229071\r\n\r\nFax: +962 6 5682813\r\nE-mail: csv@ssajordan.com <mail\n\r\nwww.sharafshipping.com <http://www.sharafshipping.com/> \r\n\r\n \r\n\r\n\nTo: CSV - SSA JOR <csv@ssajordan.com>; Amber Hu/CUL-CN/FIN <amber"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_70",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

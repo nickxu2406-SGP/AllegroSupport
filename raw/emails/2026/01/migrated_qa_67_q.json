@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_67_q",
+  "conversationId": "thread_qa_67",
+  "internetMessageId": "<migrated-qa_67-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09",
+  "sender": {
+    "emailAddress": {
+      "name": "Sean Wang/CUL-CN/Agency Mgt",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-27T16:25:00Z",
+  "sentDateTime": "2026-01-27T16:25:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear @Catherine Kang/CUL-CN/IT <mail\n\r\n \r\n\r\nCopy @Claudia Goh/CUL-SG/LH Trade <mail\n\r\n \r\n\r\nWe have got confirmed instruction from Ricky about this issue. Ricky sir has agreed to adjust this manually in our system. \r\n\r\nPlease following up the adjustment directly, please add DFSU2687754 to the original BL directly, follow the practice of PIL.\r\n\r\nThank you.\r\n\r\nSean Wang / 王晓旭\r\n\r\nRepresentative\r\n\r\nCULINES SHIPPING LLC (WEST ASIA)\r\n\r\nMOB: +971-50-696-5918\r\n\r\nEmail: seanwang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n发件人: Sean Wang/CUL-CN/Agency Mgt <seanwang@culin"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_67",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

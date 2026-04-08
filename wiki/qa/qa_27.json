@@ -1,0 +1,65 @@
+{
+  "id": "qa_27",
+  "version": 1,
+  "question": {
+    "text": "Hi Kieran, Joanne,\r\n\r\nPlease help to update for MTMER office as mentioned below. Thank you!\r\n\r\n//Quote\r\nAllegro user ID,  delete “bboybek:,  create a new one for “Birkan”\r\n//Unquote\r\n\r\n\r\n\r\n\r\n\r\nBest Regards, \r\n\r\n \r\n\r\nIzelle Tan\r\n\r\nAgency Management Department\r\n\r\nMobile: +65 8250 4645\r\n\r\nE-mail: izelletan@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n200 Cantonment Road #11-01,\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\n\nTo: Nick Tian/CUL-TR <nicktian@culines.com>; Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>; Izelle Tan/CUL-SG/Agency Mgt <izelletan@culines.com>; MARTI Mersin - Birkan ÇİFTÇİ <birkan.ciftci@marticontainer.com.tr>; MARTI M",
+    "original_email_id": "migrated_qa_27_q",
+    "sender_name": "Izelle Tan/CUL-SG/Agency Mgt",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=56f322aaaa274532b5313b71918b598d-724c1e7a-54",
+    "sent_at": "2026-03-11T16:56:00Z",
+    "summary": "Hi Kieran, Joanne, Please help to update for MTMER office as mentioned below. Thank you! //Quote All...",
+    "keywords": [
+      "container",
+      "Allegro",
+      "DEL",
+      "订舱操作"
+    ]
+  },
+  "answer": {
+    "text": "Dear Izelle,\r\n\r\nPlease check the Account info. Below, thanks!\r\n\r\nID: birkan\r\nPWD: Aa123456!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 11, 2026 at 16:56\r\n\nCc: MARTI Mersin - Birkan ÇİFTÇİ <birkan.ciftci@marticontainer.com.tr>, Nick Tian/CUL-TR <nicktian@culines.com>, Easton SI/CUL-CN/Agency Mgt <eastonsi@culines.com>, Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>, Lanvee Sun/CUL-TR <lanveesun@",
+    "original_email_id": "migrated_qa_27_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_27@culines.com",
+    "sent_at": "2026-03-16T18:34:00Z",
+    "summary": "Dear Izelle, ID: birkan PWD: Aa123456! Kieran Ji / 季胤喆 System Engineer Digital &...",
+    "keywords": [
+      "container",
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_27",
+    "path": "../raw/threads/thread_qa_27.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "VESSEL SCHEDULE Update in Allegro"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

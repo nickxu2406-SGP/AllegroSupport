@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_67_a",
+  "conversationId": "thread_qa_67",
+  "internetMessageId": "<migrated-qa_67-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09",
+  "sender": {
+    "emailAddress": {
+      "name": "Catherine Kang/CUL-CN/IT",
+      "address": "responder_qa_67@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Sean Wang/CUL-CN/Agency Mgt",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-28T15:04:00Z",
+  "sentDateTime": "2026-01-28T15:04:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Claudia, \r\n\r\n \r\n\r\n1.\tOriginal 2 containers to maintain from CN to HOD OFT --> reexport charges from JIB to NEW POD would be updated under FCA filing\r\n\r\nAns > if want to maintain the OFT from CN to YEHOD, just need to manually add the surcharge to the original booking.\r\n\r\n \r\n\r\n2.\tThe new container to only have the reexport OFT from JIB to NEW POD --> which by right should be under FCA filing. \r\n\r\nAns > FCA filing can be CN to SOBBO. In case of any local surcharge of DJJIB, it has to be added manually due to POL is not DJJIB in the new booking route.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n发件人: Cla"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_67",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

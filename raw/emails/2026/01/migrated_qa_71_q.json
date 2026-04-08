@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_71_q",
+  "conversationId": "thread_qa_71",
+  "internetMessageId": "<migrated-qa_71-q@allegro-support>",
+  "subject": "csv@ssajordan.com",
+  "sender": {
+    "emailAddress": {
+      "name": "CSV - SSA JOR",
+      "address": "csv@ssajordan.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-13T13:51:00Z",
+  "sentDateTime": "2026-01-13T13:51:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Adding @Joanne Ding/CUL-CN/IT <mail\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nRegards,\r\n\r\n \r\n\r\nMarah Al Fawaier/Ms\r\nSenior Customer Service Executive\r\n\r\nSharaf Shipping Agencies Co. W.L.L\r\n\r\nTHE BOULIVARD, ABDALI\r\n\r\nTel: +962 6 5695960 / 5695970 \r\nWhatsApp :+962797229071\r\n\r\nFax: +962 6 5682813\r\nE-mail: csv@ssajordan.com <mail\n\r\nwww.sharafshipping.com <http://www.sharafshipping.com/> \r\n\r\n \r\n\r\n\nCc: #CUL Allegro Support <allegrosupport@culines.com>; Mohanned -SSAJOR <mohanned@ssajordan.com>; Finance - SS"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_71",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

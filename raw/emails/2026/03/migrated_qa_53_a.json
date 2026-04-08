@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_53_a",
+  "conversationId": "thread_qa_53",
+  "internetMessageId": "<migrated-qa_53-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_53@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Suki Xie/CUL-NAS/DOC",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-05T19:31:00Z",
+  "sentDateTime": "2026-03-05T19:31:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Ezgi,\r\n\r\nI've updated the setup. Please check and let us know if any. Thank you!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月5日 19:04\r\n收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>; MARTI Mersin - Uğur KANKANAT <ugur.kankanat@marticontainer.com.tr>; Ebru SABUNCUOĞLU <ebru@martiz.com>; Vefiye TÜRKANTOS <vefiye@martiz.com>; Marketing <marketing@martiz.com>; trsales <trsales@uglines.com>; #CUL Allegro Support <allegrosupport@culines.com>; Frankie Huang/CUL-CN/OP <frankiehuang@culines."
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_53",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

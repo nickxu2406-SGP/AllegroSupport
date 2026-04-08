@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_68_a",
+  "conversationId": "thread_qa_68",
+  "internetMessageId": "<migrated-qa_68-a@allegro-support>",
+  "subject": "Re: hendra.kurniawan@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_68@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Hendra Kurniawan",
+        "address": "hendra.kurniawan@samudera.id"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-22T20:04:00Z",
+  "sentDateTime": "2026-01-22T20:04:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "﻿Dear Hendra\r\n\r\nPlease retrieve BL by ID under office SASUB but not SAIID,thanks.\r\n\r\n发自我的 iPhone\r\n\r\n\r\n\t在 2026年1月22日，18:24，Hendra Kurniawan <hendra.kurniawan@samudera.id> 写道：\r\n\t\r\n\t\r\n\r\n\t﻿ Dear Culines team,\r\n\t\r\n\tany update ?\r\n\t\r\n\t\r\n\t\r\n\tOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\t\r\n\r\n\t\tDear CULINES Team,\r\n\t\t\r\n\t\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\t\r\n\t\t\r\n\t\t<eqZ3tM0MmvRb3FfW.png>\r\n\r\n\t\t<WFw6vzHpYPz3Bmk7.png>\r\n\r\n\r\n\r\n\t\t-- \r\n\t\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mailto:hendra.kurniawan@samudera.i"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_68",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

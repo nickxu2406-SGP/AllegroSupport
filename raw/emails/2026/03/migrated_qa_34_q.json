@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_34_q",
+  "conversationId": "thread_qa_34",
+  "internetMessageId": "<migrated-qa_34-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+  "sender": {
+    "emailAddress": {
+      "name": "Chris Xiao/CUL-NAS/DOC",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-10T11:16:00Z",
+  "sentDateTime": "2026-03-10T11:16:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear 小丁姐\r\n\r\n \r\n\r\n我们对POD/DEL 国家为Turkey的提单进行了测试，请见黄色部分测试结果：\r\n\r\n \r\n\r\nb. If POD or DEL belongs to Turkey country (Country Code: TR):\r\n\r\n*\tShipper: USCC and email address are not mandatory fields\r\n*\tConsignee and Notify party: There will be different between E-service and Allegro:\r\n\r\nb.1. E-service:\r\n\r\nBecause there is no \"To order\" option and Notify party is mandatory, there is only 1 scenario: Users input both Consignee and Notify party: USCC and email address of both are mandatory fields.\r\n\r\neservice 客人补料页面，收货人和通知人的税号邮箱都是必填项，填写后才能保存提交SI，与优化内容一致。\r\n\r\nb.2. Allegro: \r\n\r\n+ If users input both Consignee and Notify party: USCC and email address of both are mandatory fields.\r\n\r\n填写了收货人和通知人信息，两处的税号邮箱必填才能保存，与优化内容一致。\r\n\r\n+ If users input only Consignee information, not input for Notify party: USCC and em"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_34",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

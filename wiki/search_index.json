@@ -1,0 +1,1036 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-07T11:52:48Z",
+  "total": 71,
+  "records": [
+    {
+      "id": "qa_1",
+      "path": "qa/qa_1.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "discharge",
+        "error",
+        "POL",
+        "DEL",
+        "system",
+        "VD",
+        "container",
+        "订舱操作",
+        "login",
+        "POD"
+      ],
+      "question_summary": "Dear Sir, Noted yours and will inform all POL office to correct the POD/DEL accordingly. For your in...",
+      "answer_summary": "Dear Siraj, Kieran Ji / 季胤喆 System Engineer Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_2",
+      "path": "qa/qa_2.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作"
+      ],
+      "question_summary": "Hi Ezgi, I think it will be better if we inactive all customers code under GAC & Marti entities. Ric...",
+      "answer_summary": "Hi Ezgi, Not sure whether any customer code under Marti is still in use since AL...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_3",
+      "path": "qa/qa_3.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他",
+        "DEL"
+      ],
+      "question_summary": "Dear, Colleeh Zhou/周珂 Specialist AEM trade,CUL China",
+      "answer_summary": "Dear Randa, Joanne Ding / 丁佳莹 Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_4",
+      "path": "qa/qa_4.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他",
+        "DEL"
+      ],
+      "question_summary": "Dear, Colleeh Zhou/周珂 Specialist AEM trade,CUL China",
+      "answer_summary": "Dear Randa, Please do not input ratio 100% when you has inputted total 1 day. Tk...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_5",
+      "path": "qa/qa_5.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "BL",
+        "system"
+      ],
+      "question_summary": "Dear Kieran, Please check the BL code, which does not appear in Freight but exists in the actual inv...",
+      "answer_summary": "Dear Simon, Since these bookings are from 21/22, the vessel is already closed. P...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_6",
+      "path": "qa/qa_6.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "vessel",
+        "订舱操作",
+        "BL"
+      ],
+      "question_summary": "Dear Joanne, Please urgently assist for the issue below. Helen Zhang Customer Service 200 Cantonment...",
+      "answer_summary": "Dear Helen, Kieran Ji / 季胤喆 System Engineer Digital & IT Department Subject: RE:...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_7",
+      "path": "qa/qa_7.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "订舱操作",
+        "Allegro",
+        "BL"
+      ],
+      "question_summary": "Dear Cul allegro support teams Awaiting your support. Please do the needful to assist with the case ...",
+      "answer_summary": "Dear Habon, Kieran Ji / 季胤喆 System Engineer Digital & IT Department Subject: RE:...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_8",
+      "path": "qa/qa_8.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "订舱操作"
+      ],
+      "question_summary": "Dear Nick Zong Sorry for suddenly email request. Ms An limeng is our JP side Fin, in future JP side ...",
+      "answer_summary": "Dear Limeng, The MIS Invoice access is not user-specific but is managed at the i...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_9",
+      "path": "qa/qa_9.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "订舱操作"
+      ],
+      "question_summary": "Dear Danny, Daisy Xiang Operation Department CULines Shipping Agency Ltd. Shenzhen Branch As agent f...",
+      "answer_summary": "Dear Hany, Joanne Ding / 丁佳莹 Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_10",
+      "path": "qa/qa_10.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "Allegro",
+        "订舱操作"
+      ],
+      "question_summary": "Dear Allegro Support team, This is a friendly reminder. Your assistance will be highly appreciated. ...",
+      "answer_summary": "Dear Saori With the current DDS logic, once a booking is cancelled, it will be r...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_11",
+      "path": "qa/qa_11.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "订舱操作"
+      ],
+      "question_summary": "Dear Kieran san Thank you for your response. Could you advise us how to manually refresh the DDS cal...",
+      "answer_summary": "Dear Saoli, You can click the “Manual Calculation” button to refresh. Already do...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_12",
+      "path": "qa/qa_12.json",
+      "category": "数据修改",
+      "tags": [],
+      "question_keywords": [
+        "数据修改"
+      ],
+      "question_summary": "Dear Kieran san Thank you for your advise. Could you advise us how to update the free days from 0 to...",
+      "answer_summary": "Dear Saori, You can apply for a Booking Exception in that case. Kieran Ji / 季胤喆 ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_13",
+      "path": "qa/qa_13.json",
+      "category": "数据修改",
+      "tags": [],
+      "question_keywords": [
+        "数据修改"
+      ],
+      "question_summary": "Kieran san Coud you send us manual which explains how to update free days? Saori IWATA EQC/Operation...",
+      "answer_summary": "Dear Saori, Please see below for your reference. Kieran Ji / 季胤喆 System Engineer...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_14",
+      "path": "qa/qa_14.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "container",
+        "订舱操作",
+        "BL",
+        "Allegro"
+      ],
+      "question_summary": "Dear Keran sama Good day I noticed that CULVNGO2600108 has another container. On Allegro charge hand...",
+      "answer_summary": "Good day Amane, If this container is confirmed to belong to the booking, you can...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_15",
+      "path": "qa/qa_15.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "订舱操作",
+        "POD"
+      ],
+      "question_summary": "Dear Allegro Support Team, As per attached from Trade, please help set up POD agent for new POD: AEK...",
+      "answer_summary": "Dear Chris, All set. For previous bookings, you can manually refresh by clicking...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_16",
+      "path": "qa/qa_16.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "Allegro",
+        "route"
+      ],
+      "question_summary": "Hi, dear IT team @#CUL Allegro Support <mail Kindly REMINDER 감사합니다. JANET KIM Customer Service & Doc...",
+      "answer_summary": "Hi Janet, The service scope in the agreement is CRS, while in the booking freigh...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_17",
+      "path": "qa/qa_17.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "Allegro",
+        "route"
+      ],
+      "question_summary": "Hi, dear IT team @#CUL Allegro Support <mail Kindly REMINDER 감사합니다. JANET KIM Customer Service & Doc...",
+      "answer_summary": "Hi Janet, You can switch the service scope on the Freight & Surcharge screen as ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_18",
+      "path": "qa/qa_18.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "订舱操作"
+      ],
+      "question_summary": "Dear @#CUL Allegro Support <mail Please help to check and advise why below WRS tariff for 40RH canno...",
+      "answer_summary": "Dear Bob, Both highlighted lines meet the conditions, and No. 2 takes priority s...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_19",
+      "path": "qa/qa_19.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他",
+        "Allegro"
+      ],
+      "question_summary": "Dear Allegro team, CULVALI2600027 A2630515 Colleeh Zhou/周珂 Specialist AEM trade,CUL China 主题: YNT: F...",
+      "answer_summary": "Dear Ezgi, Please try to delete below setting in special note. Joanne Ding / 丁佳莹...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_20",
+      "path": "qa/qa_20.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他",
+        "Allegro"
+      ],
+      "question_summary": "Dear Allegro team, CULVALI2600016 Colleeh Zhou/周珂 Specialist AEM trade,CUL China 主题: YNT: FREIGHT AG...",
+      "answer_summary": "Dear Ezgi, Joanne Ding / 丁佳莹 Digital & IT Department 主题: 回复: FREIGHT AGREEMENT A...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_21",
+      "path": "qa/qa_21.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "container",
+        "订舱操作",
+        "BL"
+      ],
+      "question_summary": "Dear @Joanne Ding/CUL-CN/IT <mail Cc : CUL Support teams Good morning Noted below. Please note the 2...",
+      "answer_summary": "Dear Madina, Please try to change Occupy to 1 so that the container quantity wil...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_22",
+      "path": "qa/qa_22.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "订舱操作"
+      ],
+      "question_summary": "Dear Joanne, Kindly request your help for below: CULVJED2600332, before we choose SOC, but after che...",
+      "answer_summary": "Dear Colleeh/Irshad, Joanne Ding / 丁佳莹 Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_23",
+      "path": "qa/qa_23.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "订舱操作",
+        "BL"
+      ],
+      "question_summary": "Dear Dylan, Pls find as attached. Public Holiday :- 23-03-2026     Hari Raya Aidilfitri (replacement...",
+      "answer_summary": "Dear Dylan, Kieran Ji / 季胤喆 System Engineer Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_24",
+      "path": "qa/qa_24.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他",
+        "POD"
+      ],
+      "question_summary": "Dear all, Please use the correct POD Frankie Huang/ 黄梓轩 Operation Specialist Marine Operations Team ...",
+      "answer_summary": "Dear Challa, Please check following that the unit is wrong.Tks~ Joanne Ding / 丁佳...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_25",
+      "path": "qa/qa_25.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "system"
+      ],
+      "question_summary": "Dear Tahir, Please try this way to amend the system, attached for your reference. Louis Xia / 夏莹 Com...",
+      "answer_summary": "Dear Moham, After checking your case, I have to clarify following. 1. When you d...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_26",
+      "path": "qa/qa_26.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "system"
+      ],
+      "question_summary": "Dear Tahir, Please try this way to amend the system, attached for your reference. Louis Xia / 夏莹 Com...",
+      "answer_summary": "Dear Mohamed, As I explained before, please provide the route detail for marine ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_27",
+      "path": "qa/qa_27.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "container",
+        "Allegro",
+        "DEL",
+        "订舱操作"
+      ],
+      "question_summary": "Hi Kieran, Joanne, Please help to update for MTMER office as mentioned below. Thank you! //Quote All...",
+      "answer_summary": "Dear Izelle, ID: birkan PWD: Aa123456! Kieran Ji / 季胤喆 System Engineer Digital &...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_28",
+      "path": "qa/qa_28.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "订舱操作",
+        "system"
+      ],
+      "question_summary": "Dear Kieran, Auto-rating is not capturing new WRS updated in system on 5/3. Kindly assist to check a...",
+      "answer_summary": "Dear Siti, As shown in the screenshot , both highlighted lines meet the conditio...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_29",
+      "path": "qa/qa_29.json",
+      "category": "系统问题",
+      "tags": [],
+      "question_keywords": [
+        "route",
+        "系统问题",
+        "system"
+      ],
+      "question_summary": "Dear all, Please see attached mail, CNTAO local has disscussed this issue with 康姐, using EGALYT05-EG...",
+      "answer_summary": "Dear Finn, Since EGALYT05 and EGALYT02 is under same location EGALY, so impossib...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_30",
+      "path": "qa/qa_30.json",
+      "category": "系统问题",
+      "tags": [],
+      "question_keywords": [
+        "route",
+        "系统问题",
+        "system"
+      ],
+      "question_summary": "Dear all, Please see attached mail, CNTAO local has disscussed this issue with 康姐, using EGALYT05-EG...",
+      "answer_summary": "Dear Abdalah and Finn, We well noted your proposal. However, the location code a...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_31",
+      "path": "qa/qa_31.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "提单",
+        "提单操作"
+      ],
+      "question_summary": "Hi 小丁姐， 请问以下优化的功能预计几时上线？ Chris Xiao / 肖婷婷 Document Specialist Document Center 主题: 回复: Weekly Report,...",
+      "answer_summary": "Hi Chris, 附件为最后确认的开发说明书，供参考，如有问题请帮忙告知。多谢！ 预计完成时间如下： 测试系统：07-Feb 正式系统：15-Feb Joan...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_32",
+      "path": "qa/qa_32.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "提单",
+        "提单操作"
+      ],
+      "question_summary": "Hi 小丁姐， 请问以下优化的功能预计几时上线？ Chris Xiao / 肖婷婷 Document Specialist Document Center 主题: 回复: Weekly Report,...",
+      "answer_summary": "Hi Chris, 为了保证开发质量，更新上线时间如下，谢谢！ 预计完成时间： * UAT server: Friday, 06-March-2026 * PR...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_33",
+      "path": "qa/qa_33.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "提单",
+        "提单操作"
+      ],
+      "question_summary": "Hi 小丁姐， 请问以下优化的功能预计几时上线？ Chris Xiao / 肖婷婷 Document Specialist Document Center 主题: 回复: Weekly Report,...",
+      "answer_summary": "Hi Chris, 以下开发已经上线测试系统， 还请协助测试，如有问题，请帮忙于本周内告知。 如没有问题，将按计划于2026-Mar-14 (22:30 UTC...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_34",
+      "path": "qa/qa_34.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "DEL",
+        "提单",
+        "提单操作",
+        "Allegro",
+        "POD"
+      ],
+      "question_summary": "Dear 小丁姐 我们对POD/DEL 国家为Turkey的提单进行了测试，请见黄色部分测试结果： b. If POD or DEL belongs to Turkey country (Countr...",
+      "answer_summary": "Hi Chris, 收悉，已请裕秀帮忙调整，多谢！ Joanne Ding / 丁佳莹 Digital & IT Department 主题: 回复: Week...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_35",
+      "path": "qa/qa_35.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "订舱操作",
+        "BL"
+      ],
+      "question_summary": "Dear all, BL#CULVSHA2603420 主题单并单的时候系统卡顿，导致并了两次单，现在booking出现重复，SI无法上传，请帮忙解决，谢谢。 Cody Zeng / 曾家俊 Docu...",
+      "answer_summary": "Dear Cody, 已提交这个问题给供应商，后续将做优化避免改情况发生。对于本次重复booking的修复，由于直接通过数据库进行删除有一定风险，需要时间评估相...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_36",
+      "path": "qa/qa_36.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "订舱操作"
+      ],
+      "question_summary": "Colleeh Zhou/周珂 Specialist AEM trade,CUL China 主题: YNT: A26Q33833/FREIGHT AGREEMENT APPROVAL TRALI -...",
+      "answer_summary": "Dear Ezgi, Joanne Ding / 丁佳莹 Digital & IT Department 主题: 回复: A26Q33833/FREIGHT A...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_37",
+      "path": "qa/qa_37.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "订舱操作"
+      ],
+      "question_summary": "Colleeh Zhou/周珂 Specialist AEM trade,CUL China 主题: YNT: A26Q33833/FREIGHT AGREEMENT APPROVAL TRALI -...",
+      "answer_summary": "Dear Ezgi, Please note that if you only amend Free time exception or Notes in co...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_38",
+      "path": "qa/qa_38.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "订舱操作"
+      ],
+      "question_summary": "Dear Joanne, Please assist for the DDS Invoice is wrong for the calculation detail . Helen Zhang Cus...",
+      "answer_summary": "Dear Helen, Already working on it, will update you once done. Kieran Ji / 季胤喆 Sy...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_39",
+      "path": "qa/qa_39.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "error",
+        "订舱操作"
+      ],
+      "question_summary": "Dear Kieran/Joanne， Any update? Helen Zhang Customer Service 200 Cantonment Road #11-01 Southpoint, ...",
+      "answer_summary": "Dear Helen, These two are still under fix. Will update you once done. Kieran Ji ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_40",
+      "path": "qa/qa_40.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "BL",
+        "password"
+      ],
+      "question_summary": "Dear Kieran, Pls assist to grant user ID and password for BLW team to access: https://eserviceadm.cu...",
+      "answer_summary": "Dear Henny, Seems there is an existing account (ID: SAIID). Do you need me to re...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_41",
+      "path": "qa/qa_41.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "BL",
+        "提单操作"
+      ],
+      "question_summary": "Dear Kieran, Pls confirm my understanding: IDJKT office under SAIID : IDSUB office under SAISUB : my...",
+      "answer_summary": "Dear Henny, ID: SASUB PWD: qwer1234 Kieran Ji / 季胤喆 System Engineer Digital & IT...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_42",
+      "path": "qa/qa_42.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "BL",
+        "提单操作"
+      ],
+      "question_summary": "Dear Kieran, Pls create eserviceadm account for IDBLW as requested! currently BLW has only allegro a...",
+      "answer_summary": "Dear Henny, Based on the current setup, IDBLW is under SAIID’s control. Kieran J...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_43",
+      "path": "qa/qa_43.json",
+      "category": "权限申请",
+      "tags": [],
+      "question_keywords": [
+        "权限申请"
+      ],
+      "question_summary": "Dear Easton, MIchael, Pls find the updated user list Thank you Henny Cut Irnawati Traffic and Docume...",
+      "answer_summary": "Dear Henny, Could you please specify which additional permissions are required? ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_44",
+      "path": "qa/qa_44.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "booking",
+        "订舱操作",
+        "BL",
+        "VD"
+      ],
+      "question_summary": "Dear Indani, Bastian, Alfa, Mas Bela, Bu Leni, Fadila, Pls list down all the menu/module access for ...",
+      "answer_summary": "Dear Easton, The account has been updated according to the information provided....",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_45",
+      "path": "qa/qa_45.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "订舱操作",
+        "BL"
+      ],
+      "question_summary": "Dear Joanne, As per checking today, Still not yet enable for create customer code : Thank you, Indan...",
+      "answer_summary": "Dear Indani, Kieran Ji / 季胤喆 System Engineer Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_46",
+      "path": "qa/qa_46.json",
+      "category": "权限申请",
+      "tags": [],
+      "question_keywords": [
+        "权限申请",
+        "Allegro"
+      ],
+      "question_summary": "Dear Kieran & Joanne, I've confirmed with Michael. Please kindly assist in creating a new user ID fo...",
+      "answer_summary": "Forward to Agency Management Team. Please kindly confirm whether we need to crea...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_47",
+      "path": "qa/qa_47.json",
+      "category": "数据修改",
+      "tags": [],
+      "question_keywords": [
+        "数据修改"
+      ],
+      "question_summary": "Dear Raras & Indani any update ? Michael Zhao/赵怀方 Representative of Philippines & Indonesia China M:...",
+      "answer_summary": "Dear Indani, cc Henny, After checking, I find that the admin accounts that are c...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_48",
+      "path": "qa/qa_48.json",
+      "category": "数据修改",
+      "tags": [],
+      "question_keywords": [
+        "数据修改"
+      ],
+      "question_summary": "Dear Raras & Indani any update ? Michael Zhao/赵怀方 Representative of Philippines & Indonesia China M:...",
+      "answer_summary": "Dear Indani, izulfah irnawati Joanne Ding / 丁佳莹 Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_49",
+      "path": "qa/qa_49.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他"
+      ],
+      "question_summary": "Keep more IDs in the loop. Tonny Ni / 倪嘉安 Owner’s Representative CULINES SHIPPING LLC (WEST ASIA) 主题...",
+      "answer_summary": "Dear Tonny, According to the Booking, INNSA/INMUN ~ SAJED is under IMR service, ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_50",
+      "path": "qa/qa_50.json",
+      "category": "权限申请",
+      "tags": [],
+      "question_keywords": [
+        "container",
+        "权限申请"
+      ],
+      "question_summary": "Dear Joanne & Kieran, Confirmed with Nick, please urgently assist with the new User ID creation acco...",
+      "answer_summary": "Dear Ezgi, 1.\tHow to approve customer registrer : →Please refer to attched manua...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_51",
+      "path": "qa/qa_51.json",
+      "category": "系统问题",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "系统问题",
+        "system"
+      ],
+      "question_summary": "Dear Ezgi， This company has code TR342066 in the Allegro system before, you don't need create again....",
+      "answer_summary": "Dear Ezgi, The temporary solution is to select the pick-up CY manually. Joanne D...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_52",
+      "path": "qa/qa_52.json",
+      "category": "系统问题",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "系统问题",
+        "system"
+      ],
+      "question_summary": "Dear Ezgi， This company has code TR342066 in the Allegro system before, you don't need create again....",
+      "answer_summary": "Dear Ezgi, Joanne Ding / 丁佳莹 Digital & IT Department 主题: YNT: High Importance **...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_53",
+      "path": "qa/qa_53.json",
+      "category": "系统问题",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "系统问题",
+        "system"
+      ],
+      "question_summary": "Dear Ezgi， This company has code TR342066 in the Allegro system before, you don't need create again....",
+      "answer_summary": "Hi Ezgi, I've updated the setup. Please check and let us know if any. Thank you!...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_54",
+      "path": "qa/qa_54.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "订舱操作"
+      ],
+      "question_summary": "Dear Jamie &IT Team, Good day, Amber Hu / 胡思渺 Accounting and Settlement Center Finance Department CU...",
+      "answer_summary": "Hi Jamie, Created. Please check below. Joanne Ding / 丁佳莹 Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_55",
+      "path": "qa/qa_55.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "订舱操作"
+      ],
+      "question_summary": "Dear Joanne Allegro Support Any update? Please assist for the DDS invoice which is wrong. CULVPKG260...",
+      "answer_summary": "Dear Helen, Kieran Ji / 季胤喆 System Engineer Digital & IT Department Subject: DDS...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_56",
+      "path": "qa/qa_56.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "订舱操作"
+      ],
+      "question_summary": "Dear Kieran, Please check with the vendor, as the DB patch is wrong. Helen Zhang Customer Service 20...",
+      "answer_summary": "Dear Helen, We have submitted this to the vendor for a temporary fix. We will le...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_57",
+      "path": "qa/qa_57.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "Allegro"
+      ],
+      "question_summary": "Adding @#CUL Allegro Support <mail Dear Catherine sis, Please help to review this matter in FCA modu...",
+      "answer_summary": "Hi, Boris and Siti, The same error occurred when we tried to do the “confirm”, w...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_58",
+      "path": "qa/qa_58.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作"
+      ],
+      "question_summary": "Dear All, 烦请帮忙增加用户名：luciagong 下office权限： 新增：ULXGG 谢谢。 龚裕花/Lucia Gong 客服经理/Customer-Service Manager 深...",
+      "answer_summary": "Hi Lucia, ULTNJ已添加，XINGANG under在ULTNJ control Kieran Ji / 季胤喆 System Engineer D...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_59",
+      "path": "qa/qa_59.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他"
+      ],
+      "question_summary": "Dear Kieran, Please kindly assist in deactivating the three accounts highlighted in gray in the atta...",
+      "answer_summary": "Dear Easton, Joanne Ding / 丁佳莹 Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_60",
+      "path": "qa/qa_60.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "订舱操作"
+      ],
+      "question_summary": "To Allegro Support Please assist check the DDS invoice for this Vsl TSHK2605W, All are wrong Helen Z...",
+      "answer_summary": "Dear Helen 发自我的 iPhone ﻿ Dear Helen, As our vendor is on holiday from Feb 16th t...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_61",
+      "path": "qa/qa_61.json",
+      "category": "其他",
+      "tags": [],
+      "question_keywords": [
+        "其他"
+      ],
+      "question_summary": "Dear Easton, I tried sending an email to EMT@culines.com <mail Thank you. Raka Pandam Guritno Financ...",
+      "answer_summary": "Dear Raka, ID: rakaguritno PWDD: Aa123456! Kieran Ji / 季胤喆 System Engineer Digit...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_62",
+      "path": "qa/qa_62.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "error",
+        "container",
+        "BL",
+        "提单操作"
+      ],
+      "question_summary": "Dear Kieran, Below issue is yet to be fixed, please check and do the needful. “Q” For below containe...",
+      "answer_summary": "Dear Anil, All set now, please try again. Kieran Ji / 季胤喆 System Engineer Digita...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_63",
+      "path": "qa/qa_63.json",
+      "category": "订舱操作",
+      "tags": [],
+      "question_keywords": [
+        "DEL",
+        "container",
+        "订舱操作",
+        "BL",
+        "Allegro"
+      ],
+      "question_summary": "To Allegro support Please inform that how to check the DA No use the container No. or BL no. Why we ...",
+      "answer_summary": "Hi Helen, Due to system limitation, bookings created using “Temp”  contract cann...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_64",
+      "path": "qa/qa_64.json",
+      "category": "费用相关",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "费用相关"
+      ],
+      "question_summary": "Dear Allegro team, Colleeh Zhou/周珂 Research & Analysis Specialist China Analysis Team,CUL China 主题: ...",
+      "answer_summary": "Dear Colleeh, Joanne Ding / 丁佳莹 Digital & IT Department",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_65",
+      "path": "qa/qa_65.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "BL",
+        "提单操作",
+        "system"
+      ],
+      "question_summary": "Dear @Catherine Kang/CUL-CN/IT <mail Copy @Claudia Goh/CUL-SG/LH Trade <mail We have got confirmed i...",
+      "answer_summary": "Invite EQC team to comment, Target Container: DFSU2687754, located at DJJIBT01 A...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_66",
+      "path": "qa/qa_66.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "BL",
+        "提单操作",
+        "system"
+      ],
+      "question_summary": "Dear @Catherine Kang/CUL-CN/IT <mail Copy @Claudia Goh/CUL-SG/LH Trade <mail We have got confirmed i...",
+      "answer_summary": "Dear Claudia and Sean, Now the container DFSU2687754 is registered at CNSHKT07 i...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_67",
+      "path": "qa/qa_67.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "BL",
+        "提单操作",
+        "system"
+      ],
+      "question_summary": "Dear @Catherine Kang/CUL-CN/IT <mail Copy @Claudia Goh/CUL-SG/LH Trade <mail We have got confirmed i...",
+      "answer_summary": "Dear Claudia, Catherine KANG/康秀英 Business Analysis Manager Digital & IT Departme...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_68",
+      "path": "qa/qa_68.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "BL",
+        "提单操作"
+      ],
+      "question_summary": "Dear Culines team, any update ? On 21/01/2026 16:48, Hendra Kurniawan wrote: Dear CULINES Team, Pls ...",
+      "answer_summary": "﻿Dear Hendra 发自我的 iPhone ﻿ Dear Culines team, any update ? On 21/01/2026 16:48, ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_69",
+      "path": "qa/qa_69.json",
+      "category": "提单操作",
+      "tags": [],
+      "question_keywords": [
+        "Allegro",
+        "BL",
+        "提单操作",
+        "system"
+      ],
+      "question_summary": "Dear IT Team， Due to business requirements, bank accounts are required for clearing operations in th...",
+      "answer_summary": "Dear Limeng, Received. We will create it in the system once confirmed. Dear FIN,...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_70",
+      "path": "qa/qa_70.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "BL"
+      ],
+      "question_summary": "Dear Kieran, Good day, Unfortunately, I am unable to amend the customer code in the BL details. When...",
+      "answer_summary": "Dear Marah, For the MIV invoice, you just need to update the Actual Customer in ...",
+      "confidence": 0.85,
+      "is_verified": false
+    },
+    {
+      "id": "qa_71",
+      "path": "qa/qa_71.json",
+      "category": "报关操作",
+      "tags": [],
+      "question_keywords": [
+        "报关操作",
+        "Allegro"
+      ],
+      "question_summary": "Adding @Joanne Ding/CUL-CN/IT <mail Marah Al Fawaier/Ms Senior Customer Service Executive Sharaf Shi...",
+      "answer_summary": "Dear Marah, Due to restrictions in the MIV Invoice module, the bill-to customer ...",
+      "confidence": 0.85,
+      "is_verified": false
+    }
+  ]
+}

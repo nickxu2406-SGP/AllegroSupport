@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_68_q",
+  "conversationId": "thread_qa_68",
+  "internetMessageId": "<migrated-qa_68-q@allegro-support>",
+  "subject": "hendra.kurniawan@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Hendra Kurniawan",
+      "address": "hendra.kurniawan@samudera.id"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-01-22T18:24:00Z",
+  "sentDateTime": "2026-01-22T18:24:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Culines team,\r\n\r\nany update ?\r\n\r\n\r\n\r\nOn 21/01/2026 16:48, Hendra Kurniawan wrote:\r\n\r\n\r\n\tDear CULINES Team,\r\n\t\r\n\tPls advise we can't open BL Preview and Print on our menu allegro\r\n\t\r\n\t \r\n\r\n\t\r\n\t\r\n\t\r\n\t-- \r\n\t\r\n <https://apps.samudera.id/apps/apps.nsf/red-vline.png> \r\n\r\n   \r\n\r\nBest Regards, \r\n\r\nHendra Kurniawan\r\n\r\nImport Dept – Traffic - Logistics\r\n\r\nPT. Samudera Agencies Indonesia\r\nSamudera Indonesia Building 2nd Floor\r\nJl. Perak Timur 400, Surabaya 60165 Indonesia\r\n         \r\n\r\ne: hendra.kurniawan@samudera.id <mail\n\r\n <https://apps.samudera.id/apps/apps.nsf/logo-connecting-indonesia.png> \r\n\r\n\r\n <http://www.samudera.id/> \r\n\r\n\r\n <http://www.facebook.com/SamuderaID>   <http://www.twitter.com/@samudera_ind>    <http://www.instagram.com/samudera.id>"
+  },
+  "hasAttachments": false,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_68",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

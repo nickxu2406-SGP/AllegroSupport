@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_68",
+  "subject": "Can't open Allegro BL Preview and Print",
+  "emails": [
+    {
+      "$ref": "../emails/2026/01/migrated_qa_68_q.json"
+    },
+    {
+      "$ref": "../emails/2026/01/migrated_qa_68_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Hendra Kurniawan",
+      "email": "hendra.kurniawan@samudera.id",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_68@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-01-22T18:24:00Z",
+  "last_email_at": "2026-01-22T20:04:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_68",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

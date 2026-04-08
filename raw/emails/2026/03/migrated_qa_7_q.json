@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_7_q",
+  "conversationId": "thread_qa_7",
+  "internetMessageId": "<migrated-qa_7-q@allegro-support>",
+  "subject": "habon@dssdjibouti.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Habon Abdi - DJSS",
+      "address": "habon@dssdjibouti.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-30T14:42:00Z",
+  "sentDateTime": "2026-03-30T14:42:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Cul allegro support teams\r\n\r\n \r\n\r\nAwaiting your support. Please do the needful to assist with the case below. The agreement did not accept  generating the booking. Kindly check what is wrong, as it is reflecting the following message.\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nThank you.\r\n\r\n \r\n\r\nHabon Ali Abdi\r\nExport documentation\r\n\r\nDjibouti Shipping Services SARL\r\n(as Agents only)\r\nRepublic of Djibouti   \r\n4th. Floor, Salaam Tower, Opposite of Nougaprix Hypermarket \r\nTel: +253 21 35 46 40 /Mobile No : +253 77 64 99 93  \r\nEmail:  habon@dssdjibouti.com <mail\n\r\nwebsite: www.sharafshipping.com <http://www.sharafshipping.com/>  \r\n\r\nMiddle East    Africa   Indian SubContinent\r\n\r\n \r\n\r\nDe : Madina Mohamed Ali - DJSS <Madina@dssdjibouti.com> \r\nEnvoyé : dimanche 29 mars 2026 6:16 PM\r\nÀ"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_7",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

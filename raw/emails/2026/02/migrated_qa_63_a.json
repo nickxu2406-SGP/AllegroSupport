@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_63_a",
+  "conversationId": "thread_qa_63",
+  "internetMessageId": "<migrated-qa_63-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_63@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Helen Zhang/CUS-SG/SGAgency",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-05T15:07:00Z",
+  "sentDateTime": "2026-02-05T15:07:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Helen,\r\n\r\nDue to system limitation, bookings created using “Temp”  contract cannot apply for DA. Please request the DDS Team to directly amend or remove the generated charges.\r\n\r\nAdd DDS\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Thursday, February 5, 2026 at 14:24\r\n\nSubject: FW: Cancel Shipment DDS / Tax Invoice // TEMU7088508 40FT CULVJED2501802\r\n\r\n\r\n\r\n \r\n\r\nTo Allegro support \r\n\r\n \r\n\r\nPlease inform that how to check the DA No use the container No. or B"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_63",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

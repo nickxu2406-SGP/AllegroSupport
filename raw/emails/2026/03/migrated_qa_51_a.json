@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_51_a",
+  "conversationId": "thread_qa_51",
+  "internetMessageId": "<migrated-qa_51-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_51@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Suki Xie/CUL-NAS/DOC",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b347641f4a4b4125bbf4ae936c6c81d8-1f960133-e2"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-05T19:00:00Z",
+  "sentDateTime": "2026-03-05T19:00:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Ezgi,\r\n\r\nThe temporary solution is to select the pick-up CY manually.\r\nBesides, please advise which EQ Return Facility and Empty Pick-up Facility is the default one. Thanks!\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月5日 18:30\r\n收件人: Dylan Dong/CUL-CN/Agency Mgt <dylandong@culines.com>; MARTI Mersin - Uğur KANKANAT <ugur.kankanat@marticontainer.com.tr>; Ebru SABUNCUOĞLU <ebru@martiz.com>; Vefiye TÜRKANTOS <vefiye@martiz.com>; Marketing <marketing@martiz.com>; trsales <trsales@uglines.com>; #CUL Allegro Support <allegrosupport@culines.com>"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_51",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

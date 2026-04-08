@@ -1,0 +1,65 @@
+{
+  "id": "qa_66",
+  "version": 1,
+  "question": {
+    "text": "Dear @Catherine Kang/CUL-CN/IT <mail\n\r\n \r\n\r\nCopy @Claudia Goh/CUL-SG/LH Trade <mail\n\r\n \r\n\r\nWe have got confirmed instruction from Ricky about this issue. Ricky sir has agreed to adjust this manually in our system. \r\n\r\nPlease following up the adjustment directly, please add DFSU2687754 to the original BL directly, follow the practice of PIL.\r\n\r\nThank you.\r\n\r\nSean Wang / 王晓旭\r\n\r\nRepresentative\r\n\r\nCULINES SHIPPING LLC (WEST ASIA)\r\n\r\nMOB: +971-50-696-5918\r\n\r\nEmail: seanwang@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n发件人: Sean Wang/CUL-CN/Agency Mgt <seanwang@culin",
+    "original_email_id": "migrated_qa_66_q",
+    "sender_name": "Sean Wang/CUL-CN/Agency Mgt",
+    "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=e71bc5e539ea4e8c97154cc9aa834db9-eb7963be-09",
+    "sent_at": "2026-01-27T16:25:00Z",
+    "summary": "Dear @Catherine Kang/CUL-CN/IT <mail Copy @Claudia Goh/CUL-SG/LH Trade <mail We have got confirmed i...",
+    "keywords": [
+      "BL",
+      "提单操作",
+      "system"
+    ]
+  },
+  "answer": {
+    "text": "Thanks for EQC Team’s support.\r\n\r\n \r\n\r\nDear Claudia and Sean,\r\n\r\n \r\n\r\nNow the container DFSU2687754 is registered at CNSHKT07 in system, please kindly attach it to the booking CULVSHK2603329 and perform the Freight & Surcharge calculations and all necessary processing as well.\r\n\r\n \r\n\r\nIf you have any further questions, please feel free to contact us.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年1月28日 11:35\r\n收件人: Catherine Kang/CUL-CN/IT <catherinekang@culines.com>; Sean Wang/CUL-CN/Agency Mgt <seanwang@culines.com>; Claudia Goh/CUL-SG/LH Tra",
+    "original_email_id": "migrated_qa_66_a",
+    "responder_name": "Catherine Kang/CUL-CN/IT",
+    "responder_email": "responder_qa_66@culines.com",
+    "sent_at": "2026-01-28T14:26:00Z",
+    "summary": "Dear Claudia and Sean, Now the container DFSU2687754 is registered at CNSHKT07 i...",
+    "keywords": [
+      "booking",
+      "container",
+      "提单操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_66",
+    "path": "../raw/threads/thread_qa_66.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "提单操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "回复: =Urgent=: HOD misdeclaration - Reexport  CULVSHK2528832//2x40 (TLCU5928572 and CULU6336391) + 1x20 (DFSU 2687754)"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

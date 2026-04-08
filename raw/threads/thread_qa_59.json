@@ -1,0 +1,29 @@
+{
+  "conversation_id": "thread_qa_59",
+  "subject": "回复: Onboarding & Training - Sharaf Kenya - Mombasa Agency - UPDATED CONTACT LIST",
+  "emails": [
+    {
+      "$ref": "../emails/2026/02/migrated_qa_59_q.json"
+    },
+    {
+      "$ref": "../emails/2026/02/migrated_qa_59_a.json"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Easton SI/CUL-CN/Agency Mgt",
+      "email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=2941a0d8f0044ffcbf9b967db25ca835-1d249638-2f",
+      "role": "external"
+    },
+    {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "email": "responder_qa_59@culines.com",
+      "role": "support"
+    }
+  ],
+  "first_email_at": "2026-02-25T09:51:00Z",
+  "last_email_at": "2026-02-25T10:07:00Z",
+  "email_count": 2,
+  "_migrated_from_qa_id": "qa_59",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

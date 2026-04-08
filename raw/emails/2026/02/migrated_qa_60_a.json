@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_60_a",
+  "conversationId": "thread_qa_60",
+  "internetMessageId": "<migrated-qa_60-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_60@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Helen Zhang/CUS-SG/SGAgency",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=a954879a774949dea88cc59b3fa62ebb-ac2cf55a-0b"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-23T20:48:00Z",
+  "sentDateTime": "2026-02-23T20:48:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Helen\r\n\r\n\r\nThe DB patch was done. Please help to re-check the invoice.Thanks.\r\n\r\n\r\n发自我的 iPhone\r\n\r\n\r\n\t在 2026年2月20日，20:58，Joanne Ding/CUL-CN/IT <joanneding@culines.com> 写道：\r\n\t\r\n\t\r\n\r\n\t﻿ \r\n\tDear Helen,\r\n\r\n\tAs our vendor is on holiday from Feb 16th to Feb 22nd, I've asked them to fix it once they resume work on Feb 23th. We will let you know once fixed. Tks~\r\n\r\n\r\n\tJoanne Ding / 丁佳莹\r\n\r\n\tDigital & IT Department\r\n\r\n\tMobile: +86-13417033072\r\n\r\n\tE-mail: joanneding@culines.com <mail\n\r\n\tWeb: www.culines.com <http://www.culines.com> \r\n\r\n\t\r\n\t<Outlook-徽标 描述已自动生.png>\r\n\r\n\r\n\r\n\r\n\t\n\t发送时间: 2026年2月20日 14:34\r\n\t收件人: Joanne Ding/CUL-CN/IT <joanneding@culines.com>; #CUL Allegro Support <allegro"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_60",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

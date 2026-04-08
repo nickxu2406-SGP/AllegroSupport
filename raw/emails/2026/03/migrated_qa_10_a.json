@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_10_a",
+  "conversationId": "thread_qa_10",
+  "internetMessageId": "<migrated-qa_10-a@allegro-support>",
+  "subject": "Re: cul.docs.jp@benline.com",
+  "sender": {
+    "emailAddress": {
+      "name": "Kieran Ji/CUL-CN/IT",
+      "address": "responder_qa_10@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "BLA Japan - CUL Docs",
+        "address": "cul.docs.jp@benline.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-18T12:10:00Z",
+  "sentDateTime": "2026-03-18T12:10:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Saori\r\n\r\nWith the current DDS logic, once a booking is cancelled, it will be removed from the batch calculation list.\r\nSo for these bookings, the solution is to temporarily restore the booking after MT is generated, manually refresh the DDS calculation, and then cancel it again once the calculation is completed.\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Wednesday, March 18, 2026 at 08:26\r\n\nCc: Document Center1"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_10",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

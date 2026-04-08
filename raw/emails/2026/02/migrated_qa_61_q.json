@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_61_q",
+  "conversationId": "thread_qa_61",
+  "internetMessageId": "<migrated-qa_61-q@allegro-support>",
+  "subject": "raka.guritno@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Raka Pandam Guritno",
+      "address": "raka.guritno@samudera.id"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-02-13T16:25:00Z",
+  "sentDateTime": "2026-02-13T16:25:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Easton,\r\n\r\nI tried sending an email to EMT@culines.com <mail\n\r\nThank you.\r\n\r\n\r\n\t  \tRaka Pandam Guritno\t\r\nFinance and Administration Dept Head\r\nGeneral Agency Division\t\r\n\r\nPT Samudera Agencies Indonesia\r\nSamudera Indonesia Building 3rd Floor\r\nJl. Letjen S. Parman Kav. 35, Jakarta Barat 11480, Indonesia\r\n      \r\ne: raka.guritno@samudera.id <mail\n\r\n\r\n <https://quickchart.io/chart?cht=qr&chs=100x100&chld=L&choe=UTF-8&chl=BEGIN%3AVCARD%0AVERSION%3A2.1%0AN%3ARaka+Pandam+Guritno%0AORG%3APT+Samudera+Agencies+Indonesia%0ATITLE%3AFinance+and+Administration+Dept+Head+-+General+Agency+Division%0ATEL%3Bw"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_61",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

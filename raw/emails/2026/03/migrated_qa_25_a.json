@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_25_a",
+  "conversationId": "thread_qa_25",
+  "internetMessageId": "<migrated-qa_25-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_25@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Louis Xia/CUL-CN/CS",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=55178a122f5b4406b98762138d0385e4-6079d75e-fa"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-12T18:50:00Z",
+  "sentDateTime": "2026-03-12T18:50:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Moham,\r\n\r\n\r\nAfter checking your case, I have to clarify following.\r\n\r\n\r\n1.\t\r\n\tWhen you delete OFT/Surcharge via FCA, please delete the row directly. Please do not change the amount to be '0'. Otherwise, Trade will be unable to approve/reject it.\r\n\r\n\r\n\r\n\r\n\r\n\r\n2.\t\r\n\tIn case you fail to proceed,  please ask to trade to unlock the booking.\r\n\r\n\r\n\r\n\r\n       3. In case the VVD must be unlock also, please ask Trade to unlock the booking and you have to amend the freight detial within 2 hours after Marine team unlock the VVD.\r\n \r\nIn summary, please coordinate with Marine team and Trade within two hours and complete the amendment.Thanks!\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.cul"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_25",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

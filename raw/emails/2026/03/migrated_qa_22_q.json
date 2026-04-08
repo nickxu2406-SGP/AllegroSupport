@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_22_q",
+  "conversationId": "thread_qa_22",
+  "internetMessageId": "<migrated-qa_22-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38",
+  "sender": {
+    "emailAddress": {
+      "name": "Colleeh Zhou/CUL-CN/AEM Trade",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fa497d54dc5b4e4ba3711c72721600b5-fef7ca5c-38"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-18T16:17:00Z",
+  "sentDateTime": "2026-03-18T16:17:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Joanne,\r\n    Kindly request your help for below:\r\n    CULVJED2600332, before we choose SOC, but after checking, the booking should be COC, how should we do to change the bookings to COC? \r\n\r\n\r\n\r\nColleeh Zhou/周珂\r\n\r\nSpecialist\r\n\r\nAEM trade,CUL China \r\n\r\nTel: 021-6858 2021\r\n\r\nE-mail: Colleehzhou@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\t\r\n\t\t \r\n \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n收件人: Colleeh Zhou/CUL-CN/AEM Trade <colleehzhou@culines.com>; Lucy.Yan (STRD) <cus@strd-logistics.com.cn>; Tonny Ni/CUL-UAE <tonnyni@culines.com>; sales.cul <sales.cul@ssajeddah.com>; Syed Faiz - SSA JED <cul.tshp1@ssajeddah.com>; MGT.CUL - SSA JED <mgt.cul@s"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_22",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

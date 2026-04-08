@@ -1,0 +1,62 @@
+{
+  "id": "qa_23",
+  "version": 1,
+  "question": {
+    "text": "Dear Dylan,\r\n\r\n \r\n\r\nPls find as attached. \r\n\r\n \r\n\r\nPublic Holiday :- \r\n\r\n23-03-2026     Hari Raya Aidilfitri (replacement)\r\n\r\n01-05-2026     Labour Day \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nPei Yee 佩儀\r\n\r\n \r\n\r\nOffice: +6(03)33589799 / 0589\r\n\r\nMobile: +60(12)6865885\r\n\r\nE-mail: peiyee.chong@sjclemenger.com <mail\n\r\n \r\n\r\n\nCc: shellysong <shellysong@st-pacific.sg>; shipping@my.suijun.com; karloschen <karloschen@st-pacific.sg>; Allan Ng/CUL-SG <allanng@culines.com>; Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>; Easton SI/CUL-CN/Agency Mgt <eastons",
+    "original_email_id": "migrated_qa_23_q",
+    "sender_name": "Pei Yee",
+    "sender_email": "peiyee.chong@sjclemenger.com",
+    "sent_at": "2026-03-05T13:17:00Z",
+    "summary": "Dear Dylan, Pls find as attached. Public Holiday :- 23-03-2026     Hari Raya Aidilfitri (replacement...",
+    "keywords": [
+      "订舱操作",
+      "BL"
+    ]
+  },
+  "answer": {
+    "text": "Dear Dylan,\r\n\r\nAll set, account details are inlined below. Please check, thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\nDate: Tuesday, March 17, 2026 at 11:56\r\n\nCc: Yap Choon Siong/CUL-SG/FIN <choonsiongy@culines.com>, Rita Qu/CUL-CN/FIN <ritaqu@culines.com>, #CUL FIN Agency <agencyfinance@culines.com>, Allan Ng/CUL-SG <allanng@culines.com>, Julia Zhu/CUL-CN/Agency Mgt <juliazhu@culines.com>, Izelle Tan/CUL-SG/Agenc",
+    "original_email_id": "migrated_qa_23_a",
+    "responder_name": "Kieran Ji/CUL-CN/IT",
+    "responder_email": "responder_qa_23@culines.com",
+    "sent_at": "2026-03-18T15:16:00Z",
+    "summary": "Dear Dylan, Kieran Ji / 季胤喆 System Engineer Digital & IT Department",
+    "keywords": [
+      "订舱操作",
+      "system"
+    ]
+  },
+  "thread": {
+    "id": "thread_qa_23",
+    "path": "../raw/threads/thread_qa_23.json",
+    "note": "原始线程记录（迁移数据，邮件内容见 question.original_email_id）"
+  },
+  "classification": {
+    "category": "订舱操作",
+    "subcategory": "",
+    "related_system": "Allegro",
+    "related_module": "",
+    "tags": []
+  },
+  "quality": {
+    "confidence_score": 0.85,
+    "is_verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "helpful_count": 0,
+    "escalation_count": 0
+  },
+  "source": {
+    "extracted_from": "qa_pairs.json (flat)",
+    "extracted_at": "2026-04-07T11:52:48Z",
+    "extracted_by": "migrate_to_binary.py v1.0",
+    "original_subject": "REQUEST CU LINES ACCOUNT & PASSWORD"
+  },
+  "history": [
+    {
+      "action": "migrate",
+      "at": "2026-04-07T11:52:48Z",
+      "by": "migrate_to_binary.py",
+      "note": "从 flat qa_pairs.json 迁移到二元分离结构"
+    }
+  ]
+}

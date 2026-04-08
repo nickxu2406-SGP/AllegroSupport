@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_44_q",
+  "conversationId": "thread_qa_44",
+  "internetMessageId": "<migrated-qa_44-q@allegro-support>",
+  "subject": "henny.irnawati@samudera.id",
+  "sender": {
+    "emailAddress": {
+      "name": "Henny Cut Irnawati",
+      "address": "henny.irnawati@samudera.id"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-03T11:07:00Z",
+  "sentDateTime": "2026-03-03T11:07:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear Indani, Bastian, Alfa, Mas Bela, Bu Leni, Fadila,\r\n\r\nPls list down all the menu/module access for daily operation as well as availability status in your user account, in order BLW and SUB able to check if their account also already has complete access for daily ops.\r\nThanks\r\n\r\nexample template asf:\r\n\r\nno\t user name\t Role\t menu/module required for daily operation\t function\t availability status (Y/N)\t remark\t \r\n1\t Indani\t CS\t  \t Customer approval in vservice adm\t N\t pls add on/open access module for customer approval in vservice adm\t \r\n \t  \t  \t  \t  \t  \t  \t \r\n2\t Malip\t Sales\t booking unlock etc\t  \t  N\t  \t \r\n3\t Leni\t Sales\t  \t  \t  \t  \t \r\n \t  \t  \t  \t  \t  \t  \t \r\n3\t Ybastian\t Export Document\t  \t  \t  \t  \t \r\n4\t Ybastian\t Inventory\t  \t Update movement VD, ID, OC, VL\t  Y\t  \t \r\n \t  \t  \t  \t Unlock"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_44",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

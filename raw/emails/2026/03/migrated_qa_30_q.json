@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_30_q",
+  "conversationId": "thread_qa_30",
+  "internetMessageId": "<migrated-qa_30-q@allegro-support>",
+  "subject": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+  "sender": {
+    "emailAddress": {
+      "name": "Frankie Huang/CUL-CN/OP",
+      "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Allegro Support",
+        "address": "allegrosupport@culines.com"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-10T09:42:00Z",
+  "sentDateTime": "2026-03-10T09:42:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Dear all,\r\n\r\n \r\n\r\nPlease see attached mail, CNTAO local has disscussed this issue with 康姐, using EGALYT05-EGALYT02 under ocean route is not logical in system\r\n\r\n \r\n\r\nThanks & Best Regards!\r\n\r\n \r\n\r\nFrankie Huang/ 黄梓轩\r\n\r\nOperation Specialist\r\n\r\nMarine Operations Team\r\n\r\nTel: +86-21-6595-6010\r\n\r\nMobile: +86-133-0174-6376\r\n\r\nE-mail: frankiehuang@culines.com <mail\n\r\nGroup E-mail: marine@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nChina United Lines Ltd.\r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月9日 19:23\r\n\n抄送: Ahmed Moustafa <ahmed.moust"
+  },
+  "hasAttachments": true,
+  "importance": "high",
+  "_migrated_from_qa_id": "qa_30",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}

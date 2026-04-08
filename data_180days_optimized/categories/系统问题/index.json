@@ -1,0 +1,172 @@
+{
+  "category": "系统问题",
+  "count": 7,
+  "qa_pairs": [
+    {
+      "id": "qa_29",
+      "subject": "回复: UPDATE ROUTE FROM EGALYT05 TO EGALYT02 FOR BZ CHONGFU 2602 ISSUE",
+      "question": {
+        "text": "Dear all,\r\n\r\n \r\n\r\nPlease see attached mail, CNTAO local has disscussed this issue with 康姐, using EGALYT05-EGALYT02 under ocean route is not logical in system\r\n\r\n \r\n\r\nThanks & Best Regards!\r\n\r\n \r\n\r\nFrankie Huang/ 黄梓轩\r\n\r\nOperation Specialist\r\n\r\nMarine Operations Team\r\n\r\nTel: +86-21-6595-6010\r\n\r\nMobile: +86-133-0174-6376\r\n\r\nE-mail: frankiehuang@culines.com <mail\n\r\nGroup E-mail: marine@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\nChina United Lines Ltd.\r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月9日 19:23\r\n\n抄送: Ahmed Moustafa <ahmed.moust",
+        "sender": "Frankie Huang/CUL-CN/OP",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8b40e526a0974f2bacb8d431c529c50b-cff470d2-39",
+        "time": "03-10 09:42"
+      },
+      "answer": {
+        "text": "Dear Finn,\r\n\r\n \r\n\r\nSince EGALYT05 and EGALYT02 is under same location EGALY, so impossible to create an ocean(trunk or feeder) link between 2 them.\r\n\r\nIf the Delivery Term of the bookings can change to CY, then we can create a inland link of EGALYT05-EGALYT02 (similar as carrier’s haulage route) , if it must be Free Out term at EGALY, then the route only can be POL=CNTAOT02 ~POD=EGALYT05.  As for the movements, Terminal T/S costs and feeder charge if any, it has to be settled manually.\r\n\r\nThanks & Best Regards!\r\n\r\nCatherine KANG/康秀英\r\nBusiness Analysis Manager\r\nDigital & IT Department\r\nE-mail: catherinekang@culines.com <mail\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n\n发送时间: 2026年3月10日 20:00\r\n收件人: Fr",
+        "responder": "Catherine Kang/CUL-CN/IT",
+        "time": "03-11 18:14"
+      },
+      "metadata": {
+        "has_attachment": true,
+        "importance": 1
+      },
+      "category": "系统问题",
+      "verified": true,
+      "verified_date": "2026-04-07"
+    },
+    {
+      "id": "qa_31",
+      "subject": "System Incident Notification: Allegro Upgrade Issue",
+      "question": {
+        "text": "Dear Colleagues,\r\n\r\n \r\n\r\nWe would like to inform you that a technical issue occurred during today’s scheduled midday upgrade of the Allegro system.\r\n\r\n \r\n\r\nOur technical team is actively working to resolve the issue. The system will be restarted at 4:00 PM (GMT +8) today and is expected to be fully restored within approximately 30 minutes after the restart. We will keep you updated once any progress.\r\n\r\n \r\n\r\nWe sincerely apologize for any inconvenience this may cause and appreciate your patience and cooperation.\r\n\r\n \r\n\r\nShould you have any questions or require further assistance, please do not hesitate to contact us.\r\n\r\n \r\n\r\nKind regards,\r\n\r\n \r\n\r\nDigital & IT Department\r\n\r\n \r\n",
+        "sender": "Jason Yao/CUL-CN/IT",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=b0cedf988a8f4ffb9cfedbb231d6c7b1-b92760be-b7",
+        "time": "16:14"
+      },
+      "answer": {
+        "text": "Dear Smitha,\r\n\r\nPlease check following contract that there is no OFT rate for 40RH under SAJED-YEADE. Thanks!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Smitha Vipin/CUL-West Asia <Smithavipin@culines.com>\r\n发送时间: 2026年2月3日 16:13\r\n收件人: Docs.cul – SSA JED <docs.cul@ssajeddah.com>; BESSY PATHROSE/CUL-West Asia <BESSY@culines.com>; Ayaz - SSA JED <cs11@ssajeddah.com>; Siti Aisha/CUS-SG/LH Trade <sitiaisha@culines.com>; Finn Fei/CUL-UAE <finnfei@culines.com>; Ahmed Magdi - National Shipping <magdi@nationaldubai.ae>; Senal - National Shipping <senal@nationaldubai.ae>; Malik Rehan - SS",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "17:10"
+      },
+      "date": "02-03",
+      "category": "系统问题",
+      "quality_score": 7,
+      "matched_keywords": 2,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_44",
+      "subject": "回复: Regarding ALLEGRO ID&PW - TR SALES TEAM",
+      "question": {
+        "text": "Hi Kieran,\r\npls assist and thanks\r\n\r\n\r\nThanks & Best Regards\r\n\r\n \r\n\r\nRicky Qin / 秦 琪\r\n\r\nDigital Project Manager\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-138-1732-7221\r\n\r\nE-mail: rickyqin@culines.com <mailto:rickyqin@culines.com> \r\n\r\nWeb: www.culines.com <https://url.emailprotection.link/?bTarGOjpqKBdnAhGSLJN9zjtDgKh3sdobaBVGqXokp-cIm_BxjKmCeSAmpcaZ9f4dULeUT5TBYjmVMhJWsct9aQ~~> \r\n\r\n\r\n\r\n \r\n\r\n________________________________\r\n\r\n发件人: serkanerdogan <serkanerdogan@uglines.com>\r\n发送时间: 2026年2月6日 15:57\r\n收件人: Ricky Qin/CUL-CN/IT <rickyqin@culines.com>\r\n抄送: trsales <trsales@uglines.com>\r\n主题: Regarding ALLEGRO ID&PW - TR SALES TEAM \r\n \r\n\r\nDear Ricky  ; \r\n\r\n \r\n\r\nWe cannot log in because our Allegro passwords have expired. We cannot set a new password. Could you please support us regarding this issue ?",
+        "sender": "Ricky Qin/CUL-CN/IT",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=18069f7ab7174141b4cce4c1b6ac5e1f-e6cf7631-06",
+        "time": "16:09"
+      },
+      "answer": {
+        "text": "Hi Serkan,\r\n\r\nAll passwords have been reset:  Aa123456!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mailto:kieranji@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: Ricky Qin/CUL-CN/IT <rickyqin@culines.com>\r\nDate: Friday, February 6, 2026 at 16:09\r\nTo: #CUL Allegro Support <allegrosupport@culines.com>\r\nCc: trsales <trsales@uglines.com>, serkanerdogan <serkanerdogan@uglines.com>\r\nSubject: 回复: Regarding ALLEGRO ID&PW - TR SALES TEAM\r\n\r\n\r\nHi Kieran,\r\npls assist and thanks\r\n\r\n\r\nThanks & Best Regards\r\n\r\n \r\n\r\nRicky Qin / 秦 琪\r\n\r\nDigital Project Manager\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-138-1732-7221\r\n\r\nE-mail: rickyqin@culines.com ",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8fbb7a6a2da84db4b4b0ad5d4c8ba154-36114fa9-1b",
+        "time": "17:02"
+      },
+      "date": "02-06",
+      "category": "系统问题",
+      "quality_score": 6,
+      "matched_keywords": 3,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_139",
+      "subject": "RE: AMR re-status to Un-Sent  // WLAM2608N",
+      "question": {
+        "text": "Dear Ricky,\r\n\r\n \r\n\r\nNoted with many thanks.\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nBest Regards,\r\n\r\nPunyaphat R. (Jee)\r\n\r\nAsst. Manager, IB & OB Document\r\n\r\nTel: +66 2-116-3370 - 75 Ext: 421\r\n\r\nMobile: +66 95-950-8928\r\n\r\nWeb: www.culines.com <http://www.culines.com/>   \r\n\r\n1168/53 20th Floor Lumpini Tower, Rama 4 \r\n\r\nRoad,Thungmahamek, Sathorn, Bangkok 10120\r\n\r\n \r\n\r\nFrom: Ricky Qin/CUL-CN/IT <rickyqin@culines.com> \r\nSent: Monday, March 16, 2026 3:51 PM\r\nTo: Punyaphat/CUL-TH/Outbound <th.punyaphat@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\nCc: ＃CUL TH Outbound DOC <thoutbounddocs@culines.com>; #CUL TH OPS <thops@culines.com>; #CUL TH SH Trade Sales <thshtradesales@culines.com>; Andrew Xu/CUL-TH <andrewxu@culines.com>; Hyde Hong/CUL-TH <hydehong@culines.com>\r\nSu",
+        "sender": "Punyaphat/CUL-TH/Outbound",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=96c479e4203147b6b5e557fc2d4cf2b3-6167801a-b8",
+        "time": "16:56"
+      },
+      "answer": {
+        "text": "Dear Siti,\r\n\r\nAs shown in the screenshot , both highlighted lines meet the conditions, and No. 2 has a higher priority than No. 8, so the system picked No. 2 first.\r\n\r\nIf you want No. 8 to take priority, you can do any of the following:\r\n\r\n1.\t\r\n\tChange the Validity From Date of No. 8 to a later date than No. 2\r\n2.\t\r\n\tAdd one more condition to No. 8, for example Cargo Type\r\n3.\t\r\n\tReorder them so that No. 8 is placed before No. 2\r\n\r\n\r\nAny of these will make No. 8 take higher priority.\r\n\r\n\r\n\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mailto:kieranji@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: Siti Aisha/CUS-SG/LH Trade <sitiaisha@",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8fbb7a6a2da84db4b4b0ad5d4c8ba154-36114fa9-1b",
+        "time": "17:46"
+      },
+      "date": "03-16",
+      "category": "系统问题",
+      "quality_score": 5,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_153",
+      "subject": "RE: <CCT> FREIGHT AGREEMENT -CUL YANGPU 2611N- CUYP2611N- LH-  ETD 21 MAR 2026",
+      "question": {
+        "text": "Dear @#CUL Allegro Support <mailto:allegrosupport@culines.com> \r\n\r\n \r\n\r\nPlease help to check and advise why below WRS tariff for 40RH cannot be captured?\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\nThank you.\r\n\r\n \r\n\r\nBob Wu / 吴梓玮\r\n\r\nLong Haul Trade\r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n200 Cantonment Road #11-01,\r\n\r\nSouthpoint, Singapore 089763\r\n\r\n\r\n\r\n \r\n\r\nFrom: Helen Thai/CUL-VN/Sales <helenthai@culines.com> \r\nSent: Thursday, March 19, 2026 5:46 PM\r\nTo: Bob Wu/CUL-SG/LH Trade <bobwu@culines.com>; Siti Aisha/CUL-SG/LH Trade <sitiaisha@culines.com>; #CUL Long Haul <longhaul@culines.com>\r\nCc: Snider Yu/CUL-VN <snideryu@culines.com>; #CUL HCM Sales <hcmsales@culines.com>; #CUL HCM Export <hcmexp@culines.com>\r\nSubject: RE: <CCT> FREIGHT AGREEMENT -CUL YANGPU 2611N- CUYP2611N- LH- ETD 21 MAR 2026\r\n\r\n \r\n\r\n",
+        "sender": "Bob Wu/CUL-SG/LH Trade",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=493f3ae49ba84c8bb0242c4914d08816-a35b2ee0-93",
+        "time": "17:54"
+      },
+      "answer": {
+        "text": "Dear Ezgi,\r\n\r\nPlease try to delete below setting in special note.\r\nBesides, as I advised before, please auto-rate after SI uploaded to avoid any mistake. Thanks~\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Colleeh Zhou/CUL-CN/AEM Trade <colleehzhou@culines.com>\r\n发送时间: 2026年3月18日 22:12\r\n收件人: Ezgi KUNT ONUK <ezgi@martiz.com>; Kris Cao/CUL-TR <kriscao@culines.com>; Cici Chu/CUL-CN/SH Trade <cicichu@culines.com>; Marketing <marketing@martiz.com>; Sule Mese/CUL-TR/Sales <sule.mese@culines.com>; Özgür ÖZTÜRK <ozgur@martiz.com>; #CUL TR Sales <trsales@culines.com>; #CUL Allegro Support <allegrosu",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "14:47"
+      },
+      "date": "03-19",
+      "category": "系统问题",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_154",
+      "subject": "RE: ExxonMobil Quotation - Q2 2026",
+      "question": {
+        "text": "Dear @Darico Dai/CUL-UAE <mailto:daricodai@culines.com> \r\n\r\nGood Day!\r\n\r\n \r\n\r\nNoted and thanks for below mail, shall proceed accordingly.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\nAs Agents Only |  <http://www.sharafshippingksa.com/wp-content/uploads/2019/01/SSA_KSA_Standard_Trading_Conditions_Issued.pdf> SUBJECT TO OUR STANDARD TRADING TERMS AND CONDITIONS <http://www.sharafshippingksa.com/wp-content/uploads/2019/01/SSA_KSA_Standard_Trading_Conditions_Issued.pdf> \r\n\r\n \r\n\r\nFrom: Darico Dai/CUL-UAE <daricodai@culines.com> \r\nSent: Thursday, March 19, 2026 12:13 PM\r\nTo: Docs.cul – SSA JED <docs.cul@ssajeddah.com>; Ricky Qin/CUL-CN/IT <rickyqin@culines.com>; Siti Aisha/CUL-SG/LH Trade <sitiaisha@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>\r\nCc: Bo",
+        "sender": "Docs.cul – SSA JED",
+        "sender_email": "docs.cul@ssajeddah.com",
+        "time": "17:23"
+      },
+      "answer": {
+        "text": "Dear Ezgi,\r\n\r\nPlease try to delete below setting in special note. Thanks~\r\n\r\n\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mailto:joanneding@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n________________________________\r\n\r\n发件人: Colleeh Zhou/CUL-CN/AEM Trade <colleehzhou@culines.com>\r\n已发送: 2026 年 3 月 18 日 星期三 22:15\r\n收件人: Ezgi KUNT ONUK <ezgi@martiz.com>; Özgür ÖZTÜRK <ozgur@martiz.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\n抄送: Kris Cao/CUL-TR <kriscao@culines.com>; Marketing <marketing@martiz.com>; #CUL AEM Trade <AEMTRADE@culines.com>; #CUL TR Sales <trsales@culines.com>\r\n主题: 回复: FREIGHT AGREEMENT APPROVAL A26Q34882 - YONCA - ADEN \r\n\r\nDear Allegro team,\r\n    Please help assist, t",
+        "responder": "Joanne Ding/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fd4d36cf6670465d945696f4b09d8509-eed2ba89-38",
+        "time": "14:07"
+      },
+      "date": "03-19",
+      "category": "系统问题",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    },
+    {
+      "id": "qa_188",
+      "subject": "RE: Allegro System – Customer Code Consolidation",
+      "question": {
+        "text": "Ricky Hi,\r\n\r\nWe tried it already.\r\nBest solution is removing duplicates for us. Cause, other offices choose different code everytime.\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nEzgiSahin 丨CS&DOC Department\r\n\r\n \r\n\r\nChina United Lines Ltd.\r\n\r\nOffice: 0501 564 3488\r\n\r\nEmail：ezgi.sahin@culines.com <mailto:ezgi.sahin@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nFrom: Ricky Qin/CUL-CN/IT <rickyqin@culines.com> \r\nSent: 7 Nisan 2026 Salı 06:52\r\nTo: Ezgi Sahin/CUL-TR/DOC &CS <ezgi.sahin@culines.com>; Joanne Ding/CUL-CN/IT <joanneding@culines.com>\r\nCc: Lanvee Sun/CUL-TR <lanveesun@culines.com>; #CUL TR CUS <trcus@culines.com>; #CUL TR Sales <trsales@culines.com>; Suki Xie/CUL-NAS/DOC <sukixie@culines.com>; #CUL Allegro Support <allegrosupport@culines.com>\r\nSubject: 回复: All",
+        "sender": "Ezgi Sahin/CUL-TR/DOC &CS",
+        "sender_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=97728fe16bd74d99b98a2f1a4e4d767c-e4904b53-78",
+        "time": "13:40"
+      },
+      "answer": {
+        "text": "Dear Siraj,\r\n\r\nPlease try again, should be in order now, thanks!\r\n\r\n\r\nKind regards,\r\n\r\n \r\n\r\nKieran Ji / 季胤喆\r\n\r\nSystem Engineer\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-17701880547 <tel:+14707390496> \r\n\r\nE-mail: kieranji@culines.com <mailto:kieranji@culines.com> \r\n\r\nWeb: www.culines.com <http://www.culines.com/> \r\n\r\n\r\n\r\n \r\n\r\nFrom: Siraj - National Shipping <siraj@nationaldubai.ae>\r\nDate: Tuesday, March 31, 2026 at 16:51\r\nTo: Sean Wang/CUL-CN/Agency Mgt <seanwang@culines.com>, Boris Yang/CUL-CN/CS <borisyang@culines.com>, Anakha Arun/CUL-West Asia <anakhaarun@culines.com>, CUL West Asia Trade <wat@culines.com>, Hardy Hou/CUL-West Asia <hardyhou@culines.com>, #CUL Long Haul <longhaul@culines.com>, Wanyu,Toh/CUL-SG/LH Trade <wanyutoh@culines.com>, Laveena <laveena@nationaldubai.ae>, kamran@na",
+        "responder": "Kieran Ji/CUL-CN/IT",
+        "responder_email": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=8fbb7a6a2da84db4b4b0ad5d4c8ba154-36114fa9-1b",
+        "time": "12:15"
+      },
+      "date": "04-07",
+      "category": "系统问题",
+      "quality_score": 7,
+      "matched_keywords": 1,
+      "quality_reasons": [
+        "非IT同事回复"
+      ],
+      "verified": false
+    }
+  ]
+}

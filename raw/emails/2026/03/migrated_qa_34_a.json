@@ -1,0 +1,31 @@
+{
+  "id": "migrated_qa_34_a",
+  "conversationId": "thread_qa_34",
+  "internetMessageId": "<migrated-qa_34-a@allegro-support>",
+  "subject": "Re: /o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc",
+  "sender": {
+    "emailAddress": {
+      "name": "Joanne Ding/CUL-CN/IT",
+      "address": "responder_qa_34@culines.com"
+    }
+  },
+  "toRecipients": [
+    {
+      "emailAddress": {
+        "name": "Chris Xiao/CUL-NAS/DOC",
+        "address": "/o=exchangelabs/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=69906320e1f844f5b59f80a522d508b4-da0634f6-dc"
+      }
+    }
+  ],
+  "ccRecipients": [],
+  "receivedDateTime": "2026-03-11T22:49:00Z",
+  "sentDateTime": "2026-03-11T22:49:00Z",
+  "body": {
+    "contentType": "text",
+    "content": "Hi Chris,\r\n\r\n收悉，已请裕秀帮忙调整，多谢！\r\n\r\n\r\nJoanne Ding / 丁佳莹\r\n\r\nDigital & IT Department\r\n\r\nMobile: +86-13417033072\r\n\r\nE-mail: joanneding@culines.com <mail\n\r\nWeb: www.culines.com <http://www.culines.com> \r\n\r\n\r\n\r\n\r\n\r\n\r\n\n发送时间: 2026年3月10日 11:16\r\n\n主题: 回复: Weekly Report, Ricky Qin - Turkey business trip / Week 47 \r\n \r\n\r\nDear 小丁姐\r\n\r\n \r\n\r\n我们对POD/DEL 国家为Turkey的提单进行了测试，请见黄色部分测试结果：\r\n\r\n \r\n\r\nb. If POD or DEL belongs to Turkey"
+  },
+  "hasAttachments": false,
+  "importance": "normal",
+  "_migrated_from_qa_id": "qa_34",
+  "_migrated_at": "2026-04-07T11:52:48Z"
+}
