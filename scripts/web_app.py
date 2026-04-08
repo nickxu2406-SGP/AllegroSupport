@@ -18,6 +18,7 @@ if sys.platform == 'win32':
 
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.responses import HTMLResponse, JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 # ============================================================
@@ -154,6 +155,15 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# 添加 CORS 支持
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 kb: Optional[SimpleKnowledgeBase] = None
 
 
@@ -162,7 +172,11 @@ def get_kb() -> SimpleKnowledgeBase:
     if kb is None:
         print("[初始化] 加载知识库...")
         script_dir = Path(__file__).parent
-        json_file = script_dir.parent / "data" / "qa_pairs.json"
+        # 优先加载优化后的数据（147条，已审核45条）
+        json_file = script_dir.parent / "data_180days_optimized" / "qa_pairs_optimized.json"
+        if not json_file.exists():
+            # 回退到旧数据
+            json_file = script_dir.parent / "data" / "qa_pairs.json"
         kb = SimpleKnowledgeBase(str(json_file))
         print(f"[完成] 知识库加载完成，共 {len(kb.qa_pairs)} 个问答对")
     return kb
@@ -180,7 +194,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AllegroSupport 知识库</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>AllegroSupport 知识库 v1.2</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -331,10 +348,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 <select class="filter-select" id="category">
                     <option value="">全部</option>
                     <option value="订舱操作">订舱操作</option>
-                    <option value="报关操作">报关操作</option>
                     <option value="提单操作">提单操作</option>
-                    <option value="数据修改">数据修改</option>
+                    <option value="费用相关">费用相关</option>
+                    <option value="报关操作">报关操作</option>
                     <option value="系统问题">系统问题</option>
+                    <option value="权限申请">权限申请</option>
                     <option value="其他">其他</option>
                 </select>
                 <span class="filter-label">返回数量：</span>
@@ -394,6 +412,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             const bookingPriority = document.getElementById('bookingPriority').checked;
             document.getElementById('results').innerHTML = '<div class="loading">搜索中...</div>';
             try {
+                console.log('发送搜索请求:', query);
                 const r = await fetch('/api/search', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
@@ -404,11 +423,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                         booking_priority: bookingPriority
                     })
                 });
+                console.log('响应状态:', r.status);
+                if (!r.ok) {
+                    throw new Error('HTTP ' + r.status + ': ' + r.statusText);
+                }
                 const d = await r.json();
+                console.log('搜索结果:', d);
                 renderResults(d);
             } catch (e) {
+                console.error('搜索错误:', e);
                 document.getElementById('results').innerHTML =
-                    '<div class="no-results"><p>搜索失败，请检查服务是否运行</p></div>';
+                    '<div class="no-results"><p>搜索失败: ' + e.message + '</p></div>';
             }
         }
 
@@ -427,13 +452,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 html += `
                     <div class="result-item">
                         <div class="result-header">
-                            <span class="result-category">${item.metadata.category}</span>
+                            <span class="result-category">${item.category}</span>
                             <span class="result-similarity">匹配度: ${sim}</span>
                         </div>
-                        <div class="result-subject">${item.metadata.subject}</div>
+                        <div class="result-subject">${item.subject}</div>
                         <div class="result-content">${content.replace(/\\n/g, '<br>')}</div>
                         <div class="result-meta">
-                            提问人: ${item.metadata.question_sender} | 回复人: ${item.metadata.answer_responder}
+                            提问人: ${item.question_sender} | 回复人: ${item.answer_responder}
                         </div>
                     </div>`;
             });
@@ -449,7 +474,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
 @app.get("/", response_class=HTMLResponse)
 async def root():
-    return HTML_TEMPLATE
+    return HTMLResponse(content=HTML_TEMPLATE, headers={
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0"
+    })
 
 
 @app.get("/api/stats")
